@@ -118,7 +118,7 @@ Kenapa _almost_? Karena sebenarnya saya tumbuh tidak dikelilingi oleh _native sp
 
 Waktu awal belajar bahasa Inggris di SD, saya malas. Dari pada hafal-menghafal, saya ubah saja seluruh _interface_ _handphone_ ke dalam bahasa Inggris. Saya memperbanyak main _game_ The Sims, Age of Empires, dan Rollercoaster Tycoon. Masuk SMP, _demam Jejepangan_ datang, saya membaca manga dan menonton anime selalu dalam terjemahan bahasa Inggris-nya (lumayan kan, sekalian belajar Nihongo juga, haha). Ditambah pula dengan baca novel dan nonton film-film Harry Potter. Pasif sekali belajarnya. Tapi dilakukan hampir di setiap waktu luang.
 
-Suatu ketika di SMP, saya punya tugas menulis essay pendek berbahasa Inggris. Essay saya hampir disangka hasil menyontek karena katanya sudah ekspresif sakli, pakai _vocabulary_ macam-macam. Untungnya, masih ada salah grammar di sana-sini, sehingga guru tidak memvonis sepihak. Saat itu, saya baru sadar bahwa belajar bahas Inggris ini tidak bisa pasif saja kalau ingin maju. Harus aktif (menulis dan berbicara) serta suatu saat nanti berani ngambil tes.
+Suatu ketika di SMP, saya punya tugas menulis essay pendek berbahasa Inggris. Essay saya hampir disangka hasil menyontek karena katanya sudah ekspresif sekali, pakai _vocabulary_ macam-macam. Untungnya, masih ada salah grammar di sana-sini, sehingga guru tidak memvonis sepihak. Saat itu, saya baru sadar bahwa belajar bahas Inggris ini tidak bisa pasif saja kalau ingin maju. Harus aktif (menulis dan berbicara) serta suatu saat nanti berani ngambil tes.
 
 Kemudian saya mulai banyak menulis. Nulis di diary! 😂
 
@@ -341,7 +341,7 @@ Singkatnya: baca paragraf per paragraf atau ide per ide, kemudian langsung jawab
 ![](ielts-writing.png)
 _Kelakuan test-takers…_
 
-Wah inim nih, komponen tes yang paling butuh bantuan orang lain untuk bisa _improve_. Namun, bukan berarti kita tidak bisa memulai latihan Writing kalau belum punya tutor/mentor IELTS. Ini _steps_ yang bisa kita usahakan (tak harus berurut).
+Wah ini nih, komponen tes yang paling butuh bantuan orang lain untuk bisa _improve_. Namun, bukan berarti kita tidak bisa memulai latihan Writing kalau belum punya tutor/mentor IELTS. Ini _steps_ yang bisa kita usahakan (tak harus berurut).
 
 1.  Biasakan menulis untuk mengeluarkan isi pikiran. Ini penting karena nanti waktu kita sangat terbatas. Ada 2 tugas yang harus dibereskan dalam 60 menit. Ditambah lagi ada minimal jumlah kata yang harus dipenuhi.  
     Mulai dari hal sesederhana melaporkan kegiatan kita sehari-hari. Tidak perlu memikirkan bagaimana konten atau tata bahasanya, cukup kejar batas minimum kata/karakter yang kita targetkan.  
