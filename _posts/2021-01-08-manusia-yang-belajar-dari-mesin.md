@@ -5,7 +5,7 @@ author      : "Ilma Aliya Fiddien"
 title       : "Manusia Yang Belajar Dari Mesin"
 tags        : ["pembelajaran mesin", "manusia", "belajar"]
 categories  : ["Essay"]
-cover       : "https://images.unsplash.com/photo-1534250181471-a453fae2231d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80#center"
+cover       : ""
 ---
 
 Mesin yang belajar, *learning machine, machine learning*,  bisa jadi mengambil inspirasinya dari bagaimana manusia belajar. Machine learning telah merevolusi cara berpikir matematikawan, saintis, dan teknokrat. Bagi masyarakat umum, teknologi ini bisa jadi terlihat seperti *magic*. Kini, apakah manusia bisa mengambil hikmah-hikmah dari algoritma yang mereka ciptakan sendiri? Mari kita selidiki bagaimana mesin belajar, kemudian kita refleksikan dengan cara belajar manusia.
