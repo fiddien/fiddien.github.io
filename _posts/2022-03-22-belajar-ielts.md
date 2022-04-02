@@ -1,11 +1,10 @@
 ---
 draft       : false
-date        : 2021-07-08T15:00:00+07:00
+date        : 2022-03-22T15:00:00+07:00
 author      : "Ilma Aliya Fiddien"
 title       : "Belajar IELTS: Alasan, Strategi, dan Bahan Belajar | An Immersive Approach"
 tags        : ["pembelajaran mesin", "manusia", "belajar"]
 categories  : ["Essay"]
-cover       : ""
 ---
 
 Hai, kamu! Ingin daftar beasiswa? Apply S2 atau S3? Bergelut dengan pendaftaran Visa? Selamat berjuang!
