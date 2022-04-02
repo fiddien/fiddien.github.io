@@ -1,5 +1,5 @@
 ---
 layout: projects
 title: Projects
-order: 0
+order: 1
 ---

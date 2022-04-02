@@ -1,7 +1,7 @@
 ---
 title: About
 icon: fas fa-info-circle
-order: 4
+order: 5
 ---
 
 This is Ilma. I’m a human and a full-time learner. One side of me is that I am a Muslimah 🧕 with mathematics training from Institut Teknologi Bandung 🆔. Another side of me is that I’m a persistent believer of the uniqueness and complexity of each one of us. No person can be described so simply like I just did in a few sentences before.
