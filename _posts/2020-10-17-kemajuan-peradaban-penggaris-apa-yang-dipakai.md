@@ -20,7 +20,7 @@ image      :
 
 >_Tujuan bersama Asrama Mengembara 2.0 ini adalah pergi ke destinasi kita, yaitu Seoul, Korea Selatan. Selain itu, carilah alasan pribadi kalian masing-masing._
 
-Kurang lebih itulah kata-kata yang terus diulang-ulang selama sembilan bulan keberjalanan program [Asrama Mengembara 2.0 Goes to Seoul](posts/menjaga-memori-mengembara). Aku pun dengan patuh menuruti. Pada akhirnya, salah satu yang aku cari adalah jawaban dari pertanyaan-pertanyaan yang cukup klasik mengenai tempat tujuan kami, Seoul, Korea Selatan–Korsel. Mungkin teman-temanku juga menaruh rasa penasaran yang sama.
+Kurang lebih itulah kata-kata yang terus diulang-ulang selama sembilan bulan keberjalanan program [Asrama Mengembara 2.0 Goes to Seoul](/posts/menjaga-memori-mengembara). Aku pun dengan patuh menuruti. Pada akhirnya, salah satu yang aku cari adalah jawaban dari pertanyaan-pertanyaan yang cukup klasik mengenai tempat tujuan kami, Seoul, Korea Selatan–Korsel. Mungkin teman-temanku juga menaruh rasa penasaran yang sama.
 
 _Bagaiman Korsel dapat berkembang begitu pesat? Mengapa negara ini dikatakan sebagai salah satu negara yang paling maju di dunia? Indonesia dan Korsel merdeka di waktu yang berdekatan, tapi mengapa Korsel terlihat jauh lebih maju?_
 
