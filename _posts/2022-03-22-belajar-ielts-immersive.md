@@ -1,7 +1,7 @@
 ---
 title      : "Belajar IELTS: Alasan, Strategi, dan Bahan | An Immersive Approach"
 date       : 2022-03-22 17:34 +07
-categories : 
+categories : [Knowledge Seeking]
 tags       : [ielts, study abroad]
 author     : # <author_id>
 
