@@ -93,8 +93,8 @@ layout: page
 
   
   <div class="post-cover">
-    {% if post.cover != null and post.cover != "" %}
-    <img src="{{ post.cover }}" alt="{{ post.title }}" loading=lazy>
+    {% if post.image.src != null and post.image.src != "" %}
+    <img src="{{ post.image.src }}" alt="{{ post.title }}" loading=lazy>
     {% endif %}
   </div>
   

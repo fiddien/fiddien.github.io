@@ -32,10 +32,10 @@ description: >-                        # used by seo meta and the atom feed
 url: 'https://ilmaaliyaf.github.io'
 
 github:
-  username: ilmaaliyaf             # change to your github username
+  username: ilmaaliyaf
 
 twitter:
-  username: ilmaaliyaf            # change to your twitter username
+  username: ilmaaliyaf
 
 social:
   # Change to your full name.
@@ -44,11 +44,10 @@ social:
   email: ilmaaliyaf@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/ilmaaliyaf      # change to your twitter homepage
-    - https://github.com/ilmaaliyaf       # change to your github homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
+    - https://github.com/ilmaaliyaf
+    - https://twitter.com/ilmaaliyaf
     - https://www.linkedin.com/in/ilmaaliyaf
+    - https://goodreads.com/ilmaaliyaf
 
 google_site_verification:               # fill in to your verification string
 
