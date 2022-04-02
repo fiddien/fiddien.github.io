@@ -1,5 +1,5 @@
 ---
-title      : Clearing the mind? Write!
+title      : Need clarity of mind? Write!
 date       : 2020-05-30 08:46 +07
 categories : Personal
 tags       : [writing, essentialism]

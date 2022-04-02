@@ -6,7 +6,7 @@ tags       : [wisdom]
 
 pin        : false
 toc        : false
-comments   : true
+comments   : false
 math       : false
 mermaid    : false
 

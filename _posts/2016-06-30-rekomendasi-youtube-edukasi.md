@@ -1,13 +1,13 @@
 ---
 title      : Rekomendasi Channel Youtube Buat Para Knowledge-Junkies
 date       : 2016-06-30
-categories : [Seeking Knowledge]
+categories : [Knowledge Seeking]
 tags       : [youtube, recommendation, science, history]
 author     : # <author_id>
 
 pin        : false
 toc        : true
-comments   : true
+comments   : false
 math       : false
 mermaid    : false
 
