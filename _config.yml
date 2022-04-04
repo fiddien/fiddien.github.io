@@ -136,6 +136,10 @@ collections:
   projects:
     output: true
     sort_by: order
+  poems:
+    output: true
+    sort_by: title
+collections_dir: contents
 
 defaults:
   - scope:
@@ -143,10 +147,8 @@ defaults:
       type: posts
     values:
       layout: post
-      comments: true    # Enable comments in posts.
-      toc: true         # Display TOC column in posts.
-      # DO NOT modify the following parameter unless you are confident enough
-      # to update the code of all other post links in this project.
+      comments: true
+      toc: true
       permalink: /posts/:title/
   - scope:
       path: _drafts
@@ -172,6 +174,13 @@ defaults:
     values:
       layout: page
       permalink: /:title/
+      comments: false
+  - scope:
+      path: ''
+      type: poems
+    values:
+      layout: poem
+      permalink: /poems/:title/
 
 sass:
   style: compressed

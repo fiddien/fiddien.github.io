@@ -1,3 +1,8 @@
+---
+title       : Berhenti Saja
+date        : 2021-01-31
+---
+
 Setiap ide selalu ingin memulai
 
 Ide ingin mengejawantahkan dirinya menjadi materi

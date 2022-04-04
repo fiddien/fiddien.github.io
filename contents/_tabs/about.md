@@ -1,7 +1,7 @@
 ---
 title: About
 icon: fas fa-info-circle
-order: 5
+order: 0
 ---
 
 This is Ilma Aliya Fiddien. I’m a human and a full-time learner. One side of me is that I am a Muslimah 🧕 with mathematics training from Institut Teknologi Bandung 🇮🇩. The other side is that I’m a persistent believer of the uniqueness and complexity of each one of us. No person can be described so simply like I just did in a few sentences before.
