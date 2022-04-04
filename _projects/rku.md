@@ -24,7 +24,7 @@ Finally, Purpose is our existential "why". *For what are we living here and now?
 
 This RKU Template will help clarify our Vision.
 
-> Clear vision → Clear actions → Clear life: Vision met Missions -> fulfillment of Purpose
+> Clear vision → Clear actions → Clear life: Vision meet Mission → fulfillment of Purpose
 {: .prompt-tip }
 
 With RKU, we live more optimistic, because we crack big tasks into smaller ones, making each piece of success more reachable.

@@ -95,4 +95,4 @@ Aku harus belajar lagi untuk melanjutkan topik ini.
 
 [^1]: Kwon, Jin-Won, Heeran Chun, and Sung-Il Cho. “A Closer Look at the Increase in Suicide Rates in South Korea from 1986–2005.” *BMC Public Health*, 2009, 72.
 
-[^2]: [Ilamicity Index 2018](http://islamicity-index.org/wp/latest-indices-2018/)
+[^2]: [Islamicity Index 2018](http://islamicity-index.org/wp/latest-indices-2018/)

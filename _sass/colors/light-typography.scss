@@ -51,6 +51,7 @@
   --pin-color: #999fa4;
 
   /* Posts */
+  --toc-highlight: #1ca19b;
   --btn-share-hover-color: var(--link-color);
   --card-border-color: #f1f1f1;
   --card-box-shadow: rgba(234, 234, 234, 0.7686274509803922);
@@ -80,6 +81,16 @@
 
   [class^=prompt-] {
     --link-underline-color: rgb(219 216 216);
+  }
+
+  /* posts' toc, override BS */
+  nav[data-toggle=toc] .nav-link.active,
+  nav[data-toggle=toc] .nav-link.active:focus,
+  nav[data-toggle=toc] .nav-link.active:hover,
+  nav[data-toggle=toc] .nav > li > a:focus,
+  nav[data-toggle=toc] .nav > li > a:hover {
+    color: var(--toc-highlight) !important;
+    border-left-color: var(--toc-highlight) !important;
   }
 
   /* Categories */

@@ -96,6 +96,7 @@ img {
 blockquote {
   border-left: 5px solid var(--blockquote-border-color);
   padding-left: 1rem;
+  font-size: 120%;
   color: var(--blockquote-text-color);
 
   &[class^="prompt-"] {
@@ -104,6 +105,7 @@ blockquote {
     border-radius: 6px;
     padding: 0.75rem 1.2rem;
     color: var(--prompt-text-color);
+    font-size: 100%;
 
     &::before {
       margin-right: 1rem;
@@ -263,8 +265,8 @@ img[data-src] {
     margin: 0 0.35rem 0.5rem 0;
 
     &:hover {
-      background-color: #2a408e;
-      border-color: #2a408e;
+      background-color: #1ca19b;
+      border-color: #1ca19b;
       color: #fff;
       transition: none;
     }
@@ -541,7 +543,7 @@ img[data-src] {
 
     border-bottom: none;
     text-decoration: none;
-    color: #d2603a;
+    color: #1ca19b;
   }
 }
 

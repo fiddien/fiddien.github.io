@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/_post_template.md",
+            "file": "_projects/rku.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/_post_template.md",
+                "file": "_projects/rku.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "164a26572222beb2",
   "lastOpenFiles": [
-    "_posts/_post_template.md",
+    "_projects/rku.md",
+    "_poems/berhenti-saja.md",
+    "_posts/2021-01-31-3-pelajaran-dari-the-simple-guide-to-a-minimalist-life.md",
+    "_posts/_2020-08-18-gagasan-dan-kesempatan.md",
+    "_posts/_2020-10-24-menjelajahi-gamais-itb.md",
     "_tabs/about.md",
+    "_posts/_post_template.md",
     "_tabs/tags.md",
     "_tabs/categories.md",
-    "_tabs/archives.md",
-    "_projects/rancangan-kontribusi-unggulan.md",
-    "_posts/2022-03-22-belajar-ielts-immersive.md",
-    "_posts/2016-06-30-rekomendasi-youtube-edukasi.md",
-    "_posts/2020-10-17-kemajuan-peradaban-penggaris-apa-yang-dipakai.md",
-    "_posts/2020-10-15-menjaga-memori-mengembara.md"
+    "_tabs/archives.md"
   ]
 }
