@@ -8,7 +8,9 @@ This is Ilma Aliya Fiddien. I’m a human and a full-time learner. One side of m
 
 ---
 
-> _“Deep in the human unconscious is a pervasive need for a logical universe that makes sense. But the real universe is always one step beyond logic.”_ -Frank Herbert, _Dune_
+> _“Deep in the human unconscious is a pervasive need for a logical universe that makes sense. But the real universe is always one step beyond logic.”_ 
+>
+> --Frank Herbert, _Dune_
 
 The notion of “understanding the underlying principle of intelligence” fascinates me. I want to dig deep into the why, how, and what is intelligence.
 

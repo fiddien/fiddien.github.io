@@ -718,7 +718,7 @@ $sidebar-display: "sidebar-display";
     line-height: 1.2rem;
     word-spacing: 1px;
     margin: 0.5rem 1.5rem 0.5rem 1.5rem;
-    min-height: 3rem; /* avoid vertical shifting in multi-line words */
+    min-height: 2.5rem; /* avoid vertical shifting in multi-line words */
     user-select: none;
   }
 
@@ -805,7 +805,7 @@ $sidebar-display: "sidebar-display";
   } /* ul */
 
   .sidebar-bottom {
-    margin-bottom: 2.1rem;
+    margin-bottom: 1.5rem;
 
     @include ml-mr(auto);
     @include pl-pr(1rem);

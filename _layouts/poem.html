@@ -26,12 +26,12 @@ pannel_includes:
       {% endif %}>
 {% endif %}
 
-<h1 data-toc-skip>{{ page.title }}</h1>
+<h1 data-toc-skip style="text-align: center;">{{ page.title }}</h1>
 
 <div class="post-meta text-muted">
 
   <!-- author -->
-  <div>
+  <div style="text-align: center;">
     {% capture author_name %}{{ site.data.authors[page.author].name | default: site.social.name }}{% endcapture %}
     {% assign author_link = nil %}
 
@@ -50,19 +50,20 @@ pannel_includes:
       {% endif %}
     </em>
   </div>
-
-  <div class="d-flex">
-    <div>
-      <!-- published date -->
-      <span>
-        {{ site.data.locales[lang].post.posted }}
-        {% include timeago.html date=page.date tooltip=true %}
-      </span>
-    </div>
-  </div> <!-- .d-flex -->
-
 </div> <!-- .post-meta -->
 
-<div class="post-content">
+<div class="post-content" style="text-align: center;">
   {{ content }}
+</div>
+
+<div class="post-meta text-muted">
+    <div class="d-flex">
+        <div>
+        <!-- published date -->
+        <span>
+            {{ site.data.locales[lang].post.posted }}
+            {% include timeago.html date=page.date tooltip=true %}
+        </span>
+        </div>
+    </div> <!-- .d-flex -->
 </div>

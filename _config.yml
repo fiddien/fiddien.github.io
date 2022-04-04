@@ -173,7 +173,7 @@ defaults:
       type: projects
     values:
       layout: page
-      permalink: /:title/
+      permalink: /projects/:title/
       comments: false
   - scope:
       path: ''
