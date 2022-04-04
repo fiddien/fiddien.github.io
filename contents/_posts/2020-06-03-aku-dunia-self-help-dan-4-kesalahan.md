@@ -11,7 +11,7 @@ math       : false
 mermaid    : false
 
 image      :
-  src      : /assets/img/2020/self-help.webp
+  src      : /assets/img/2020/self-help_.webp
   width    : 
   height   : 
   alt      : 

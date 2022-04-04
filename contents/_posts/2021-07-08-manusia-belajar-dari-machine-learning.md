@@ -12,7 +12,7 @@ mermaid    : false
 
 img_path   : /assets/img/2021/
 image      :
-  src      : /assets/img/2021/human-machine2.webp
+  src      : /assets/img/2021/human-machine2_.webp
 ---
 
 Mesin yang belajar, _learning machine, machine learning_, bisa jadi mengambil inspirasinya dari bagaimana manusia belajar. Machine learning telah merevolusi cara berpikir matematikawan, saintis, dan teknokrat. Bagi masyarakat umum, teknologi ini bisa jadi terlihat seperti _magic_. Kini, apakah manusia bisa mengambil hikmah-hikmah dari algoritma yang mereka ciptakan sendiri? Mari kita selidiki bagaimana mesin belajar, kemudian kita refleksikan dengan cara belajar manusia.

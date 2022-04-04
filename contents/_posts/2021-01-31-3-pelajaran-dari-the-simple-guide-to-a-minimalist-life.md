@@ -11,7 +11,7 @@ math       : false
 mermaid    : false
 
 image      :
-  src      : /assets/img/2021/minimalist.jfif
+  src      : /assets/img/2021/minimalist_.webp
   width    : 
   height   : 
   alt      : 

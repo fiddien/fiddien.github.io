@@ -11,7 +11,7 @@ math       : false
 mermaid    : false
 
 image      :
-  src      : /assets/img/2021/spiritualitas.webp
+  src      : /assets/img/2021/spiritualitas_.webp
 ---
 
 ### Rasionalitas yang tidak bisa berdiri sendiri

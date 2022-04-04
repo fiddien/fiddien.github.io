@@ -11,7 +11,7 @@ math       : false
 mermaid    : false
 
 image      :
-  src      : /assets/img/2021/science-value.webp
+  src      : /assets/img/2021/science-value_.webp
 ---
 
 Perdebatan mengenai apakah harusnya sains itu bebas-nilai atau terikat-nilai telah berlangsung semenjak munculnya perbedaan kultural yang mencolok di pada tahun 1930-an dan 1940-an. Pada saat itu, para filsuf mencoba merumuskan bagaimana suatu sains itu dijustifikasi hanya dengan akal dan bukti empiris saja. Lalu pada tahun 1950-an dan 1960-an, beberapa filsuf menunjukkan bahwa para ilmuan memerlukan panduan lebih dalam menentukan pilihan dalam meneliti–_theory of choice_–dengan hanya menggunakan logika akal dan bukti empiris. Nilai epistemis menjadi istilah yang diakui dapat memandu sains dalam _theory of choice_. Pada tahun 1980, “sains bebas-nilai” memiliki makna bahwa sains itu bebas sama sekali dari nilai non-epistemis. [^1]

@@ -11,7 +11,7 @@ math       : false
 mermaid    : false
 
 image      :
-  src      : /assets/img/2020/houseof3.jpeg
+  src      : /assets/img/2020/houseof3_.webp
   width    : 
   height   : 
   alt      : 

@@ -13,7 +13,7 @@ mermaid    : false
 
 img_path   : /assets/img/2016/
 image      :
-  src      : /assets/img/2016/knowledge-junkie.jpg
+  src      : /assets/img/2016/knowledge-junkie_.webp
   width    : 1000
   height   : 400
   alt: image alternative text

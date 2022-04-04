@@ -1,5 +1,5 @@
 ---
-title      : "Belajar IELTS: Alasan, Strategi, dan Bahan | An Immersive Approach"
+title      : "Belajar IELTS: Alasan, Strategi, dan Tips | An Immersive Approach"
 date       : 2022-03-22 17:34 +07
 categories : [Knowledge Seeking]
 tags       : [ielts, study abroad]
@@ -13,7 +13,7 @@ mermaid    : false
 
 img_path   : /assets/img/2022/
 image      :
-  src      : /assets/img/2022/ielts-idp.jpg
+  src      : /assets/img/2022/ielts-idp_.webp
 ---
 
 
@@ -29,7 +29,7 @@ Mari siapkan teh atau kopimu, karena di sini saya ingin berbagi tentang pola pik
 ![](ielts-focus.png)
 Notifikasi sehari-hari mendekati hari-H IELTS.
 
-## Mengapa tes Bahasa Inggris?
+## 💬 Mengapa tes Bahasa Inggris?
 
 Pernah membayangkan diri bisa menjadi anggota masyarakat lokal yang bahagia, sekaligus anggota masyarakat global yang berwawasan luas?
 
@@ -43,7 +43,7 @@ Saat itu, saya berada di tingkat 2 kuliah dan mulai terpikirkan untuk lanjut stu
 
 Dengan itu, ada beberapa pilihan.
 
-### IELTS atau TOEFL?
+### 🇬🇧 IELTS atau 🇺🇸 TOEFL?
 
 Untuk kasus saya, kesempatan yang kebetulan terbuka adalah belajar IELTS. Ada dekat programnya, ada teman belajarnya. Ya sudah, itulah yang dipelajari. Namun, baiknya kita bertanya dari awal, kenapa harus IELTS?
 
@@ -73,7 +73,7 @@ Silakan teliti kebutuhanmu dan pertimbangkan.
 
 Suatu titik, karena saya sudah mantap menargetkan lanjut kuliah ke Inggris atau negara-negara persemakmurannya, maka saya mengutamakan IELTS. Ya, dengan begitu tulisan ini akan bicara tentang IELTS. 💪
 
-## Apa memang harus belajar dari sekarang?
+## 🤔 Apa memang harus belajar dari sekarang?
 
 Iya.
 
@@ -110,7 +110,7 @@ Saya yakin ini adalah hasil belajar _by immersion_ selama bertahun-tahun.
 ![](ielts-immersion.png)
 _from Cambridge Dictionary_
 
-### Learning by immersion (almost)
+### 🌈 Learning by immersion (almost)
 
 Siapa yang ngasih tahu caranya? Gak tahu. Natural aja. Memang itulah cara kita belajar bahasa ibu kita, bukan?
 
@@ -136,7 +136,7 @@ Jadi, kalaukamu masih punya banyak waktu seperti saya di jaman dulu, belajar dar
 
 Apalagi punya target, pasti bisa akselerasi. Saya dulu tidak ada target spesifik tentang bahasa Inggris, jadi ya berkembangya juga agak _alon-alon_.
 
-## Mengetahui kemampuanmu
+## 💯 Mengetahui kemampuanmu
 
 Salah satu cara terbaik untuk memulai belajar adalah mengukur kemampuan kita menggunakan _mock test_ atau tes simulasi. Ujian bahasa yang gratis atau harga bersahabat sudah marak diselenggarakan di berbagai tempat. Kita bisa mulai cek lembaga kebahasaan di universitas terdekat. Biasanya mereka suka mengadakan tes simulasi IELTS.
 
@@ -152,7 +152,7 @@ _Sangat melukiskan kondisi._
 
 Oke, kita sudah punya gambaran skor keseluruhan atau _overall band_. Saatnya pasang target!
 
-## Memasang target
+## 🎯 Memasang target
 
 Sebesar apa kenaikan skor IELTS yang realistis?
 
@@ -190,7 +190,7 @@ Akhirnya, saya mengambil tes IELTS pada bulan Februari 2022 di IDP Bandung. Dala
 
 _Alhamdulillah alhamdulillah alhamdulillah,_ atas izin Allah SWT saya diberi hasil yang mirip dengan _Best target_!
 
-## Kenali apa yang dinilai dan cara menilainya
+## 🙋‍♂️ Kenali apa yang dinilai dan cara menilainya
 
 Oke, bisa jadi kita cukup kaget dengan format IELTS ketika pertama kali ambil ujian simulasi.
 
@@ -222,7 +222,7 @@ Kalau agenda belajarnya mandiri dan ingin terukur, kita harus benar-benar **mema
 
 Tenang, setelah ini ada banyak _resources_ yang bisa membantu kita memahami Band Descriptors_._
 
-## Buat rencana belajar
+## 📅 Buat rencana belajar
 
 Oke, bagian sini sebenarnya bisa di_skip_ kalau kita mendaftar dan sepenuhnya memercayakan lembaga les. Tapi ini **pentingpentingpenting** sekali bagi kita yang mau belajarnya mandiri. Tanpa membuat rencana belajar, atau bahkan tiadanya kurikulum belajar, target menaikkan skor IELTS hanyalah angan semata.
 
@@ -263,7 +263,7 @@ Saat itu saya ada beberapa kerjaan _part-time_, jadi agak sedikit luang. Tiap ha
 
 Tak apa, karena _**the process of planning is more important than the plan itself!**_
 
-## Belajar!
+## 🚀 Tips Belajar 
 
 Oke, kita sudah paham mengenai apa-apa saja yang bisa membuat kita _istiqomah_ mempersiapkan IELTS. Saatnya belajarrrrr! Belajar _for life_!
 
@@ -276,7 +276,7 @@ _Ouch. Jangan dirasakan ketika tes yang sebenarnya._
 
 ---
 
-### Listening
+### 👂 Listening
 
 Banyak-banyaklah mendengarkan podcast berbahasa Inggris! Karena _setting_ pas tes nanti bakal mirip dengan menikmati podcast. Di sana, kita dilatih untuk meningkatkan fokus dan _listening comprehension skill_.
 
@@ -307,7 +307,7 @@ _I’m a fan!_
 
 ---
 
-### Reading
+### 👀 Reading
 
 Sebagian besar orang bakal bilang Reading itu paling gampang. Namun, banyak juga yang mengakui bahwa mereka kesusahan atur waktu di bagian sini. Akibatnya, ada soal yang dijawab asal-asalan.
 
@@ -337,7 +337,7 @@ Singkatnya: baca paragraf per paragraf atau ide per ide, kemudian langsung jawab
 
 ---
 
-### Writing
+### ✍ Writing
 ![](ielts-writing.png)
 _Kelakuan test-takers…_
 
@@ -376,7 +376,7 @@ _Seriously, I love his videos._
 
 ---
 
-### Speaking
+### 🗣 Speaking
 
 Gak ada cara lain untuk lebih cakap di bagian sini selain latihan bicara yang buanyak!
 

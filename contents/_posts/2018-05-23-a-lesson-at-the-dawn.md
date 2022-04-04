@@ -13,7 +13,7 @@ mermaid    : false
 
 img_path   : /assets/img/2018/
 image      :
-  src      : /assets/img/2018/2000-rupiah.webp
+  src      : /assets/img/2018/2000-rupiah_.webp
   width    : 
   height   : 
   alt      : 

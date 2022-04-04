@@ -5,7 +5,7 @@ description : "A documentation of how we will strategizely improve our capacitie
 categories  : Notion
 order       : 1
 image       :
-  src       : /assets/img/rku/Slide3.JPG
+  src       : /assets/img/rku/Slide3_.webp
 ---
 
 [Get RKU Template](https://www.notion.so/Template-RKU-20fa372e0fcb45069f6e707c86a6c13a)

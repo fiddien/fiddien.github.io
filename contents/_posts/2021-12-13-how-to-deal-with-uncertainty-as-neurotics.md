@@ -11,7 +11,7 @@ math       : false
 mermaid    : false
 
 image      :
-  src      : /assets/img/2021/uncertainty.webp
+  src      : /assets/img/2021/uncertainty_.webp
 
 ---
 

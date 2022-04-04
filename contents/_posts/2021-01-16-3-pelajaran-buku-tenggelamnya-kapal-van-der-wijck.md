@@ -11,7 +11,7 @@ math       : false
 mermaid    : false
 
 image      :
-  src      : /assets/img/2021/buku-kapal-vdw.jpg
+  src      : /assets/img/2021/buku-kapal-vdw_.webp
 ---
 
 ![](/assets/img/2021/buku-kapal-vdw.jpg){: width="300" .right}

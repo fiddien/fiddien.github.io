@@ -12,7 +12,7 @@ math       : false
 mermaid    : false
 
 image      :
-  src      : /assets/img/2019/windows-silts.webp
+  src      : /assets/img/2019/windows-silts_.webp
   width    : 800
   height   : 600
   alt      : 

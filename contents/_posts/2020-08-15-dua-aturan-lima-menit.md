@@ -12,7 +12,7 @@ math       : false
 mermaid    : false
 
 image      :
-  src      : /assets/img/2020/lima-menit.webp
+  src      : /assets/img/2020/lima-menit_.webp
   width    : 
   height   : 
   alt      : 

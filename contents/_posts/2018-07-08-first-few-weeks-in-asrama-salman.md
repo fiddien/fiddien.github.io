@@ -13,7 +13,7 @@ mermaid    : false
 
 img_path   : /assets/img/2018/
 image      :
-  src      : /assets/img/2018/salman.webp
+  src      : /assets/img/2018/salman_.webp
   width    : 
   height   : 
   alt      : 

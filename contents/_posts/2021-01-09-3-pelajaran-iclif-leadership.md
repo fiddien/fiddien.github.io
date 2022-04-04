@@ -11,7 +11,7 @@ math       : false
 mermaid    : false
 
 image      :
-  src      : /assets/img/2021/the-iclif-lcm.jpg
+  src      : /assets/img/2021/the-iclif-lcm_.webp
   width    : 
   height   : 
   alt      : 

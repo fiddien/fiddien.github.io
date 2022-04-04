@@ -26,7 +26,8 @@ title: ilmaaliyaf                          # the main title
 tagline: connecting dots in life networks   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  A literacy collection of Ilma Aliya Fiddien. >-
+  Discovering meaning in knowledge and connecting them with the soul.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: https://ilmaaliyaf.com #'https://ilmaaliyaf.github.io'
@@ -44,8 +45,8 @@ social:
   email: 
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/ilmaaliyaf
     - https://www.linkedin.com/in/ilmaaliyaf
+    - https://twitter.com/ilmaaliyaf
     - https://github.com/ilmaaliyaf
     - https://goodreads.com/ilmaaliyaf
 

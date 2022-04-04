@@ -13,7 +13,7 @@ mermaid    : false
 
 img_path   : /assets/img/2016/
 image      :
-  src      : /assets/img/2016/coffee.webp
+  src      : /assets/img/2016/coffee_.webp
   alt      : 
 # ![image alt](img src){: width="700" height="400" .normal/left/right/shadow}
 # _image caption_

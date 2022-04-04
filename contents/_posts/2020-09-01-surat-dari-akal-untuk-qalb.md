@@ -12,7 +12,7 @@ mermaid    : false
 
 img_path   : /assets/img/2020/
 image      :
-  src      : /assets/img/2020/surat1.webp
+  src      : /assets/img/2020/surat1_.webp
   width    : 
   height   : 
   alt      : 

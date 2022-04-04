@@ -12,7 +12,7 @@ mermaid    : false
 
 img_path   : /assets/img/2020/
 image      :
-  src      : /assets/img/2020/mengembara.png
+  src      : /assets/img/2020/mengembara_.webp
   width    : 
   height   : 
   alt      : 

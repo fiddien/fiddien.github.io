@@ -12,7 +12,7 @@ math       : false
 mermaid    : false
 
 image      :
-  src      : /assets/img/2020/kite-runner.jpeg
+  src      : /assets/img/2020/kite-runner_.webp
   width    : 
   height   : 
   alt      : 

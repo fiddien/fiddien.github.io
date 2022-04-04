@@ -12,7 +12,7 @@ math       : false
 mermaid    : false
 
 image      :
-  src      : /assets/img/2021/buku-ibn-khaldun.jpg
+  src      : /assets/img/2021/buku-ibn-khaldun_.webp
 ---
 
 ![](/assets/img/2021/buku-ibn-khaldun.jpg){: width="300" .right}

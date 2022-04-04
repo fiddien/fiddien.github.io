@@ -12,7 +12,7 @@ mermaid    : false
 
 img_path   : /assets/img/2020/
 image      :
-  src      : /assets/img/2020/penggaris2.jpeg
+  src      : /assets/img/2020/penggaris2_.webp
   width    : 
   height   : 
   alt      : 

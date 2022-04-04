@@ -11,7 +11,7 @@ math       : false
 mermaid    : false
 
 image      :
-  src      : /assets/img/2020/rutinitas-pagi.webp
+  src      : /assets/img/2020/rutinitas-pagi_.webp
   width    : 
   height   : 
   alt      : 

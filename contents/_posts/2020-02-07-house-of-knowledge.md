@@ -12,7 +12,7 @@ math       : false
 mermaid    : false
 
 image      :
-  src      : /assets/img/2020/houseof1.jpeg
+  src      : /assets/img/2020/houseof1_.webp
   width    : 
   height   : 
   alt      : 
