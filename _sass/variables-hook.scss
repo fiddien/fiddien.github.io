@@ -6,3 +6,7 @@
   color: #ffc153;
   border-color: #ffc153;
 }
+
+div#disqus_thread iframe[sandbox] {
+  max-height: 0px !important;
+}
