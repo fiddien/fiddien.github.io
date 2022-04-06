@@ -59,8 +59,8 @@ Kalau di video-video TED, ada seseorang berbicara suatu topik, (biasanya) di sua
 Tapi pada intinya keduanya bertujuan utuk menyebarkan ide ke seluruh penjuru dunia.
 
 Salah satu video yang pertama penulis tonton dari TED-Ed.
-<iframe loading=lazy width="560" height="315" src="https://www.youtube-nocookie.com/embed/Y6e_m9iq-4Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+{% include youtube.html id="Y6e_m9iq-4Q" %}
 
 Tentu cek juga video-video [TED](http://ted.com/)! Banyak topik yang membuat insight kita menjadi lebih luas sehingga kita tahu apa yang terjadi di dunia luar sana.
 
@@ -75,7 +75,7 @@ Channel ini khusus membahas sains, matematika, antropologi, dan filosofi dengan 
 
 Kerennya, Vsauce ini menghadirkan link sumber-sumber referensinya di kotak deskripsi tiap video, jadi kita bisa mempelajari topik yang dibahas lebih dalam.
 
-<iframe loading=lazy width="560" height="315" src="https://www.youtube-nocookie.com/embed/evQsOFQju08" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube.html id="evQsOFQju08" %}
 
 Selain itu, ada pula [Vsauce2](https://www.youtube.com/user/Vsauce2) (tentang teknologi dan pengetahuan yang aneh-aneh) dan [Vsauce3](https://www.youtube.com/user/Vsauce3) (tentang dunia fiksi dan video game) yang dibawakan oleh host-host yang berbeda.
 
@@ -90,8 +90,7 @@ Menurut penulis, video-video penjelasan yang disediakan oleh CrashCourse kurang 
 
 Hal yang penulis salut dari channel ini, mereka menyampaikan penjelasan dengan informatif, netral, dan tidak bias. _Check it out!_
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Yocja_N5s1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+{% include youtube.html id="Yocja_N5s1I" %}
 
 ## SciShow
 
@@ -99,7 +98,7 @@ Menghabiskan waktu luang dengan maraton di SciShow mungkin adalah salah satu car
 
 SciShow adalah _original channel_ Youtube yang membahas fakta-fakta yang berbau sains. Seri video ini dibawakan oleh orang yang sama dengan salah satu _host_ CrashCourse, Hank Green. Cek salah satu videonya di bawah ini, menjawab pertanyaan yang entah-dari-kapan penulis selalu pertanyakan.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/e0NT9i4Qnak" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube.html id="e0NT9i4Qnak" %}
 
 _And that’s it!_ Semoga artikel ini dapat membantu kamu, _knowledge-junkie_, menghabiskan waktu luang dengan menonton video-video Youtube yang menambah pengetahuan dan insight.
 
