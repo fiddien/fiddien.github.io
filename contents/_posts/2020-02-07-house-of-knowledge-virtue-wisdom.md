@@ -7,7 +7,7 @@ author     : # <author_id>
 
 pin        : false
 toc        : true
-comments   : false
+comments   : true
 math       : false
 mermaid    : false
 

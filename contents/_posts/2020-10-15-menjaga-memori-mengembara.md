@@ -6,7 +6,7 @@ tags       : [far away from home, hikmah, ikhlas, video editing, south korea]
 
 pin        : false
 toc        : false
-comments   : false
+comments   : true
 math       : false
 mermaid    : false
 

@@ -6,7 +6,7 @@ tags       : [discourse, science, value]
 
 pin        : false
 toc        : true
-comments   : false
+comments   : true
 math       : false
 mermaid    : false
 
