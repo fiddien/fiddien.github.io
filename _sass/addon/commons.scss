@@ -91,6 +91,7 @@ a {
 img {
   max-width: 100%;
   height: auto;
+  border-radius: 6px;
 }
 
 blockquote {
@@ -1449,7 +1450,7 @@ $sidebar-display: "sidebar-display";
 /* panel hidden */
 @media all and (max-width: 1199px) {
   #panel-wrapper {
-    display: none;
+    display: flex;
   }
 
   #topbar {

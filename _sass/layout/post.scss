@@ -44,6 +44,11 @@ img.preview-img {
   margin-top: 3.75rem;
   margin-bottom: 0;
   border-radius: 6px;
+  height: 100px;
+  width: 100%;
+  object-fit: cover;
+  // filter: blur(8px);
+  // -webkit-filter: blur(8px);
 
   &.bg[data-loaded=true] {
     background: var(--preview-img-bg);

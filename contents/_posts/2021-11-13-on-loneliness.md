@@ -11,10 +11,8 @@ math       : false
 mermaid    : false
 
 image      :
-  src      : "https://www.verywellmind.com/thmb/ha8hYPFHxGZ6tOSQ9TYz2tA_Kiw=/1500x1001/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2795740-article-erik-eriksons-stages-of-psychosocial-development-5ac3df9e875db90037ffa803.png"
-  width    : 
-  height   : 
-  alt      : 
+  src      : "/assets/img/2021/human-machine1_.webp"
+  no_bg    : True
 
 # ![image alt](img src){: width="700" height="400" .normal/left/right/shadow}
 # _image caption_

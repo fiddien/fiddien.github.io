@@ -167,7 +167,7 @@ Menariknya, di sini soal-soal IELTS kan selalu gonta-ganti. Kadang di bagian Lis
 Dari refleksi hasil tes simulasi di UPT Bahasa ITB, saya pasang target: nilai semua komponen tesnya minimal 7.0. Setelah sekian lama belajar, saya membuat target skor yang lebih detil lagi.
 
 ![](ielts-target.png)
-_Target skor IELTS dengan berbagai skenario: _Realistic, Best, Worst_. Hasilnya di kolom _Actual_._
+_Target skor IELTS dengan berbagai skenario: 'Realistic', 'Best', 'Worst'. Hasilnya di kolom 'Actual'._
 
 Mungkin ada yang berpikir, _“Congkak sekali ya Anda, nulis band 7.0 sebagai Worst target!”_
 
