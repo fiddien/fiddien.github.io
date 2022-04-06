@@ -1,9 +1,9 @@
 <!--  The comments switcher -->
 {% if page.comments and site.comments.active %}
-  <h1>Comments</h1>
+  <!-- <h1>Comments</h1>
   Leave your thoughts below! ✍  
   </br>
-  Pardon the ads, if any exists. They come from the comment provider.
+  Pardon the ads, if any exists. They come from the comment provider. -->
   {% capture path %}comments/{{ site.comments.active }}.html{% endcapture %}
   {% include {{ path }} %}
 {% endif %}
