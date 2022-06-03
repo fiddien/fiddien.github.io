@@ -8,7 +8,7 @@ image       :
   src       : /assets/img/rku/Slide3_.webp
 ---
 
-[Get RKU Template](https://www.notion.so/Template-RKU-20fa372e0fcb45069f6e707c86a6c13a)
+[Get RKU Template](https://contribution-plan.notion.site/Template-RKU-86bfa33478ba4841b421d19b409d8f87)
 
 What is Rancangan Kontribusi Unggulan (RKU)–The Greatest Contribution Plan?
 
@@ -37,4 +37,4 @@ With RKU, we live more optimistic, because we crack big tasks into smaller ones,
 ![](/assets/img/rku/Slide4.JPG)
 ![](/assets/img/rku/Slide5.JPG)
 
-[Get RKU Template](https://www.notion.so/Template-RKU-20fa372e0fcb45069f6e707c86a6c13a)
+[Get RKU Template](https://contribution-plan.notion.site/Template-RKU-86bfa33478ba4841b421d19b409d8f87)

@@ -4,6 +4,6 @@
   "newLinkFormat": "absolute",
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "_posts",
+  "newFileFolderPath": "contents/_draft",
   "promptDelete": false
 }

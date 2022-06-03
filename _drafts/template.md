@@ -5,8 +5,6 @@ categories :
 tags       : 
 
 pin        : false
-toc        : false
-comments   : false
 math       : false
 mermaid    : false
 
