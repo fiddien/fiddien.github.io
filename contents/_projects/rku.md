@@ -29,7 +29,7 @@ This RKU Template will help clarify our Vision.
 
 With RKU, we live more optimistic, because we crack big tasks into smaller ones, making each piece of success more reachable.
 
-[Read more about RKU](https://www.notion.so/Mulai-Dari-Sini-603aa45f916b49a59c5bcf8f639b6dc0)
+[Read more about RKU](https://contribution-plan.notion.site/Mulai-Dari-Sini-c0b0a2ab0d1b43ba80e5b16bfb8e68b4)
 
 ![](/assets/img/rku/Slide1.JPG)
 ![](/assets/img/rku/Slide2.JPG)
