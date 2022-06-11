@@ -220,15 +220,15 @@ _Your usual passive English user._
 
 Kalau agenda belajarnya mandiri dan ingin terukur, kita harus benar-benar **memahami makna dan keinginan dari Band Descriptors.** Penting ya _guys_! Apalagi untuk teman-teman yang sulit mendapat akses ke orang yang paham IELTS dan bisa menilai keampuan Speaking dan Writing. Kita terpakasa harus menilai pekerjaan sendiri.
 
-Tenang, setelah ini ada banyak _resources_ yang bisa membantu kita memahami Band Descriptors_._
+Tenang, setelah ini ada banyak _resources_ yang bisa membantu kita memahami Band Descriptors.
 
 ## 📅 Buat rencana belajar
 
-Oke, bagian sini sebenarnya bisa di_skip_ kalau kita mendaftar dan sepenuhnya memercayakan lembaga les. Tapi ini **pentingpentingpenting** sekali bagi kita yang mau belajarnya mandiri. Tanpa membuat rencana belajar, atau bahkan tiadanya kurikulum belajar, target menaikkan skor IELTS hanyalah angan semata.
+Oke, bagian sini sebenarnya bisa di-*skip* kalau kita mendaftar dan sepenuhnya memercayakan lembaga les. Tapi ini **pentingpentingpenting** sekali bagi kita yang mau belajarnya mandiri. Tanpa membuat rencana belajar, atau bahkan tiadanya kurikulum belajar, target menaikkan skor IELTS hanyalah angan semata.
 
 Tentu saja, rancanglah dengan framework E-SMART. _Specific, Measureable, Actionable, Realistic, Time-bounded_. “E”-nya _Empathetic_. 😉
 
-**_Empathetic_**. Pahami kebutuhan, batasan, dan cara belajar kita. Buat target dan rencana dengan se-_considerate_ mungkin, ya. Tidak terlalu muluk, tapi terus nge-_push_ zona nyaman kita. Tanya diri sendiri, sanggupnya segimana. Bangun _support system_. Karena sekalinya keluar rencana, gampang sekali untuk _demotivated_ (mungkin saya aja sih 🥀).
+**_Empathetic_**. Pahami kebutuhan, batasan, dan cara belajar kita. Buat target dan rencana dengan se-*considerate* mungkin, ya. Tidak terlalu muluk, tapi terus nge-*push* zona nyaman kita. Tanya diri sendiri, sanggupnya segimana. Bangun _support system_. Karena sekalinya keluar rencana, gampang sekali untuk _demotivated_ (mungkin saya aja sih 🥀).
 
 _**Specific**_. Apa komponen tes yang paling urgen untuk ditingkatkan? Mana yang bisa dicicil, mana yang harus intens diasah? Kita bisa jawab ini dengan tepat kalau sudah pernah tes simulasi. Sekalian minta _feedback_ dari teman yang udah pernah ambil IELTS, ya.
 
@@ -284,7 +284,7 @@ Saya yakin, seberapapun jagonya seseorang, pengganggu utama Listening di hari-H 
 
 Bagi yang telinganya belum terbiasa, biasakan dulu. Sambil beres-beres kamar, nyapu, nyuci, olahraga… dibawa santai. Nah, ketika sesi khusus belajar, teslah kemampuan kita dengan menjelaskan ulang secara singkat apa yang sudah kita dengar selama 5 menit, misalnya. Lupa lagi? Dengarkan lagi sampai kita bisa menjelaskan.
 
-Sebenarnya, melatih _listening_ lewat menonton video pun sah-sah saja. Tapi, di sana ada bantuan visual yang membuat beban pendengaran kita jadi sedikit terangkat. Tidak akan se-_challenging_ jika hanya mengandalkan pendengaran.
+Sebenarnya, melatih _listening_ lewat menonton video pun sah-sah saja. Tapi, di sana ada bantuan visual yang membuat beban pendengaran kita jadi sedikit terangkat. Tidak akan semenantang jika hanya mengandalkan pendengaran.
 
 Kita juga bisa latihan mendengar _audiobook_ sembari membaca bukunya. Di situ ada proses _mapping_ dari suatu unit suara (speech) ke teksnya, jadi sekaligus mempelajari _spelling_.
 
@@ -296,7 +296,7 @@ Beberapa rekomendasi bahan konsumsi:
 
 Kalau sudah nyaman dan cukup cakap menangkap ide-ide dari suatu pembicaraan, kita bisa naik ke level selanjutnya: meningkatkan kecepatan audio.
 
-Saya pernah berada di suatu masa di mana saya mengikuti banyak program Coursera dan hampir semua videonya di-_play_ dengan kecepatan 1.25x-1.5x. Selain karena alasan di atas, ini juga agar hemat waktu dan tidak mengantuk. 😝
+Saya pernah berada di suatu masa di mana saya mengikuti banyak program Coursera dan hampir semua videonya di-*play* dengan kecepatan 1.25x-1.5x. Selain karena alasan di atas, ini juga agar hemat waktu dan tidak mengantuk. 😝
 
 Oh iya, biasakan juga untuk mendengar aksen British dan variasi-variasi dekatnya, ya! Bisa mulai dari Youtuber [Ali Abdaal](https://www.youtube.com/c/aliabdaal) atau sekalian [English with Lucy](https://www.youtube.com/c/EnglishwithLucy).
 

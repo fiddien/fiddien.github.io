@@ -17,4 +17,5 @@ vendor
 node_modules
 package-lock.json
 
-.obsidian/workspace
+# obsidian files
+.obsidian
