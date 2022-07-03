@@ -55,6 +55,9 @@ google_site_verification:               # fill in to your verification string
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
+pwa:
+  enabled: false   # the option for PWA feature
+
 google_analytics:
   id:                 # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
