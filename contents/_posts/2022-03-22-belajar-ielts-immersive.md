@@ -351,7 +351,7 @@ Wah ini nih, komponen tes yang paling butuh bantuan orang lain untuk bisa _impro
 2.  Banyak-banyak menulis dalam bahasa Inggris. Tentu saja. Kalau tidak biasa, kadang _vocabulary_ yang kita kuasai ketika latihan malah tidak keluar di tes, karena faktor panik.
 3.  Biasakanlah menulis terstruktur dan berparagraf. Di suatu essay, ada bagian pembuka, isi, penutup. Di tiap paragraf ada inti ide, penjelasan, dan contoh. Organisasikan paragrafnya secara logis.  
     Bingung menambah argumen untuk jawaban essay? Selain memperbanyak baca tentang wawasan umum, bacalah bank ide untuk Writing Task 2 di sini: [IELTS Tips dan Trik oleh Ibham Veza](https://muklason.files.wordpress.com/2015/08/ielts-tips-trik-ibham-veza.pdf).  
-    Aku sendiri latihan dengan menulis [beberapa essay di blog ini](https://ilmaaliyaf.com/category/written-in-english/). 😉
+    Aku sendiri latihan dengan menulis [beberapa essay di blog ini](https://ilmaaliyaf.com/category/en/). 😉
 4.  Biasakanlah menulis ala-ala soal IELTS.  
     Task 1: _reporting data/charts/map/process._  
     Task 2: _delivering argumentations about an issue._  
