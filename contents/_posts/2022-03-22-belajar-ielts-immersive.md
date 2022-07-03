@@ -58,13 +58,13 @@ _IELTS is the bottleneck._
 
 Dalam konteks mendaftar ke program pendidikan, kita harus mengecek terlebih dulu tes mana yang diterima oleh institusi yang dituju. Sepengetahuan saya, TOEFL lebih dipilih oleh institusi di Amerika, sedangkan IELTS jangkauannya lebih luas. IELTS punya opsi tes akademik dan tes untuk umum. TOEFL hanya ada yang bersifat akademis.
 
-Kalau keduanya bisa jadi pilihan, mari lihat karakteristik tiap komponen ujiannya, lalu cocokkan sesuai preferensi kita. Ini observasi pribadi:
+Kalau keduanya bisa jadi pilihan, mari lihat karakteristik tiap komponen ujiannya, lalu cocokkan sesuai preferensi kita. Ini hasil observasiku:
 
 -   _Listening_: IELTS hampir selalu menggunakan aksen British yang pengucapannya (_pronunciation_) cenderung lebih jelas; tapi TOEFL menggunakan aksen Amerika yang kemungkinan besar lebih familiar di telinga orang Indonesia.
 -   _Reading_: di IELTS sumber tulisannya lebih beragam, kadang harus berpikir keras dulu sehingga membutuhkan _comprehension skill_ yang lebih tinggi; di TOEFL jawabannya cendering pasti kelihatan di teks, tapi tulisannya sangat akademis sehingga kosa katanya lebih _nendang_.
 -   _Writing_: kurang lebih sama, di IELTS ada _paper-based test_ jadi bisa menulis dengan tangan. (perhatikan bahwa TOEFL ITP yang _paper-based_ ini sudah mulai jarang diterima)
 -   _Speaking_: di IELTS kita diwawancarai _native speaker_ langsung secara _face-to-face_, jadi bsia lebih santai… atau tegang! Di TOEFL kita merekam sendiri jawaban ke komputer dengan menggabungkan sedikit kegiatan _reading_ dan _listening_.
-    -   Hati-hati! _Pronunciation_ British dan American banyak perbedaannya, loh. Ccoba cek kata “[_awesome_](https://dictionary.cambridge.org/dictionary/english/awesome)“. Di IELTS, nilai kita bisa dipenalisasi kalau pengucapannya tidak mengikuti aturan British English.
+    -   Hati-hati! _Pronunciation_ British dan American banyak perbedaannya, loh. Coba cek kata “[_awesome_](https://dictionary.cambridge.org/dictionary/english/awesome)“. Di IELTS, nilai kita bisa dipenalisasi kalau pengucapannya tidak mengikuti aturan British English.
 
 ![](ielts-british.png)
 _Becanda._
@@ -75,7 +75,7 @@ Suatu titik, karena saya sudah mantap menargetkan lanjut kuliah ke Inggris atau 
 
 ## 🤔 Apa memang harus belajar dari sekarang?
 
-Iya.
+Iyaaa! Mari belajar dari sekarang
 
 Dengan dimulai dari sekarang, kita punya keleluasaan untuk membuat proses belajarnya jadi lebih menyenangkan. _Learning should be fun. Learning for taking an English test, too, should be fun._
 
@@ -94,7 +94,7 @@ Untuk tahu jawaban itu, ada beberapa faktor yang perlu dilihat: kemampuan saat i
 
 Jika butuh sertifikatnya dalam waktu dekat dan sama sekali belum pernah belajar untuk IELTS, saya sarankan teman-teman memiliki persiapan **intensif minimal dua bulan**, terlepas dari target seberapa besar gap antara realita dan ekspektasi.
 
-Kalau kita masih bermasalah dengan grammar, ada baiknya fokus memperbaiki grammar sebelum belajar untuk ujian apapun. Apa batasan “tidak bermasalah dengan grammar”? Menurut saya sih, sudah
+Kalau kita masih bermasalah dengan grammar, ada baiknya fokus memperbaiki grammar sebelum belajar untuk ujian apapun. Apa batasan “tidak bermasalah dengan grammar”? Menurut saya sih, sudah...
 
 -   tidak bingung lagi dengan _tenses_ berjenis _simple, continous,_ _perfect_, dan kombinasinya, termasuk dimasukkan dalam konteks _past_, _present_, ataupun _future_;
 -   dikit-dikit bisa membuat _conditional tenses_; serta
@@ -132,7 +132,7 @@ _Painful_? _Never_. Sesekali ulangan jelek karena _complex grammar_-nya salah? T
 
 _And it does._
 
-Jadi, kalaukamu masih punya banyak waktu seperti saya di jaman dulu, belajar dari sekarang, ya! _Immerse yourself with the language! There’s no better option._
+Jadi, kalau kamu masih punya banyak waktu seperti saya di jaman dulu, belajar dari sekarang, ya! _Immerse yourself with the language! There’s no better option._
 
 Apalagi punya target, pasti bisa akselerasi. Saya dulu tidak ada target spesifik tentang bahasa Inggris, jadi ya berkembangya juga agak _alon-alon_.
 
@@ -175,7 +175,7 @@ Yaah.. ini dibuat berdasarkan perkembangan belajar. Lagipula, jika nilai _Worst_
 
 -   Kemungkinan besar bahasa bahasa Inggris saya tidak _improve_;
 -   Ada sebagian rencana masa depan yang harus dirancang ulang;
--   Mungkin saya akan _re-take_ IELTS-nya. Bocor lah tabungan. 😭
+-   Mungkin saya akan _re-take_ IELTS-nya. Nambah biaya kan ya. 😭
 
 Jadi, di situ harapan saya sebenarnya cukup realistis dan **optimis** (harus dong!).
 
@@ -188,7 +188,7 @@ Akhirnya, saya mengambil tes IELTS pada bulan Februari 2022 di IDP Bandung. Dala
 
 (_Disclaimer_: tulisan ini tidak disponsori siapa-siapa 🤣)
 
-_Alhamdulillah alhamdulillah alhamdulillah,_ atas izin Allah SWT saya diberi hasil yang mirip dengan _Best target_!
+_Alhamdulillah alhamdulillah alhamdulillah,_ atas izin Allah SWT saya diberi hasil yang mirip dengan _Best target_! Lihat kolom *Actual* di gambar sebelumnya.
 
 ## 🙋‍♂️ Kenali apa yang dinilai dan cara menilainya
 
@@ -202,7 +202,7 @@ Oh, tipe soalnya beragam, ya, bentuknya.
 
 Dan seterusnya.
 
-Nah, memahami apa saja bentuk soal yang mungkin diberikan, karakteristiknya, dan ekspektasi cara menjawabnya adalah hal-hal yang krusial banget.
+Nah, memahami apa saja bentuk soal yang mungkin diberikan, karakteristiknya, dan ekspektasi cara menjawabnya adalah hal-hal yang krusial sekali.
 
 Di sisi lain, penilaiannya sangat rinci. Di Listening dan Reading, skor kita ditentukan oleh seberapa banyak jawaban benar dari tiap 40 soal yang diberikan. _Straightforward_. Kita bisa baca penjelasan tersebut [di website resmi IELTS](https://www.ielts.org/for-organisations/ielts-scoring-in-detail).
 
@@ -282,13 +282,15 @@ Banyak-banyaklah mendengarkan podcast berbahasa Inggris! Karena _setting_ pas te
 
 Saya yakin, seberapapun jagonya seseorang, pengganggu utama Listening di hari-H adalah **kehilangan fokus.** 😶
 
-Bagi yang telinganya belum terbiasa, biasakan dulu. Sambil beres-beres kamar, nyapu, nyuci, olahraga… dibawa santai. Nah, ketika sesi khusus belajar, teslah kemampuan kita dengan menjelaskan ulang secara singkat apa yang sudah kita dengar selama 5 menit, misalnya. Lupa lagi? Dengarkan lagi sampai kita bisa menjelaskan.
+Bagi yang telinganya belum terbiasa, biasakan dulu. Sambil beres-beres kamar, nyapu, nyuci, olahraga… dibawa santai~ 
+
+Nah, ketika sesi khusus belajar, teslah kemampuan kita dengan menjelaskan ulang secara singkat apa yang sudah kita dengar selama 5 menit, misalnya. Lupa lagi? Dengarkan lagi sampai kita bisa menjelaskan.
 
 Sebenarnya, melatih _listening_ lewat menonton video pun sah-sah saja. Tapi, di sana ada bantuan visual yang membuat beban pendengaran kita jadi sedikit terangkat. Tidak akan semenantang jika hanya mengandalkan pendengaran.
 
 Kita juga bisa latihan mendengar _audiobook_ sembari membaca bukunya. Di situ ada proses _mapping_ dari suatu unit suara (speech) ke teksnya, jadi sekaligus mempelajari _spelling_.
 
-Beberapa rekomendasi bahan konsumsi:
+Nih, beberapa rekomendasi bahan konsumsi:
 
 -   [BBC More or Less Podcast](https://www.bbc.co.uk/programmes/p02nrss1/episodes/downloads)
 -   [CrashCourse](https://www.youtube.com/c/crashcourse)
