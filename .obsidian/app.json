@@ -5,5 +5,7 @@
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "contents/_draft",
-  "promptDelete": false
+  "promptDelete": false,
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "assets/img"
 }

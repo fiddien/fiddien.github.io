@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "contents/_posts/2022-03-22-belajar-ielts-immersive.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "contents/_posts/2022-03-22-belajar-ielts-immersive.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "164a26572222beb2",
   "lastOpenFiles": [
+    "README.md",
     "contents/_posts/2022-03-22-belajar-ielts-immersive.md",
     "_drafts/2022-04-07-melawan-informasi.md",
     "_drafts/template.md",
@@ -97,7 +98,6 @@
     "contents/_posts/2021-12-13-how-to-deal-with-uncertainty-as-neurotics.md",
     "contents/_posts/2021-11-13-on-loneliness.md",
     "contents/_posts/2021-07-20-jalan-tengah-antara-rasionalitas-spiritualitas.md",
-    "contents/_posts/2021-07-16-sains-bebas-nilai.md",
-    "contents/_posts/2021-07-08-manusia-belajar-dari-machine-learning.md"
+    "contents/_posts/2021-07-16-sains-bebas-nilai.md"
   ]
 }
