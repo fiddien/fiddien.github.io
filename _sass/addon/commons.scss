@@ -283,6 +283,35 @@ img[data-src] {
   }
 }
 
+#panel-tail-wrapper {
+  /* the headings */
+  .panel-heading {
+    @include label(inherit);
+  }
+
+  .post-tag {
+    display: inline-block;
+    line-height: 1rem;
+    font-size: 0.85rem;
+    background: none;
+    border: 1px solid var(--btn-border-color);
+    border-radius: 0.8rem;
+    padding: 0.3rem 0.5rem;
+    margin: 0 0.35rem 0.5rem 0;
+
+    &:hover {
+      background-color: #1ca19b;
+      border-color: #1ca19b;
+      color: #fff;
+      transition: none;
+    }
+  }
+
+  [data-topbar-visible=true] & > div {
+    top: 6rem;
+  }
+}
+
 #access-lastmod {
   li {
     height: 1.8rem;
@@ -1463,6 +1492,11 @@ $sidebar-display: "sidebar-display";
   #access-lastmod,
   #access-tags {
     display: none
+  }
+  
+  // address the panel below post
+  #panel-tail-wrapper { 
+    display: inline-block;
   }
 
   #panel-wrapper {
