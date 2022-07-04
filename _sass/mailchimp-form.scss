@@ -39,7 +39,7 @@
 }
 
 #mc_embed_signup input:focus {
-    border-color: #333;
+    border-color: var(--link-color);
 }
 
 #mc_embed_signup .button {
@@ -247,7 +247,7 @@
 }
 
 #mc_embed_signup #mce-success-response {
-    color: #529214;
+    color: var(--link-color);
     display: none;
 }
 
