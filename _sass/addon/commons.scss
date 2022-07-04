@@ -1454,9 +1454,29 @@ $sidebar-display: "sidebar-display";
 
 /* panel hidden */
 @media all and (max-width: 1199px) {
-  #panel-wrapper {
-    display: none;
+  // #panel-wrapper {
+    // display: inline-block;
+    // display: flex;
+    // transform: translateX(#{$panel-max-width}); /* hide */
+    // -webkit-transform: translateX(#{$panel-max-width});
+  // }
+  #access-lastmod,
+  #access-tags {
+    display: none
   }
+
+  #panel-wrapper {
+    display: inline;
+    transform: translateX(100%); /* hide */
+    -webkit-transform: translateX(100%);
+    position: fixed;
+    top: 0;
+    left: 100%;
+    height: 100%;
+    overflow-y: auto;
+    width: $panel-max-width;
+  }
+  
 
   #topbar {
     padding: 0;
