@@ -1,5 +1,5 @@
 # ilmaaliyaf.github.io
-Now in [ilmaaliyaf.com][https://ilmaaliyaf.com].
+Now in [ilmaaliyaf.com](https://ilmaaliyaf.com).
 
 A personal blog where I share long-format writings, poems, and projects showcase.
 
