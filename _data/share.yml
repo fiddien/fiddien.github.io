@@ -21,7 +21,7 @@ platforms:
   -
     type: Whatsapp
     icon: "fab fa-whatsapp"
-    link: "whatsapp://send?text=TITLE (URL)"
+    link: "https://wa.me/?text=TITLE (URL)"
   #
   # -
   #   type: Weibo
