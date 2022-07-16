@@ -248,7 +248,7 @@ Saya sampai selalu menghitung rata-rata dan standard deviasi dari semua skor yan
 
 Tapi ini betulan sangat memotivasi, _guys_! Saya merasa kompetitif dengan diri sendiri. 👊
 
-_**Actionable**_. Jangan buat rencana belajar yang rancu seperti “meningkatkan _spelling_“, tapi tulis “menonton video tentang _spelling_ dari X dilanjut latihan selama 30 menit”. Di setiap jadwal, sebisa mungkin perjelas sumber belajarnya dari mana. Misalnya, di tanggal 25 Maret ktia akan belajar _number spelling_ selama 1 jam dari Youtube [IELTS Liz](https://www.youtube.com/watch?v=HYp08TMG5uw). Tulis sekalian tautan menuju videonya. Nah, ketika waktunya belajar, kita sudah langsung _cuss meluncur!_
+_**Actionable**_. Jangan buat rencana belajar yang rancu seperti “meningkatkan _spelling_“, tapi tulis “menonton video tentang _spelling_ dari X dilanjut latihan selama 30 menit”. Di setiap jadwal, sebisa mungkin perjelas sumber belajarnya dari mana. Misalnya, di tanggal 25 Maret kita akan belajar _number spelling_ selama 1 jam dari Youtube [IELTS Liz](https://www.youtube.com/watch?v=HYp08TMG5uw). Tulis sekalian tautan menuju videonya. Nah, ketika waktunya belajar, kita sudah langsung _cuss meluncur!_
 
 _**Realistic**_. Ya, mengenai target skor sudah kita bahas. Dan sekali lagi, buat jadwal yang realistis dengan ketersediaan waktu dan energi kita–tentu setelah mengatur-atur prioritas.
 
@@ -351,7 +351,7 @@ Wah ini nih, komponen tes yang paling butuh bantuan orang lain untuk bisa _impro
 2.  Banyak-banyak menulis dalam bahasa Inggris. Tentu saja. Kalau tidak biasa, kadang _vocabulary_ yang kita kuasai ketika latihan malah tidak keluar di tes, karena faktor panik.
 3.  Biasakanlah menulis terstruktur dan berparagraf. Di suatu essay, ada bagian pembuka, isi, penutup. Di tiap paragraf ada inti ide, penjelasan, dan contoh. Organisasikan paragrafnya secara logis.  
     Bingung menambah argumen untuk jawaban essay? Selain memperbanyak baca tentang wawasan umum, bacalah bank ide untuk Writing Task 2 di sini: [IELTS Tips dan Trik oleh Ibham Veza](https://muklason.files.wordpress.com/2015/08/ielts-tips-trik-ibham-veza.pdf).  
-    Aku sendiri latihan dengan menulis [beberapa essay di blog ini](https://ilmaaliyaf.com/category/en/). 😉
+    Aku sendiri latihan dengan menulis [beberapa essay di blog ini](https://ilmaaliyaf.com/categories/en/). 😉
 4.  Biasakanlah menulis ala-ala soal IELTS.  
     Task 1: _reporting data/charts/map/process._  
     Task 2: _delivering argumentations about an issue._  
