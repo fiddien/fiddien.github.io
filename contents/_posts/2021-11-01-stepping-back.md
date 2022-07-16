@@ -16,7 +16,7 @@ image      :
   alt      : 
 ---
 
-Never ever I have in my life I tried to polish my CV just to get people’s attention, up until just yesterday. That’s the world of post graduation.
+Never ever I have in my life I tried to polish my CV just to get people’s attention, up until yesterday. That’s the world of post graduation.
 
 A personal madness in 2021.
 
