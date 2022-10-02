@@ -1,5 +1,5 @@
 ---
-title      : "Nyaman Menjadi Berbeda: Menjadi Minoritas--Muslim dan Asia Tenggara"
+title      : "Nyaman Menjadi Berbeda: Muslim dan Southeast Asian di UK"
 date       : 2022-10-02 22:37 +01
 categories : [Personal, University Life]
 tags       : [far away from home]
@@ -25,9 +25,9 @@ _MSc Speech and Language Processing 22/23 di awal tahun ajaran._
 
 Lalu, hari ke hari, kepercaya diri semakin bisa aku pupuk. Dari mulai berani memulai percakapan, menawarkan atau meminta bantuan, sampai mengajak salah seorang teman British minum teh di kafe. Alhamdulillah, bibit-bibitnya ada dari hal-hal kecil yang konkrit yang kenikmatannya bisa langsung aku rasakan.
 
-- Kulit sawo matang--yang memudahkanku disapa orang-orang Asia Tenggara.
+- Kulit sawo matang--yang memudahkanku disapa sesama Asia Tenggara.
 
-- Kerudung--yang membuatku/sesama muslim tidak ragu untuk mengucapkan salam di tengah jalan.
+- Kerudung--yang membuatku/muslim lainnya tidak ragu untuk mengucapkan salam di tengah jalan.
 
 - Rok panjang--yang menambah satu lapis kehangatan di tengah Edinburgh yang berangin kencang nan dingin.
 
