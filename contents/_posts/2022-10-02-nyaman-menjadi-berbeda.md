@@ -44,7 +44,7 @@ Lalu, hari ke hari, kepercaya diri semakin bisa aku pupuk. Dari mulai berani mem
 
 Setelah itu, aspek kehidupan yang lebih "abstrak" justru jadi kenyamanan internal yang lebih berkelanjutan. Aku tidak akan merasa rendah diri di hadapan makhluk apapun dengan identitas dan pengalaman ini.
 
-- Latar belakang akademikku, matematika. Tidak ada di program MSc SLP yang jurusan S1-nya matematika. Namun justru hal tersebut yang membuatku bisa bernafas sedikit lebih lega di semester ini, karena sudah familiar dengan beberapa satu mata kuliah yang cenderung matematika-ish. Tidak ada kesulitas bagiku setidaknya dalam membaca notasi matematika ketika membaca berbagai tugas *reading* yang bahasannya teknisnya lebih mendalam.
+- Latar belakang akademikku, matematika. Tidak ada di program MSc SLP yang jurusan S1-nya matematika. Namun justru hal tersebut yang membuatku bisa bernafas sedikit lebih lega di semester ini, karena sudah familiar dengan beberapa mata kuliah yang cenderung matematika-ish. Tidak ada kesulitas bagiku setidaknya dalam membaca notasi matematika ketika membaca berbagai tugas *reading* yang bahasannya teknisnya lebih mendalam.
 
 - Iman dan Islamku, alhamdulillah. Insya Allah, dengan dua hal dalam satu paket ini, aku tidak akan mudah kehilangan arah dan motivasi ketika menjalani perkuliahan dan kehidupan. Penjagaan oleh Allah Swt untuk dua hal tersebut adalah doa yang harus selalu aku minta di setiap detiknya, termasuk meminta untuk dikuatkan dalam menegakkan syariat setidaknya untuk diriku sendiri (aurat, makanan halal, dst). Aku tidak ingin hal yang mengantarkan aku 11 ribu kilometer jauh dari rumah justru semakin melemah ketika pulang nanti.
 
