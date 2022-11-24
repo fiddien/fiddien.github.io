@@ -28,14 +28,13 @@ tagline: connecting dots in life networks   # it will display as the sub-title
 description: >-                        # used by seo meta and the atom feed
   A literacy collection of Ilma Aliya Fiddien. Discovering meaning in knowledge and connecting them with the soul.
 
-# fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: https://ilmaaliyaf.com #'https://ilmaaliyaf.github.io'
+url: https://fiddien.com #'https://fiddien.github.io'
 
 github:
-  username: ilmaaliyaf
+  username: fiddien
 
 twitter:
-  username: ilmaaliyaf
+  username: iafiddien
 
 social:
   # Change to your full name.

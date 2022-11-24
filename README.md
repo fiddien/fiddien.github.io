@@ -1,5 +1,5 @@
-# ilmaaliyaf.github.io
-Now in [ilmaaliyaf.com](https://ilmaaliyaf.com).
+# fiddien.github.io
+Now in [fiddien.com](https://fiddien.com).
 
 A personal blog where I share long-format writings, poems, and projects showcase.
 
