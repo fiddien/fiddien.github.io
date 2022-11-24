@@ -16,7 +16,7 @@ image      :
   alt      : 
 ---
 
-Hai, Tuhan.
+Hai, Tuhan, Yang Maha Menyayangi.
 
 Kau telah memberikan banyak kenikmatan pada makhluk-Mu yang pelupa. Kenikmatan itu sering terlihat seperti kelebihan yang tidak adil, namun tetap saja makhluk-Mu lupa. Ke mana perhatian dia? Makhluk lainnya yang nampak memiliki kenikmatan yang tidak adil. 
 
@@ -24,9 +24,9 @@ Tanda-Mu di mana-mana. Tapi makhluk-Mu malah teralihkan oleh tanda-tanda dari ya
 
 Sedangkan ia tahu..
 
-bahwa merasakan cinta dan kasih-Mu yang Kau beri di suatu waktu--itu namanya bersyukur,
+bahwa merasakan cinta dan kasih-Mu yang Kau beri di suatu waktu; itu namanya bersyukur.
 
-dan bahwa memilih mencari cinta-Mu dari cinta yang lain: cinta ego dan nafsu, cinta perbuatan, cinta masa depan, cinta makhluk lain--itu namanya bersabar.
+Dan bahwa memilih mencari cinta-Mu dari cinta yang lain: cinta ego dan nafsu, cinta perbuatan, cinta masa depan, cinta makhluk lain; itu namanya bersabar.
 
 ![](edinburgh-night.jpg)
 
@@ -34,4 +34,4 @@ Wahai, Tuhan.
 
 Sibukkanlah makhluk-Mu dengan dirinya sendiri. Sibukkanlah makhluk-Mu dengan dirinya sendiri. Sibukkanlah makhluk-Mu dengan dirinya sendiri.
 
-Sibukkanlah makhluk-Mu dengan dirinya sendiri dalam meraih cinta-Mu sebelum ia mampu ikut menebarkan kenikmatan secara adil pada hal-hal yang tidak bisa ia lupakan.
+Sibukkanlah makhluk-Mu dengan dirinya sendiri dalam meraih cinta-Mu sebelum ia mampu ikut menebarkan kenikmatan secara adil pada perkara-perkara penting yang tidak bisa ia lupakan.
