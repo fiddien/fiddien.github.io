@@ -1,6 +1,6 @@
 ---
 title      : "Akan Terbuka Semuanya"
-date       : 2022-12-03
+date       : 2022-12-02 23:30 +00
 categories : [Monologue]
 tags       : 
 

@@ -1,6 +1,6 @@
 ---
 title      : "Pemanasan dan Pendinginan"
-date       : 2022-12-04
+date       : 2022-12-03 10:15 +00
 categories : [Monologue]
 tags       : 
 
