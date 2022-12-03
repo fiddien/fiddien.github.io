@@ -5,10 +5,10 @@
 -
   type: linkedin
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-  url:  'https://linkedin.com/in/ilmaaliyaf'                  # Fill with your Linkedin homepage
--
-  type: twitter
-  icon: 'fab fa-twitter'
+  url:  'https://linkedin.com/in/fiddien'                  # Fill with your Linkedin homepage
+# -
+#   type: twitter
+#   icon: 'fab fa-twitter'
 # - 
 #   type: instagram
 #   icon: 'fab fa-instagram'

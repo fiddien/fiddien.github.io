@@ -28,7 +28,7 @@ tagline: connecting dots in life networks   # it will display as the sub-title
 description: >-                        # used by seo meta and the atom feed
   A literacy collection of Ilma Aliya Fiddien. Discovering meaning in knowledge and connecting them with the soul.
 
-url: https://fiddien.com #'https://fiddien.github.io'
+url: https://fiddien.github.io
 
 github:
   username: fiddien
@@ -43,9 +43,9 @@ social:
   email: 
   links:
     # The first element serves as the copyright owner's link
-    - https://www.linkedin.com/in/ilmaaliyaf
-    - https://twitter.com/ilmaaliyaf
-    - https://github.com/ilmaaliyaf
+    - https://www.linkedin.com/in/fiddien
+    - https://twitter.com/iafiddien
+    - https://github.com/fiddien
     - https://goodreads.com/ilmaaliyaf
 
 google_site_verification:               # fill in to your verification string
