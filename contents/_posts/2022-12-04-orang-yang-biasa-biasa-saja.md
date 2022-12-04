@@ -1,6 +1,6 @@
 ---
 title      : "3. Orang yang biasa-biasa saja"
-date       : 2022-12-04 08:30 +00
+date       : 2022-12-04 08:00 +00
 categories : [Monologue]
 tags       : 
 
