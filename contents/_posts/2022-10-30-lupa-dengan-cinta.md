@@ -1,5 +1,5 @@
 ---
-title      : "Lupa dengan Cinta"
+title      : "0. Lupa dengan cinta"
 date       : 2022-10-30 01:15 +00
 categories : [Monologue]
 tags       : [love, sabr & syukr]

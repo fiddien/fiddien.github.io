@@ -1,5 +1,5 @@
 ---
-title      : "Akan Terbuka Semuanya"
+title      : "1. Akan terbuka semuanya"
 date       : 2022-12-02 23:30 +00
 categories : [Monologue]
 tags       : 
