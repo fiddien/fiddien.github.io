@@ -2,7 +2,7 @@
 title      : Setelah Setengah Tahun
 date       : 2017-07-24 08:00:00+07
 categories : Personal
-tags       : reflection
+tags       : reflecting
 author     : # <author_id>
 
 pin        : false

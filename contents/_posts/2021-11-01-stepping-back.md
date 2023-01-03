@@ -2,7 +2,7 @@
 title      : "The Last 8 Weeks of 2021: Stepping Back"
 date       : 2021-11-01 21:12 +07
 categories : [Personal, "[EN]"]
-tags       : reflection
+tags       : [reflecting, planning]
 
 pin        : false
 math       : false

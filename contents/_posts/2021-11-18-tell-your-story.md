@@ -2,7 +2,7 @@
 title      : "Who Is Going to Tell Your Story?"
 date       : 2021-11-18 21:11 +07
 categories : [Personal, "[EN]"]
-tags       : reflection
+tags       : reflecting
 
 pin        : false
 math       : false

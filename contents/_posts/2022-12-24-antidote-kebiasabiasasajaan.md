@@ -2,7 +2,7 @@
 title      : "4. Antidote untuk kebiasabiasasajaan"
 date       : 2022-12-24 19:20 +00
 categories : [Monologue]
-tags       : 
+tags       : [mediocre, akhlaqul karimah, sincerity]
 
 pin        : false
 math       : false
@@ -31,7 +31,7 @@ Tidak. Tidak. Tidak. Jangan khawatirkan itu. Tidak perlu mengkhawatirkan kondisi
 
 Khawatir yang pertama biasanya muncul ketika aku melupakan penggaris hidup yang ada di mejaku. Aku terpaku pada penggaris yang mengatakan bahwa yang biasa adalah yang tidak memenuhi metrik-metrik kehidupan yang *nampak*. Sedang itu, aku tidak menilik pada penggaris yang lebih meneliti seberapa baik metrik-metrik yang *tidak nampak*. Apa metrik yang tidak nampak?
 
-> Hati. Pola pikir. Monolog. Karakter. Pendirian. Sikap dan kondisi yang tak nampak.
+> Hati. Pola pikir. Monolog. Karakter. Pendirian. Sikap dan kondisi yang tak nampak. Akhlaqul karimah.
 
 Mungkin juga aku lupa bahwa mereka dengan hati yang bersih, karakter yang kuat, pola pikir yang tertata, monolog yang menyenangkan, dan pendirian yang teguh adalah manusia yang luar biasa. Mengapa luar biasa? Karena mendapatkan kualitas-kualitas tersebut itu sulit, sulit, sulit sekali.
 

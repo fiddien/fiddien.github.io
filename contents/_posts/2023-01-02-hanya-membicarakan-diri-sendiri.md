@@ -2,7 +2,7 @@
 title      : "5. Hanya membicarakan diri sendiri"
 date       : 2023-01-02 20:30 +00
 categories : [Monologue]
-tags       : 
+tags       : [writing, judgement day]
 
 pin        : false
 math       : false

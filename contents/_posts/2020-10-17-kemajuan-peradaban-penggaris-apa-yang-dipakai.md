@@ -2,7 +2,7 @@
 title      : "Kemajuan Peradaban: Penggaris Apa Yang Dipakai?"
 date       : 2020-10-17
 categories : [Essay, Reflection]
-tags       : [civilization, journey, south korea]
+tags       : [travelling journal, civilization, south korea]
 
 pin        : false
 toc        : true
