@@ -7,6 +7,9 @@ tags       : [mediocre, thinking about the future]
 pin        : false
 math       : false
 mermaid    : false
+
+image      :
+  src      : /assets/img/2023/busy-street.jpg
 ---
 
 Kali ini kita masuk ke pertanyaan yang lebih dalam. Mengapa harus menulis?
@@ -14,6 +17,8 @@ Kali ini kita masuk ke pertanyaan yang lebih dalam. Mengapa harus menulis?
 Ada banyak sekali jawaban. Aku tak perlu membeberkan jawaban-jawaban umum, di sini mari jawab untuk diri sendiri: Aku menulis agar tidak jadi orang yang biasa-biasa saja.
 
 Muncul lagi dua pertanyaan di sini. Apa itu orang yang biasa-biasa saja? Mengapa tidak ingin jadi orang yang biasa-biasa saja?
+
+![](/assets/img/2023/busy-street.jpg)
 
 Biasa-biasa saja, berkualitas moderat, tidak begitu bagus, *mediocre*. Aplikasikan atribut tersebut kepada manusia, itulah definisi dari "orang yang biasa-biasa saja". Definisi ini jika diterjemahkan ke dalam kehidupan sehari-hari maka aku melihat orang yang hidup hanya untuk hidup: bangun tidur untuk bekerja dan pekerjaannya hanya untuk menghidupi dia di hari/minggu/bulan/tahun esoknya. Memang, jika dilihat dari gambaran besar sistem masyarakat dia punya andil sesuatu, tapi ukuran "hanya untuk" di kalimat sebelumnya sejatinya menggunakan niat orang itu sendiri. Jika ia tidak punya niat lebih dari sekedar menghidupi diri, maka ia hanya hidup untuk menghidupi diri.
 

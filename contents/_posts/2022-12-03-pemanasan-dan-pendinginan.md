@@ -7,9 +7,14 @@ tags       : [identity, cloudy mind, writing]
 pin        : false
 math       : false
 mermaid    : false
+
+image      :
+  src      : /assets/img/2023/empty-bench.jpg
 ---
 
 Hari ke hari berlalu. Terkadang aku selalu lupa untuk terus menulis. Kepalaku begitu kosong. Mungkin memang karena jarang diisi. Sedih sekali ketika aku ingin mengakui diri sebagai orang yang berilmu, namun menulis saja kesulitan.
+
+![](/assets/img/2023/empty-bench.jpg)
 
 Perbincangan apalagi yang tidak pernah terlupakan selain tentang cuaca. Hari ini mendung, seperti dua hari sebelumnya. Saking konstannya nuansa seharian, aku juga tak ingin keluar dari pemukiman. Sulit untuk menghangatkan kamarku, jadi sekalinya ditinggalkan, rasanya sayang.
 

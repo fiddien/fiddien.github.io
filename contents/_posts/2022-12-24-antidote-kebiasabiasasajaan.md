@@ -7,6 +7,9 @@ tags       : [mediocre, akhlaqul karimah, sincerity]
 pin        : false
 math       : false
 mermaid    : false
+
+image      :
+  src      : /assets/img/2023/bulb.jpg
 ---
 
 Aku ragu untuk memulai percakapan ini: menjadi orang yang biasa-biasa saja. Sebelum ke arah sana, siapa yang berhak menentukan atau melabeli kita dengan julukan "biasa-biasa saja"? 
@@ -32,6 +35,8 @@ Tidak. Tidak. Tidak. Jangan khawatirkan itu. Tidak perlu mengkhawatirkan kondisi
 Khawatir yang pertama biasanya muncul ketika aku melupakan penggaris hidup yang ada di mejaku. Aku terpaku pada penggaris yang mengatakan bahwa yang biasa adalah yang tidak memenuhi metrik-metrik kehidupan yang *nampak*. Sedang itu, aku tidak menilik pada penggaris yang lebih meneliti seberapa baik metrik-metrik yang *tidak nampak*. Apa metrik yang tidak nampak?
 
 > Hati. Pola pikir. Monolog. Karakter. Pendirian. Sikap dan kondisi yang tak nampak. Akhlaqul karimah.
+
+![/assets/img/2023/bulb.jpg]
 
 Mungkin juga aku lupa bahwa mereka dengan hati yang bersih, karakter yang kuat, pola pikir yang tertata, monolog yang menyenangkan, dan pendirian yang teguh adalah manusia yang luar biasa. Mengapa luar biasa? Karena mendapatkan kualitas-kualitas tersebut itu sulit, sulit, sulit sekali.
 

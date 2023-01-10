@@ -7,6 +7,9 @@ tags       : [reflecting]
 pin        : false
 math       : false
 mermaid    : false
+
+image      :
+  src      : /assets/img/2023/frost1.jpg
 ---
 
 
@@ -17,6 +20,8 @@ Dengan nada mengeneralisasi, bisa dikatakan bahwa tahun 2017 bagiku adalah tahun
 Tidak semua keinginan diraih dan tidak semua perjalanan berlalu mulus. Aku tidak memiliki nilai ujian terbaik, bukan lulusan terbaik di SMA, tidak jadi mengambil ujian SBMPTN ke PTN-fakultas yang paling aku inginkan saat itu, sedikit terseok-seok mengurusi diri sendiri tanpa bantuan langsung orang tua, dan masih tidak bisa menjadi teman terbaik untuk siapa-siapa--sepengetahuanku.
 
 Saat itu, aku cemburu dengan mereka yang berada di tempat yang sebelumnya aku inginkan; cemburu dengan kecermelangan dan kegigihan mereka yang lulus dengan predikat terbaik; cemburu dengan mereka yang sudah mandiri mengurusi diri sendiri sejak kecil; cemburu dengan mereka yang memiliki teman pertemanan dekat yang terus dekat selama bertahun-tahun, atau mereka yang mudah bergaul.
+
+![](/assets/img/2023/frost2.jpg)
 
 Atas izin Allah, cemburu-cemburu itu berguna karena hanya mendiami diri dengan sementara. Cemburu itu tidak berhenti pada rasa terbakar saja; ia mengantarkanku pada kontemplasi yang lebih dalam, seperti,
 
@@ -41,3 +46,5 @@ Satu hal yang benar-benar aku apresiasi sebagai alternatif dari "mengikuti arus"
 Batu kunci adalah satu hal yang paling sederhana yang mengantarkan kita ke hal lainnya yang lebih besar yang kita butuh dan inginkan. Memiliki batu kunci artinya melihat ke sedikit hal yang paling berpengaruh, lalu jadikan itu "pivot" dalam merumuskan keputusan atau rencana aksi. Batu kunciku, menurutku, adalah mendapatkan posisi yang paling sesuai dengan minat. Batu kunciku, menurut mereka, adalah mendapatkan akses ke lingkungan yang baik. Apakah bertabrakan? Alhamdulillah, tidak. Kita bisa menemukan jawaban yang sama, meski tidak langsung kita dapatkan.
 
 Setelah melewatinya, aku akui, prioritas mereka lebih superior dibandingkan proposalku. Minat kita bisa dengan mudah berubah dalam satu malam, tapi mengubah lingkungan tidak bisa semudah itu, banyak pihak yang terlibat. Lingkungan yang baik akan sangat mebangunmu menjadi manusia yang lebih bermanfaat. Sedangkan sekalinya kita masuk ke lingkungan yang buruk, sulit untuk keluar.
+
+![](/assets/img/2023/frost1.jpg)
