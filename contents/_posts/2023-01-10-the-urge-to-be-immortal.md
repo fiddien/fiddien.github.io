@@ -12,9 +12,6 @@ image      :
   src      : /assets/img/2023/old-books.jpg
 ---
 
-![](/assets/img/2023/old-books.jpg)
-_Image by Vojtěch Kučera from Pixabay_
-
 I get the sense that everyone want to be remembered. People have different degree of urgency towards the desire, but at least it is their significant other they wish who keep them in his/her mind.
 
 "Remembered" is quite synonymous with "existed", be it physically or inside someone's memory. If the hypothesis above is true, then we can say every single human wants to be immortal. What is your definition of "immortality"?
@@ -22,6 +19,8 @@ I get the sense that everyone want to be remembered. People have different degre
 One might say it is to "escape" death by prolonging life--something so unlikely.
 
 Other probably mark the history with their long-lasting legacy: their works of intelligence, sparks of creativity, wealth and fortune, global-scale decision, or foolishness.
+
+![](/assets/img/2023/old-books.jpg)
 
 But some don't show any sign of such efforts.
 
