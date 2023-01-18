@@ -1,7 +1,5 @@
 ---
 layout: default
-pannel_includes:
-  - subscription-form
 ---
 
 {% include lang.html %}
@@ -41,11 +39,10 @@ pannel_includes:
   <div id="panel-wrapper" class="col-xl-3 pl-2 text-muted">
 
     <div class="access">
-      {% if page.layout == 'home' %}
+      {% if page.layout == 'blog' %}
         {% include trending-tags.html %}
       {% else %}
         {% include update-list.html %}
-        {% include trending-tags.html %}
       {% endif %}
     </div>
 

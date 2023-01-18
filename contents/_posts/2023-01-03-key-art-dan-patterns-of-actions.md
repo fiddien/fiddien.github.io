@@ -30,7 +30,7 @@ Di momen ini dan beberapa tulisan ke depannya, insya Allah aku akan membeberkan 
 
 Di 2020 itu aku mencoba sejauh mungkin melihat ke belakang, apa saja yang bisa aku simpulkan dari tiap tahun. Aku hanya ingat betul dari tahun 2017. Hingga tulisan ini dibuat di awal 2023, sudah ada enam review besar-besaran. Aku berharap bisa membuat tulisan untuk masing-masing tahun, jika Allah mengizinkan.
 
-- [2017](https://fiddien.com/posts/17-cemburu-kritis-keystone/)
+- [2017](/posts/17-cemburu-kritis-keystone/)
 	- key art: envying
 	- patterns of actions:
 		- questioning the common, the norms, and trends
@@ -67,6 +67,6 @@ Mengapa kamu begitu peduli dengan hal-hal seperti ini? *Why not just go on about
 
 Hehe. Mengapa tidak? Dari jaman ke jaman, pelajaran hidup ditransmisikan lintas generasi menggunakan cerita dan kisah. Dengan adanya ringkasan hidup ini, mudah bagiku untuk mengingat dan menceritakan pelajaran hidup ke anak-cucuku kelak, tanpa perlu membuka buku diary yang seringkali memalukan. 
 
-Itu alasan minornya. Alasan mayornya adalah keystone habit. Kegiatan ini aku canangkan sebagai kebiasaan kunci untuk memberikan sedikit-banyak struktur dalam hidupku, dalam perjalanan [menjauhi *mediocrity*](https://fiddien.com/posts/orang-yang-biasa-biasa-saja/).
+Itu alasan minornya. Alasan mayornya adalah keystone habit. Kegiatan ini aku canangkan sebagai kebiasaan kunci untuk memberikan sedikit-banyak struktur dalam hidupku, dalam perjalanan [menjauhi *mediocrity*](/posts/orang-yang-biasa-biasa-saja/).
 
 Bagaimana dengan tahun ini, 2023? Aku tidak terlalu suka membicarakan rancangan masa depan pribadi di ruang publik. Jika masih ada usia, biarkan *key art and patterns of action of 2023* menjadi calon judul tulisan di tahun selanjutnya.
