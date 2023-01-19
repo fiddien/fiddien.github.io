@@ -39,7 +39,7 @@ layout: default
   <div id="panel-wrapper" class="col-xl-3 pl-2 text-muted">
 
     <div class="access">
-      {% if page.layout == 'post-pages' or page.layout == 'archives' %}
+      {% if page.layout == 'blog' or page.layout == 'archives' %}
         {% include trending-tags.html %}
       {% else %}
         {% include update-list.html %}

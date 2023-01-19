@@ -750,7 +750,7 @@ $sidebar-display: "sidebar-display";
   }
 
   .site-subtitle {
-    font-size: 95%;
+    font-size: 85%;
     color: var(--sidebar-muted-color);
     line-height: 1.2rem;
     word-spacing: 1px;
@@ -1619,13 +1619,13 @@ $sidebar-display: "sidebar-display";
 
 }
 
-@media all and (min-width: 1400px) and (max-width: 1650px) {
+@media all and (min-width: 1400px) and (max-width: 1450px) {
   #topbar {
     padding-right: 2rem;
   }
 }
 
-@media all and (min-width: 1650px) {
+@media all and (min-width: 1450px) {
   #breadcrumb {
     padding-left: 0;
   }
@@ -1663,15 +1663,15 @@ $sidebar-display: "sidebar-display";
     width: $sidebar-width-large;
 
     .profile-wrapper {
-      margin-top: 4rem;
-      margin-bottom: 1rem;
+      margin-top: 3rem;
+      margin-bottom: 0.5rem;
 
       &.text-center {
         text-align: left !important;
       }
 
       %profile-ml {
-        margin-left: 4.5rem;
+        margin-left: 3.5rem;
       }
 
       #avatar {
@@ -1693,7 +1693,7 @@ $sidebar-display: "sidebar-display";
         a {
           font-size: 1.7rem;
           letter-spacing: 1px;
-          margin-left: 3.5rem;
+          margin-left: 2.5rem;
         }
       }
 
@@ -1707,7 +1707,7 @@ $sidebar-display: "sidebar-display";
     } /* .profile-wrapper (min-width: 1650px) */
 
     ul {
-      padding-left: 2.5rem;
+      padding-left: 2rem;
 
       > li:last-child {
         > a {
