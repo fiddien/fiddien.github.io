@@ -1,5 +1,6 @@
 ---
 layout: poems
 title: Poems
-order: 2
+icon: fas fa-paragraph
+order: 6
 ---

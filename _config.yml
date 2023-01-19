@@ -21,9 +21,9 @@ timezone: Asia/Jakarta
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Ilma Aliya Fiddien                          # the main title
+title: Towards Virtue
 
-tagline: connecting dots in life networks   # it will display as the sub-title
+tagline: estuary of the scattered knowledge
 
 description: >-                        # used by seo meta and the atom feed
   A literacy collection of Ilma Aliya Fiddien. Discovering meaning in knowledge and connecting them with the soul.
@@ -117,6 +117,7 @@ assets:
     env:          # [development|production]
 
 paginate: 10
+paginate_path: /blog/:num/
 
 # ------------ The following options are not recommended to be modified ------------------
 
