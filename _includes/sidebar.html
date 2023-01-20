@@ -4,9 +4,9 @@
 
 <div id="sidebar" class="d-flex flex-column align-items-end">
   <div class="profile-wrapper text-center">
+    {% if site.avatar != empty and site.avatar %}
     <div id="avatar">
       <a href="{{ '/' | relative_url }}" alt="avatar" class="mx-auto">
-        {% if site.avatar != empty and site.avatar %}
           {% capture avatar_url %}
             {% if site.avatar contains '://' %}
               {{ site.avatar }}
@@ -17,9 +17,9 @@
             {% endif %}
           {% endcapture %}
           <img src="{{ avatar_url | strip }}" alt="avatar" onerror="this.style.display='none'">
-        {% endif %}
-      </a>
-    </div>
+        </a>
+      </div>
+      {% endif %}
 
     <div class="site-title mt-3 ml-3 mr-3">
       <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
