@@ -25,7 +25,7 @@ html {
     }
   }
 
-  font-size: 16px;
+  font-size: 18px;
 }
 
 body {
@@ -1671,7 +1671,7 @@ $sidebar-display: "sidebar-display";
       }
 
       %profile-ml {
-        margin-left: 3.5rem;
+        margin-left: 3rem;
       }
 
       #avatar {
@@ -1693,7 +1693,7 @@ $sidebar-display: "sidebar-display";
         a {
           font-size: 1.7rem;
           letter-spacing: 1px;
-          margin-left: 2.5rem;
+          margin-left: 2rem;
         }
       }
 
@@ -1707,7 +1707,7 @@ $sidebar-display: "sidebar-display";
     } /* .profile-wrapper (min-width: 1650px) */
 
     ul {
-      padding-left: 2rem;
+      padding-left: 1.5rem;
 
       > li:last-child {
         > a {
