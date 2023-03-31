@@ -1,6 +1,6 @@
 ---
 title      : "23 Pesan Untuk Masa Lalu"
-date       : 2023-01-10 00:24 +00
+date       : 2023-03-29 18:00 +00
 categories : [Personal]
 tags       : [hikmah, self-appreciation]
 
@@ -45,6 +45,8 @@ Jalanmu ringan dan tegap, suatu kebiasaan yang tidak pernah terputus.
 
 ## Tahun ke-10
 Maafkanlah dirimu yang belum mengerti cara membedakan antara kewajiban dan kesenangan semata.
+
+![](/assets/img/2023/big-clock.jpg)
 
 ## Tahun ke-11
 Kini engkau telah mengenal apa yang namanya kecemasan dan kesetiakawanan.
