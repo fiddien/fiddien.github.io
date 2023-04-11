@@ -36,7 +36,7 @@ Khawatir yang pertama biasanya muncul ketika aku melupakan penggaris hidup yang 
 
 > Hati. Pola pikir. Monolog. Karakter. Pendirian. Sikap dan kondisi yang tak nampak. Akhlaqul karimah.
 
-![/assets/img/2023/bulb.jpg]
+![](/assets/img/2023/bulb.jpg)
 
 Mungkin juga aku lupa bahwa mereka dengan hati yang bersih, karakter yang kuat, pola pikir yang tertata, monolog yang menyenangkan, dan pendirian yang teguh adalah manusia yang luar biasa. Mengapa luar biasa? Karena mendapatkan kualitas-kualitas tersebut itu sulit, sulit, sulit sekali.
 
