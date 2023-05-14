@@ -1,8 +1,9 @@
 ---
 title      : "If Plan A Doesn't Work..."
 date       : 2021-11-30 21:00 +07
-categories : [Monologue, "[EN]"]
+categories : [Monologue]
 tags       : planning
+language   : 🇬🇧
 
 pin        : false
 math       : false

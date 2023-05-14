@@ -3,6 +3,7 @@ title      : 3 Pelajaran dari the Simple Guide to a Minimalist Life
 date       : 2021-01-31 08:23 +07
 categories : Book
 tags       : minimalism
+language   : 🇮🇩
 
 pin        : false
 toc        : true

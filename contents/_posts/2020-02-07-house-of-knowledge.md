@@ -1,9 +1,9 @@
 ---
 title      : House of Knowledge 
 date       : 2020-02-07 16:00 +07
-categories : [Reflection, "[EN]"]
+categories : [Reflection]
 tags       : [knowledge]
-author     : # <author_id>
+language   : 🇬🇧
 
 pin        : false
 toc        : false

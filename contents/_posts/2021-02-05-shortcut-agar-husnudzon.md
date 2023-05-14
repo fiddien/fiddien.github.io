@@ -1,8 +1,9 @@
 ---
 title      : Shortcut Agar Husnudzon
 date       : 2021-02-05
-categories : Psychology
+categories : Recommendation
 tags       : coaching
+language   : 🇮🇩
 
 pin        : false
 toc        : true

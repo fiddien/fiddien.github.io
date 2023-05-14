@@ -1,8 +1,9 @@
 ---
 title      : "No Need to Defeat Your Fears"
 date       : 2022-01-13 21:00 +07
-categories : [Psychology, "[EN]"]
+categories : [Monologue]
 tags       : fears
+language   : 🇬🇧
 
 pin        : false
 math       : false

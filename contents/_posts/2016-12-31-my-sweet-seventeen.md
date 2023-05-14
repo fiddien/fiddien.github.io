@@ -1,9 +1,9 @@
 ---
 title      : My Sweet (two thousands and) Seventeen
 date       : 2016-12-31 08:00:00
-categories : [Personal, "[EN]"]
+categories : [Personal]
 tags       : [reflecting, thinking about the future]
-author     : # <author_id>
+language   : 🇬🇧
 
 pin        : false
 toc        : false

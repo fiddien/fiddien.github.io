@@ -1,9 +1,9 @@
 ---
 title      : My Reading Life
 date       : 2018-06-28 17:00 +07
-categories : [Knowledge Seeking, Personal, "[EN]"]
+categories : [Book]
 tags       : [reading, planning]
-author     : # <author_id>
+language   : 🇬🇧
 
 pin        : false
 toc        : false

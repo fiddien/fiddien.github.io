@@ -1,9 +1,9 @@
 ---
 title      : A Lesson at the Dawn of the 7th
 date       : 2018-05-23 21:00 +07
-categories : [Personal, "[EN]"]
+categories : [Personal]
 tags       : [college, itb]
-author     : # <author_id>
+language   : 🇬🇧
 
 pin        : false
 toc        : false

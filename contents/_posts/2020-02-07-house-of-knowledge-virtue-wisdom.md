@@ -1,9 +1,9 @@
 ---
 title      : House of Knowledge, Virtue, and Wisdom
 date       : 2020-02-08 23:56 +07
-categories : [Personal, "[EN]"]
+categories : [Personal]
 tags       : [house, dormitory]
-author     : # <author_id>
+language   : 🇬🇧
 
 pin        : false
 toc        : true

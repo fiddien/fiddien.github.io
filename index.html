@@ -4,7 +4,8 @@ title: Ilma Aliya Fiddien
 # Index page
 ---
 
-<img src="assets/norobots/profile_small.png" alt="author" style="float: right; width: 120px; max-width: 50%; margin:10px 0px 16px 16px; pointer-events: none;">
+{% include lang.html %}
+<!-- <img src="assets/norobots/profile_small.png" alt="author" style="float: right; width: 120px; max-width: 50%; margin:10px 0px 16px 16px; pointer-events: none;"> -->
 
 <p>
     <a href="">Ilma</a> is a student of MSc Speech and Language Processing at the University of Edinburgh, sponsored by Indonesia Endowment Fund for Education (LPDP).
@@ -22,3 +23,48 @@ title: Ilma Aliya Fiddien
 <blockquote>
 <p><em>&quot;Deep in the human unconscious is a pervasive need for a logical universe that makes sense. But the real universe is always one step beyond logic.&quot;</em> --Frank Herbert, <em>Dune</em></p>
 </blockquote> -->
+
+Here are some of the highlighted posts:
+
+{% assign fronted = site.posts | where: "front", "true" %}
+{% assign default = site.posts | where_exp: "item", "item.front != true and item.hidden != true" %}
+{% assign posts = "" | split: "" %}
+{% assign offset = paginator.page | minus: 1 | times: paginator.per_page %}
+{% assign fronted_num = fronted.size | minus: offset %}
+
+<!-- {% if fronted_num > 0 %}
+  {% for i in (offset..fronted.size) limit: fronted_num %}
+    {% assign posts = posts | push: fronted[i] %}
+  {% endfor %}
+{% else %}
+  {% assign fronted_num = 0 %}
+{% endif %} -->
+
+
+<ul>
+{% for post in posts %}
+
+    
+<li>
+    <a href="{{ post.url | relative_url }}" class="post-tag no-text-decoration">{{ post.title }}</a>
+    <sup> 
+        <!-- time to read -->
+        <span>
+            <!-- <i class="far fa-clock fa-fw"></i> -->
+            {% include read-time.html content=post.content %}
+        </span>
+
+        <!-- post language -->
+        {% if post.language %}
+            <span>
+                | {{ post.language }}
+            </span>
+        {% endif %}
+        <!-- language -->
+        
+    </sup>
+</li>
+
+{% endfor %}
+</ul>
+    

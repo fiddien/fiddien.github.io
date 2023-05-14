@@ -3,6 +3,7 @@ title      : "P3I 1438 H & Kreator: Menjadi Orang Yang Terlibat"
 date       : 2021-11-22 06:34 +07
 categories : [University Life]
 tags       : [islam, itb, mosque, organization]
+language   : 🇮🇩
 
 pin        : false
 math       : false

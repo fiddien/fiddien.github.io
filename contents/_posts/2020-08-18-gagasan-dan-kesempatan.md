@@ -3,6 +3,7 @@ title      : Gagasan dan Kesempatan
 date       : 2020-08-18 +07
 categories : 
 tags       : 
+language   : 🇮🇩
 
 pin        : false
 math       : false

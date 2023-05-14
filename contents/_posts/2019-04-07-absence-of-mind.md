@@ -1,9 +1,9 @@
 ---
-title      : 
+title      : Absence of Mind
 date       : 2019-04-07 11:47 +07
-categories : 
+categories : Monologue
 tags       : 
-author     : # <author_id>
+language   : 🇬🇧
 
 pin        : false
 toc        : false

@@ -3,6 +3,7 @@ title      : "3 Pelajaran dari Tenggelamnya Kapal Van der Wijck"
 date       : 2021-01-16
 categories : Book
 tags       : [romance, "sabr & syukr"]
+language   : 🇮🇩
 
 pin        : false
 toc        : true

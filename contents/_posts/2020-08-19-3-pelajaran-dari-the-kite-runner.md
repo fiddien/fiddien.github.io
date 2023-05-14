@@ -3,7 +3,7 @@ title      : "3 Pelajaran dari The Kite Runner: Novel Terbaik"
 date       : 2020-08-19 16:00 +07
 categories : Book
 tags       : [being moral]
-author     : # <author_id>
+language   : 🇮🇩
 
 pin        : false
 toc        : false

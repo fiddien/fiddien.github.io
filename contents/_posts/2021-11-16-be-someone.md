@@ -1,8 +1,9 @@
 ---
 title      : "Be Someone You Always Wanted to Be"
 date       : 2021-11-16 21:21 +07
-categories : [Personal, "[EN]"]
+categories : [Personal]
 tags       : [proactive, value]
+language   : 🇬🇧
 
 pin        : false
 math       : false

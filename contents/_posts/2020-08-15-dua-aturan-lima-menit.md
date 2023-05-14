@@ -1,9 +1,9 @@
 ---
 title      : Dua Aturan 5 Menit
 date       : 2020-08-15 07:34 +07
-categories : Productivity
+categories : Recommendation
 tags       : [rules]
-author     : # <author_id>
+language   : 🇮🇩
 
 pin        : false
 toc        : false

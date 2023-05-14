@@ -1,11 +1,12 @@
 ---
 title      : "Belajar IELTS: Alasan, Strategi, dan Tips | An Immersive Approach"
 date       : 2022-03-22 17:34 +07
-categories : [Knowledge Seeking]
+categories : [Recommendation]
 tags       : [ielts, study abroad]
-author     : # <author_id>
+language   : 🇮🇩
 
 pin        : true
+front      : true
 toc        : true
 comments   : true
 math       : false

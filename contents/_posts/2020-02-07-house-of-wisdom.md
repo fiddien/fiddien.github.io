@@ -1,8 +1,9 @@
 ---
 title      : House of Wisdom
 date       : 2020-02-07 23:30 +07
-categories : [Reflection, "[EN]"]
+categories : [Reflection]
 tags       : [wisdom]
+language   : 🇬🇧
 
 pin        : false
 toc        : false

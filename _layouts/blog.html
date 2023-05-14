@@ -81,6 +81,15 @@ pannel_includes:
           {% endfor %}
           </span>
         {% endif %}
+
+        <!-- post language -->
+        {% if post.language %}
+          <i class="fas fa-language fa-fw"></i>
+          <span>
+            {{ post.language }}
+          </span>
+        {% endif %}
+
       </div>
 
       {% if post.pin %}
