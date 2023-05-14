@@ -3,7 +3,7 @@ title      : Jalan Tengah Antara Rasionalitas dan Spiritualitas
 date       : 2021-07-20 20:43 +07
 categories : [Essay]
 tags       : spirituality
-language   : 🇮🇩
+languages  : 🇮🇩
 
 pin        : false
 toc        : true

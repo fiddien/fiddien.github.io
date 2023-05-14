@@ -3,7 +3,7 @@ title      : Menjaga Memori Mengembara
 date       : 2020-10-15 22:02 +07
 categories : Personal
 tags       : [far away from home, hikmah, ikhlas, video editing, south korea]
-language   : 🇮🇩
+languages  : 🇮🇩
 
 pin        : false
 toc        : false

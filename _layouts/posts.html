@@ -43,8 +43,13 @@ pannel_includes:
   {% endfor %}
 {% endif %}
 
+<br>
+
+Post language: <a href="/blog/en" class="post-tag no-text-decoration">🇬🇧</a>
+<a href="/blog/id" class="post-tag no-text-decoration">🇮🇩</a>
 
 <div id="post-list">
+
 
 {% for post in posts %}
   
@@ -83,10 +88,10 @@ pannel_includes:
         {% endif %}
 
         <!-- post language -->
-        {% if post.language %}
+        {% if post.languages %}
           <i class="fas fa-language fa-fw"></i>
           <span>
-            {{ post.language }}
+            {{ post.languages }}
           </span>
         {% endif %}
 

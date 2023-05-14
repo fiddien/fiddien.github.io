@@ -3,7 +3,7 @@ title      : My Reading Life
 date       : 2018-06-28 17:00 +07
 categories : [Book]
 tags       : [reading, planning]
-language   : 🇬🇧
+languages  : 🇬🇧
 
 pin        : false
 toc        : false

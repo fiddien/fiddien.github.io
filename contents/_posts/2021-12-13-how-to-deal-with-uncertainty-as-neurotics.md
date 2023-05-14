@@ -3,7 +3,7 @@ title      : How to Deal with Uncertainty as a Neurotic
 date       : 2021-12-13 12:49 +07
 categories : [Recommendation]
 tags       : [uncertainty, wellbeing]
-language   : 🇬🇧
+languages  : 🇬🇧
 
 pin        : false
 toc        : true

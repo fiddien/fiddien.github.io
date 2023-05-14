@@ -3,7 +3,7 @@ title      : House of Knowledge, Virtue, and Wisdom
 date       : 2020-02-08 23:56 +07
 categories : [Personal]
 tags       : [house, dormitory]
-language   : 🇬🇧
+languages  : 🇬🇧
 
 pin        : false
 toc        : true

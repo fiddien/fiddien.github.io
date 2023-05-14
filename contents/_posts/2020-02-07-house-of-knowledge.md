@@ -3,7 +3,7 @@ title      : House of Knowledge
 date       : 2020-02-07 16:00 +07
 categories : [Reflection]
 tags       : [knowledge]
-language   : 🇬🇧
+languages  : 🇬🇧
 
 pin        : false
 toc        : false

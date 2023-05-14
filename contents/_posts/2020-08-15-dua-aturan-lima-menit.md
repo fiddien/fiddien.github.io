@@ -3,7 +3,7 @@ title      : Dua Aturan 5 Menit
 date       : 2020-08-15 07:34 +07
 categories : Recommendation
 tags       : [rules]
-language   : 🇮🇩
+languages  : 🇮🇩
 
 pin        : false
 toc        : false

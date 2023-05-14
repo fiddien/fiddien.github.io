@@ -3,7 +3,7 @@ title      : Sains, Bebas-Nilai atau Terikat-Nilai?
 date       : 2021-07-16 21:12 +07
 categories : [Essay]
 tags       : [discourse, philosophy, science, value]
-language   : 🇮🇩
+languages  : 🇮🇩
 
 pin        : false
 toc        : true

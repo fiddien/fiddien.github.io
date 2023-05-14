@@ -3,7 +3,7 @@ title      : A Lesson at the Dawn of the 7th
 date       : 2018-05-23 21:00 +07
 categories : [Personal]
 tags       : [college, itb]
-language   : 🇬🇧
+languages  : 🇬🇧
 
 pin        : false
 toc        : false

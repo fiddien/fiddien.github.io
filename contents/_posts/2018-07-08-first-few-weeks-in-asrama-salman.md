@@ -3,7 +3,7 @@ title      : The First Few Weeks in Asrama Salman
 date       : 2018-07-08
 categories : [Personal]
 tags       : [salman, scholarship]
-language   : 🇬🇧
+languages  : 🇬🇧
 
 pin        : false
 toc        : false

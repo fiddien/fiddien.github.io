@@ -11,10 +11,7 @@ title: Ilma Aliya Fiddien
     <a href="">Ilma</a> is a student of MSc Speech and Language Processing at the University of Edinburgh, sponsored by Indonesia Endowment Fund for Education (LPDP).
 </p>
 <p>
-    She writes in <a href="/blog">this blog</a> and <a href="https://fiddien.medium.com">Medium</a> to reflect from her experiences and to cristalise what she has learned. All are for progressing a self to be more virtuous.
-</p>
-<p>
-    <a href="mailto:ilmaaliyaf@gmail.com">Email</a>, <a href="https://linkedin.com/in/fiddien">connect</a>, or follow along her <a href="https://goodreads.com/fiddien">reading list</a>.
+    She writes in <a href="/blog">this blog</a> and <a href="https://fiddien.medium.com">Medium</a> to reflect from her experiences and to cristalise what she has learned.
 </p>
 <!-- <blockquote>
 <p><em>&quot;Read: In the name of your Lord Who created, created human from a clot. Read: And your Lord is the Most Generous, Who taught by the pen, taught human that which he knew not.&quot;</em> --QS 96:19</p>
@@ -24,7 +21,13 @@ title: Ilma Aliya Fiddien
 <p><em>&quot;Deep in the human unconscious is a pervasive need for a logical universe that makes sense. But the real universe is always one step beyond logic.&quot;</em> --Frank Herbert, <em>Dune</em></p>
 </blockquote> -->
 
-Here are some of the highlighted posts:
+<p>
+    Posts language: 
+        <a href="/blog/en" class="post-tag no-text-decoration">🇬🇧</a>
+        <a href="/blog/id" class="post-tag no-text-decoration">🇮🇩</a>
+</p>
+
+Highlighted:
 
 {% assign fronted = site.posts | where: "front", "true" %}
 {% assign default = site.posts | where_exp: "item", "item.front != true and item.hidden != true" %}
@@ -47,18 +50,17 @@ Here are some of the highlighted posts:
     {% for post in posts %}
     
     <li>
-        <a href="{{ post.url | relative_url }}" class="post-tag no-text-decoration">{{ post.title }}</a>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
         <sup> 
             <!-- time to read -->
             <span>
-                <!-- <i class="far fa-clock fa-fw"></i> -->
                 {% include read-time.html content=post.content %}
             </span>
 
             <!-- post language -->
-            {% if post.language %}
+            {% if post.languages %}
                 <span>
-                    | {{ post.language }}
+                    | {{ post.languages }}
                 </span>
             {% endif %}
             <!-- language -->
@@ -69,3 +71,7 @@ Here are some of the highlighted posts:
     {% endfor %}
 </ul>
     
+<hr>
+<p>
+    <a href="mailto:ilmaaliyaf@gmail.com"><i class="fas fa-envelope fa-fw"></i> Email</a>, <a href="https://linkedin.com/in/fiddien"><i class="fab fa-linkedin fa-fw"></i> connect</a>, or follow along her <a href="https://goodreads.com/fiddien"><i class="fab fa-goodreads fa-fw"></i> reading list</a>.
+</p>

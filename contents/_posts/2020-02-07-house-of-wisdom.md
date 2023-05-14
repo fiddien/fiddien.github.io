@@ -3,7 +3,7 @@ title      : House of Wisdom
 date       : 2020-02-07 23:30 +07
 categories : [Reflection]
 tags       : [wisdom]
-language   : 🇬🇧
+languages  : 🇬🇧
 
 pin        : false
 toc        : false

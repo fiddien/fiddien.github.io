@@ -3,7 +3,7 @@ title      : Setelah Setengah Tahun
 date       : 2017-07-24 08:00:00+07
 categories : Personal
 tags       : reflecting
-language   : 🇮🇩
+languages  : 🇮🇩
 
 pin        : false
 toc        : false

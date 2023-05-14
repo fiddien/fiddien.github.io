@@ -3,7 +3,7 @@ title      : "Who Is Going to Tell Your Story?"
 date       : 2021-11-18 21:11 +07
 categories : [Personal]
 tags       : reflecting
-language   : 🇬🇧
+languages  : 🇬🇧
 
 pin        : false
 math       : false

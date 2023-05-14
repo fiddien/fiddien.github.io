@@ -3,7 +3,7 @@ title      : Antara Matematika atau Fisika?
 date       : 2017-07-27 08:00:00 +07
 categories : Personal
 tags       : ["thinking about the future", itb]
-language   : 🇮🇩
+languages  : 🇮🇩
 
 pin        : false
 toc        : false

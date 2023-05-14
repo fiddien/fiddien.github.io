@@ -3,7 +3,7 @@ title      : "2. Pemanasan dan pendinginan"
 date       : 2022-12-03 10:15 +00
 categories : [Monologue]
 tags       : [identity, cloudy mind, writing]
-language   : 🇮🇩
+languages  : 🇮🇩
 
 pin        : false
 math       : false

@@ -3,7 +3,7 @@ title      : "The Urge to be Immortal"
 date       : 2023-01-10 00:24 +00
 categories : [Monologue]
 tags       : [afterlife]
-language   : 🇬🇧
+languages  : 🇬🇧
 
 pin        : false
 math       : false

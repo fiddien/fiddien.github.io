@@ -3,7 +3,7 @@ title      : "Key art dan patterns of actions tahunan"
 date       : 2023-01-03 02:11 +00
 categories : [Personal]
 tags       : [sincerity, planning, reflecting]
-language   : 🇮🇩
+languages  : 🇮🇩
 
 pin        : false
 front      : true

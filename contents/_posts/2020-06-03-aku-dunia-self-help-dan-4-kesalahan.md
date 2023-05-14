@@ -3,7 +3,7 @@ title      : Aku, Dunia Self-Help, dan 4 Kesalahan
 date       : 2020-06-03 10:00 +07
 categories : Personal
 tags       : ["sabr & syukr", essentialism, continous improvement, reading]
-language   : 🇮🇩
+languages  : 🇮🇩
 
 pin        : false
 toc        : true

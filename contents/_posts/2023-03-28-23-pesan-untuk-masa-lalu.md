@@ -3,7 +3,7 @@ title      : "23 Pesan Untuk Masa Lalu"
 date       : 2023-03-29 18:00 +00
 categories : [Personal]
 tags       : [hikmah, self-appreciation]
-language   : 🇮🇩
+languages  : 🇮🇩
 
 pin        : false
 math       : false

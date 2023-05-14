@@ -3,7 +3,7 @@ title      : "Be Someone You Always Wanted to Be"
 date       : 2021-11-16 21:21 +07
 categories : [Personal]
 tags       : [proactive, value]
-language   : 🇬🇧
+languages  : 🇬🇧
 
 pin        : false
 math       : false

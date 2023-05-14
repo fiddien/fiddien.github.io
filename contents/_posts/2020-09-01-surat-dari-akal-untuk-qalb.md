@@ -3,7 +3,7 @@ title      : Surat dari Akal untuk Qalb Yang Hampir Sekarat
 date       : 2020-09-01 17:00 +07
 categories : [Essay]
 tags       : [heart, intelligence]
-language   : 🇮🇩
+languages  : 🇮🇩
 
 pin        : false
 toc        : true

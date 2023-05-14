@@ -3,7 +3,7 @@ title      : My Sweet (two thousands and) Seventeen
 date       : 2016-12-31 08:00:00
 categories : [Personal]
 tags       : [reflecting, thinking about the future]
-language   : 🇬🇧
+languages  : 🇬🇧
 
 pin        : false
 toc        : false

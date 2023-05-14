@@ -3,7 +3,7 @@ title      : "Rutinitas Pagi: Tips dan Trik"
 date       : 2020-08-12 14:30 +07
 categories : Recommendation
 tags       : [morning, wellbeing]
-language   : 🇮🇩
+languages  : 🇮🇩
 
 pin        : false
 toc        : true

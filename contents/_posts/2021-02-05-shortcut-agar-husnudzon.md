@@ -3,7 +3,7 @@ title      : Shortcut Agar Husnudzon
 date       : 2021-02-05
 categories : Recommendation
 tags       : coaching
-language   : 🇮🇩
+languages  : 🇮🇩
 
 pin        : false
 toc        : true

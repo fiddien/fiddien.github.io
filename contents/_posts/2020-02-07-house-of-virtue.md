@@ -3,7 +3,7 @@ title      : House of Virtue
 date       : 2020-02-07 21:00 +07
 categories : [Reflection]
 tags       : [knowledge]
-language   : 🇬🇧
+languages  : 🇬🇧
 
 pin        : false
 toc        : false

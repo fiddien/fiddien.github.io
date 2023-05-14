@@ -34,7 +34,7 @@ github:
   username: fiddien
 
 twitter:
-  username: iafiddien
+  username: ifiddien
 
 social:
   # Change to your full name.
@@ -208,10 +208,12 @@ exclude:
   - package*.json
 
 jekyll-archives:
-  enabled: [categories, tags]
+  enabled: [categories, tags, languages]
   layouts:
     category: category
     tag: tag
+    languages: category
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+    languages: /languages/:name/

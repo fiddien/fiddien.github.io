@@ -3,7 +3,7 @@ title      : "3 Pelajaran dari The ICLIF Leadership Competency Model (LCM): An I
 date       : 2021-01-09-3 08:00 +07
 categories : Book
 tags       : [leadership, worldview, islam]
-language   : 🇮🇩
+languages  : 🇮🇩
 
 pin        : false
 toc        : true

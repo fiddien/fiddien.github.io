@@ -3,7 +3,7 @@ title      : Manusia Yang Belajar Dari Machine Learning
 date       : 2021-07-08 +07
 categories : [Essay]
 tags       : [machine learning, education]
-language   : 🇮🇩
+languages  : 🇮🇩
 
 pin        : false
 toc        : true
