@@ -5,7 +5,11 @@
 -
   type: linkedin
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-  url:  'https://linkedin.com/in/fiddien'                  # Fill with your Linkedin homepage
+  url:  'https://linkedin.com/in/fiddien'
+- 
+  type: goodreads
+  icon: 'fab fa-goodreads'
+  url:  'https://www.goodreads.com/fiddien'
 # -
 #   type: twitter
 #   icon: 'fab fa-twitter'
@@ -13,10 +17,10 @@
 #   type: instagram
 #   icon: 'fab fa-instagram'
 #   url: 'https://instagram.com/ilmaaliyaf'
--
-  type: rss
-  icon: 'fas fa-rss'
-  noblank: true
+# -
+#   type: rss
+#   icon: 'fas fa-rss'
+#   noblank: true
 
 # Uncomment and complete the url below to enable more contact options
 # -
