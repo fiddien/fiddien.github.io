@@ -40,13 +40,10 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Ilma Aliya Fiddien
-  email: 
+  email: ilmaaliyaf@gmail.com
   links:
     # The first element serves as the copyright owner's link
-    - https://www.linkedin.com/in/fiddien
-    - https://twitter.com/iafiddien
-    - https://github.com/fiddien
-    - https://goodreads.com/ilmaaliyaf
+    - \#
 
 google_site_verification:               # fill in to your verification string
 
@@ -54,7 +51,7 @@ google_site_verification:               # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 pwa:
-  enabled: false   # the option for PWA feature
+  enabled: true   # the option for PWA feature
 
 google_analytics:
   id:                 # fill in your Google Analytics ID

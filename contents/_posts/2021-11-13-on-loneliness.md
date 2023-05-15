@@ -1,7 +1,7 @@
 ---
 title      : "On Loneliness: He is Close to Me"
 date       : 2021-11-13 23:01 +07
-categories : [Monologue]
+categories : [Floating Idea]
 tags       : [loneliness, spirituality]
 languages  : 🇬🇧
 
