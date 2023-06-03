@@ -1,5 +1,4 @@
 User-agent: *
+Disallow:
 
-Disallow: /norobots/
-
-Sitemap: https://fiddien.com/sitemap.xml
+Sitemap: https://alshedivat.github.io/al-folio/sitemap.xml
