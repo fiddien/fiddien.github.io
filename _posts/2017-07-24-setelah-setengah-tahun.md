@@ -11,16 +11,6 @@ comments   : false
 math       : false
 mermaid    : false
 
-img_path   : 
-image      :
-  path     : 
-  width    : 
-  height   : 
-  alt      : 
-
-# ![image alt](img src){: width="700" height="400" .normal/left/right/shadow}
-# _image caption_
-# {: .prompt-info/tip/warning/danger/ }
 ---
 Sudah lebih dari setengah tahun aku terakhir kali membuka blog ini. Terkenang dulu kegundahan dan kegelisahan diri menghadapi akhir suatu fase hidup. Fase ‘anak sekolah’.
 
