@@ -13,7 +13,7 @@ baseurl: ""
 lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: Asia/Jakarta
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
@@ -28,10 +28,10 @@ description: >-                        # used by seo meta and the atom feed
 url: https://fiddien.com
 
 github:
-  username: github_username # change to your github username
+  username: fiddien # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: ifiddien # change to your twitter username
 
 social:
   # Change to your full name.
@@ -115,7 +115,7 @@ pwa:
   enabled: false # the option for PWA feature
 
 paginate: 7
-paginate_path: "/blog/:num/"
+# paginate_path: "/blog/:num/"
 
 # ------------ The following options are not recommended to be modified ------------------
 
