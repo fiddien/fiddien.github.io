@@ -1,4 +1,5 @@
 ---
+layout: post
 title      : "23 Pesan Untuk Masa Lalu"
 date       : 2023-03-29 18:00 +00
 categories : [Personal]

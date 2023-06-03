@@ -1,4 +1,5 @@
 ---
+layout: post
 title      : "Nyaman Menjadi Berbeda: Muslim dan Southeast Asian di UK"
 date       : 2022-10-02 22:37 +01
 categories : [Personal, University Life]

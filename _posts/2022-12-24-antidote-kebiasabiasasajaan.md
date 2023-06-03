@@ -1,4 +1,5 @@
 ---
+layout: post
 title      : "4. Antidote untuk kebiasabiasasajaan"
 date       : 2022-12-24 19:20 +00
 categories : [Floating Idea]

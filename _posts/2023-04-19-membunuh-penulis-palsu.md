@@ -1,4 +1,5 @@
 ---
+layout: post
 title      : "Membunuh Penulis Palsu"
 date       : 2023-04-19 02:38 +00
 categories : [Monologue]

@@ -1,4 +1,5 @@
 ---
+layout: post
 title      : "Membeli buku itu tidak sepenuhnya salah"
 date       : 2023-04-24 02:22 +00
 categories : [Floating Idea]

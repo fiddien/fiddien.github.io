@@ -1,4 +1,5 @@
 ---
+layout: post
 title      : "Belajar untuk tidak perlu berpikir panjang"
 date       : 2023-04-27 03:54 +00
 categories : [Floating Idea]

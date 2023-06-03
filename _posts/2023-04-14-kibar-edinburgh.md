@@ -1,4 +1,5 @@
 ---
+layout: post
 title      : "Rasanya Ada Yang Tak Mau Ditinggalkan: Muslim Indonesia di Edinburgh"
 date       : 2023-04-14 22:00 +00
 categories : [University Life]
