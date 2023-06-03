@@ -1,68 +1,38 @@
 ---
-name: Bug Report
+name: Bug report
 about: Create a report to help us improve
+title: ''
+labels: bug
+assignees: ''
+
 ---
 
-**NOTE:** Before you start, the following should be completed.
+**Acknowledge the following**
+- [ ] I carefully read and followed the [Getting Started](https://github.com/alshedivat/al-folio#getting-started) guide.
+- [ ] I read through [FAQ](https://github.com/alshedivat/al-folio#faq) and searched through the [past issues](https://github.com/alshedivat/al-folio/issues), none of which addressed my issue.
+- [ ] The issue I am raising is a potential bug in al-folio and not just a usage question. <br> [For usage questions, please post in the [Discussions](https://github.com/alshedivat/al-folio/discussions) instead of raising an issue.]
 
-- Read [Wiki][wiki] to understand the usage and the correct effect of functional design.
-- Make sure no [similar issue(including closed ones)][issues] exists.
-- Make sure the bug is found in the latest code of the `master` branch.
+**Describe the bug**
+A clear and concise description of what the bug is.
 
-[wiki]: https://github.com/cotes2020/jekyll-theme-chirpy/wiki
-[issues]: https://github.com/cotes2020/jekyll-theme-chirpy/issues?q=is%3Aissue
-
-## Describe the bug
-
-<!-- A clear and concise description of what the bug is. -->
-
-## To Reproduce
-
+**To Reproduce**
 Steps to reproduce the behavior:
-<!--
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
--->
 
-## Expected behavior
+**Expected behavior**
+A clear and concise description of what you expected to happen.
 
-<!-- A clear and concise description of what you expected to happen. -->
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
 
-## Logs/Screenshots
+**System (please complete the following information):**
+ - OS: [e.g. iOS]
+ - Browser (and its version) [e.g. chrome, safari]
+ - Jekyll version [e.g. 3.8.7]
+- Ruby version [e.g. 2.6.5]
 
-<!-- If applicable, add logs/screenshots to help explain your problem. -->
-
-## Environment
-
-| Command                           | Version |
-|-----------------------------------|---------|
-| `ruby -v`                         |         |
-| `gem -v`                          |         |
-| `bundle -v`                       |         |
-| `bundle exec jekyll -v`           |         |
-| `bundle info jekyll-theme-chirpy` |         |
-
-<!-- If necessary, uncomment and fill in the following list:
-
-### Desktop
-
-- OS: [e.g. macOS 10.15.6]
-- Browser: [e.g. Chrome 85.0.4183.83 (64-bit)]
-
--->
-
-<!-- If necessary, uncomment and fill in the following list:
-
-### Smartphone
-
-- Device: [e.g. iPhone 6]
-- OS: [e.g. iOS 13.6.1]
-- Browser: [e.g. Chrome 22]
-
--->
-
-## Additional context
-
-<!-- Add any other context about the problem here. -->
+**Additional context**
+Add any other context about the problem here.
