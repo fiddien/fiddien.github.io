@@ -1,5 +1,6 @@
 ---
-layout: page-no-access
+layout: page
+refactor: true
 pannel_includes:
   - other-poems
 ---
@@ -56,14 +57,8 @@ pannel_includes:
   {{ content }}
 </div>
 
-<div class="post-meta text-muted">
-    <div class="d-flex">
-        <div>
-        <!-- published date -->
-        <span>
-            {{ site.data.locales[lang].post.posted }}
-            {% include timeago.html date=page.date tooltip=true %}
-        </span>
-        </div>
-    </div> <!-- .d-flex -->
+<div class="post-meta text-muted" style="text-align: center;">
+  <!-- published date -->
+    {{ site.data.locales[lang].post.posted }}
+    {% include datetime.html date=page.date tooltip=true lang=lang %}
 </div>
