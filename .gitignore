@@ -21,4 +21,4 @@ package-lock.json
 .obsidian
 
 # gemfile
-Gemfile.lock
+# Gemfile.lock
