@@ -33,14 +33,14 @@
                   {{ site.data.locales[include.lang].tabs.archives | capitalize }}
                 </a>
               </span>
-              <span>{{ page.title | truncate: 24 }}</span>
+              <!-- <span>{{ page.title }}</span> -->
             {% elsif page.layout == 'poem' %}
               <span>
                 <a href="{{ '/poems' | relative_url }}">
                   {{ site.data.locales[include.lang].tabs.poems | capitalize }}
                 </a>
               </span>
-              <span>{{ page.title }}</span>
+              <!-- <span>{{ page.title }}</span> -->
             {% else %}
               <span>{{ page.title }}</span>
             {% endif %}

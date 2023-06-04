@@ -1461,13 +1461,13 @@ $btn-mb: 0.5rem;
     max-width: 700px;
   }
 
-  // #breadcrumb {
-  //   width: 65%;
-  //   overflow: hidden;
-  //   text-overflow: ellipsis;
-  //   word-break: keep-all;
-  //   white-space: nowrap;
-  // }
+  #breadcrumb {
+    width: 65%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    word-break: keep-all;
+    white-space: nowrap;
+  }
 }
 
 /* panel hidden */
