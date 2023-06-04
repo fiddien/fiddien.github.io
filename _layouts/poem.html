@@ -1,0 +1,84 @@
+---
+<<<<<<< HEAD
+layout: page-no-access
+=======
+layout: page
+refactor: false
+>>>>>>> parent of 6a5ac1f (Merge branch 'main' of https://github.com/fiddien/fiddien.github.io)
+pannel_includes:
+  - other-poems
+---
+
+{% include lang.html %}
+
+<<<<<<< HEAD
+{% if page.image.path %}
+  {% capture bg %}
+    {% unless page.image.no_bg %}{{ 'bg' }}{% endunless %}
+  {% endcapture %}
+  <img loading=lazy src="{{ page.image.path }}" class="preview-img {{ bg | strip }}"
+      alt="{{ page.image.alt | default: "Preview Image" }}"
+
+      {% if page.image.width %}
+        width="{{ page.image.width }}"
+      {% elsif page.image.w %}
+        width="{{ page.image.w }}"
+      {% endif %}
+
+      {% if page.image.height %}
+        height="{{ page.image.height }}"
+      {% elsif page.image.h %}
+        height="{{ page.image.h }}"
+      {% endif %}>
+{% endif %}
+
+=======
+>>>>>>> parent of 6a5ac1f (Merge branch 'main' of https://github.com/fiddien/fiddien.github.io)
+<h1 data-toc-skip style="text-align: center;">{{ page.title }}</h1>
+
+<div class="post-meta text-muted">
+
+  <!-- author -->
+  <div style="text-align: center;">
+    {% capture author_name %}{{ site.data.authors[page.author].name | default: site.social.name }}{% endcapture %}
+    {% assign author_link = nil %}
+
+    {% if page.author %}
+      {% assign author_link = site.data.authors[page.author].url %}
+    {% elsif author_name == site.social.name %}
+      {% assign author_link = site.social.links[0] %}
+    {% endif %}
+
+    {{ site.data.locales[lang].post.written_by }}
+    <em>
+      {% if author_link %}
+        <a href="{{ author_link }}">{{ author_name }}</a>
+      {% else %}
+        {{ author_name }}
+      {% endif %}
+    </em>
+  </div>
+</div> <!-- .post-meta -->
+
+<div class="post-content" style="text-align: center;">
+  {{ content }}
+</div>
+
+<<<<<<< HEAD
+<div class="post-meta text-muted">
+    <div class="d-flex">
+        <div>
+        <!-- published date -->
+        <span>
+            {{ site.data.locales[lang].post.posted }}
+            {% include timeago.html date=page.date tooltip=true %}
+        </span>
+        </div>
+    </div> <!-- .d-flex -->
+=======
+<div class="post-meta text-muted" style="text-align: center;">
+  <!-- published date -->
+    {{ site.data.locales[lang].post.posted }}
+    {% include datetime.html date=page.date tooltip=true lang=lang %}
+>>>>>>> parent of 6a5ac1f (Merge branch 'main' of https://github.com/fiddien/fiddien.github.io)
+</div>

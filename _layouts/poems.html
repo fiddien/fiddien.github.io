@@ -1,0 +1,51 @@
+---
+layout: page
+<<<<<<< HEAD
+# The list of poems.
+---
+
+<!-- <div id="post-list"> -->
+  <div style="column-count:2; column-gap:40px;">
+    {% for post in site.poems %}
+      <p><a href="{{ post.url | relative_url }}">{{ post.title }}</a></p>
+    {% endfor %}
+  </div>
+<!-- </div>  -->
+=======
+refactor: true
+---
+
+<div id="post-list">
+  <div style="column-count:2; column-gap:25px; break-inside: avoid; page-break-inside: avoid;">
+    {% for post in site.poems %}
+      <a href="{{ post.url | relative_url }}" style="text-decoration: none;">
+        <div class="card post-preview flex-md-row-reverse">
+          {% if post.image %}
+            {% if post.image.lqip %}
+              {% capture lqip %}lqip="{{ post.image.lqip }}"{% endcapture %}
+            {% endif %}
+  
+            {% assign src = post.image.path | default: post.image %}
+            {% unless src contains '//' %}
+              {% assign src = post.img_path | append: '/' | append: src | replace: '//', '/' %}
+            {% endunless %}
+  
+            {% assign alt = post.image.alt | default: 'Preview Image' %}
+  
+            <img src="{{ src }}" w="8" h="8" alt="{{ alt }}" {{ lqip }}>
+          {% endif %}
+  
+          <div class="card-body d-flex flex-column" style="min-height:1rem; text-decoration: none;">
+            <h3 class="card-title my-2 mt-md-0">
+              {{ post.title }}
+            </h3>
+          </div>
+          <!-- .card-body -->
+        </div>
+      </a>
+      <br>
+    {% endfor %}
+  </div>
+  <!-- #post-list -->
+  </div>
+>>>>>>> parent of 6a5ac1f (Merge branch 'main' of https://github.com/fiddien/fiddien.github.io)

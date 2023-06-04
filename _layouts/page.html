@@ -1,16 +1,145 @@
 ---
 layout: default
 ---
-<!-- page.html -->
-        <div class="post">
 
-          <header class="post-header">
-            <h1 class="post-title">{{ page.title }}</h1>
-            <p class="post-description">{{ page.description }}</p>
-          </header>
+{% include lang.html %}
+<<<<<<< HEAD
 
-          <article>
-            {{ content }}
-          </article>
+{% include assets-origin.html %}
 
+<div class="row">
+
+  <!-- core -->
+  <div id="core-wrapper" class="col-12 col-lg-11 col-xl-8">
+    <div class="post pl-1 pr-1 pl-sm-2 pr-sm-2 pl-md-4 pr-md-4">
+
+    {% capture _content %}
+      {% if layout.refactor or page.layout == 'page' %}
+        {% include refactor-content.html content=content %}
+=======
+{% include origin-type.html %}
+
+{% if layout.tail_includes %}
+  {% assign has_tail = true %}
+{% endif %}
+
+<div class="row{% unless has_tail %} mb-5{% endunless %}">
+  <!-- core -->
+  <div id="core-wrapper" class="col-12 col-lg-11 col-xl-9 pe-xl-4">
+    {% capture padding %}
+      {% unless page.layout == 'home' %}px-1{% endunless %}
+    {% endcapture %}
+
+    <div class="post {{ padding | strip }} px-md-2">
+      {% capture _content %}
+      {% if layout.refactor or page.layout == 'page' %}
+        {% include refactor-content.html content=content lang=lang %}
+>>>>>>> parent of 6a5ac1f (Merge branch 'main' of https://github.com/fiddien/fiddien.github.io)
+      {% else %}
+        {{ content }}
+      {% endif %}
+    {% endcapture %}
+
+<<<<<<< HEAD
+    {% if page.layout == 'page' or page.collection == 'tabs'%}
+      {% assign title = site.data.locales[lang].tabs[tab_key] | default: page.title %}
+      <h1 class="dynamic-title">
+        {{ title }}
+      </h1>
+      <div class="post-content">
+        {{ _content }}
+      </div>
+    {% else %}
+      {{ _content }}
+    {% endif %}
+
+    </div>
+  </div> <!-- #core-wrapper -->
+
+  <!-- pannel -->
+  <div id="panel-wrapper" class="col-xl-3 pl-2 text-muted">
+
+    <div class="access">
+      {% if page.layout == 'blog' or page.layout == 'archives' %}
+        {% include trending-tags.html %}
+      {% else %}
+        {% include update-list.html %}
+      {% endif %}
+    </div>
+
+    {% for _include in layout.pannel_includes %}
+      {% assign _include_path = _include | append: '.html' %}
+      {% include {{ _include_path }} %}
+    {% endfor %}
+  </div>
+
+</div>
+
+{% if layout.tail_includes or layout.tail_pannel_includes %}
+<div class="row">
+  
+  <!-- tail -->
+  {% if layout.tail_includes %}
+  <div class="col-12 col-lg-11 col-xl-8">
+    <div id="tail-wrapper" class="pl-1 pr-1 pl-sm-2 pr-sm-2 pl-md-4 pr-md-4">
+      {% for _include in layout.tail_includes %}
+        {% assign _include_path = _include | append: '.html' %}
+        {% include {{ _include_path }} %}
+      {% endfor %}
+    </div>
+  </div> <!-- .tail -->
+  {% endif %}
+
+  <!-- tail pannel -->
+  {% if layout.tail_pannel_includes %}
+  <div id="panel-tail-wrapper" class="col-xl-3 pl-2 text-muted">
+    {% for _include in layout.tail_pannel_includes %}
+      {% assign _include_path = _include | append: '.html' %}
+      {% include {{ _include_path }} %}
+    {% endfor %}
+  </div><!-- .tail pannel -->
+  {% endif %}
+</div> <!-- .row -->
+=======
+      {% if page.layout == 'page' or page.collection == 'tabs' %}
+        {% assign tab_key = page.title | downcase %}
+        {% assign title = site.data.locales[lang].tabs[tab_key] | default: page.title %}
+        <h1 class="dynamic-title">
+          {{ title }}
+        </h1>
+        <div class="post-content">
+          {{ _content }}
         </div>
+      {% else %}
+        {{ _content }}
+      {% endif %}
+    </div>
+  </div>
+  <!-- #core-wrapper -->
+
+  <!-- panel -->
+  <div id="panel-wrapper" class="col-xl-3 ps-2 text-muted">
+    <div class="access">
+      {% include update-list.html lang=lang %}
+      {% include trending-tags.html lang=lang %}
+    </div>
+
+    {% for _include in layout.panel_includes %}
+      {% assign _include_path = _include | append: '.html' %}
+      {% include {{ _include_path }} lang=lang %}
+    {% endfor %}
+  </div>
+</div>
+
+<!-- tail -->
+{% if has_tail %}
+  <div class="row">
+    <div id="tail-wrapper" class="col-12 col-lg-11 col-xl-9 px-3 pe-xl-4 mt-5">
+      {% for _include in layout.tail_includes %}
+        {% assign _include_path = _include | append: '.html' %}
+        {% include {{ _include_path }} lang=lang %}
+      {% endfor %}
+    </div>
+  </div>
+>>>>>>> parent of 6a5ac1f (Merge branch 'main' of https://github.com/fiddien/fiddien.github.io)
+{% endif %}

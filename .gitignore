@@ -1,21 +1,8 @@
-<<<<<<< HEAD
 # Bundler cache
 .bundle
-=======
-_site
-.bundle
-.sass-cache
-.jekyll-cache
-.jekyll-metadata
-.DS_store
-.ruby-version
-.tweet-cache
-Gemfile.lock
->>>>>>> 67bccbc8fbe2304d9029d2a653f8165f821fb4dc
 vendor
 Gemfile.lock
 
-<<<<<<< HEAD
 # Jekyll cache
 .jekyll-cache
 _site
@@ -33,5 +20,3 @@ package-lock.json
 
 # Misc
 assets/js/dist
-=======
->>>>>>> 67bccbc8fbe2304d9029d2a653f8165f821fb4dc
