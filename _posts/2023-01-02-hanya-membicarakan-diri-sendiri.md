@@ -1,4 +1,5 @@
 ---
+layout: post
 title      : "5. Hanya membicarakan diri sendiri"
 date       : 2023-01-02 20:30 +00
 categories : [Monologue]
@@ -10,7 +11,7 @@ math       : false
 mermaid    : false
 
 image      :
-  path     : /assets/img/2023/sidewalk.jpg
+  src      : /assets/img/2023/sidewalk.jpg
 ---
 
 Di banyak tulisan terakhir, fokus setiap tulisanku adalah aku, seakan-akan tidak ada yang cukup menarik untuk dituliskan selain diri sendiri.

@@ -1,4 +1,5 @@
 ---
+layout: post
 title      : "Rasanya Ada Yang Tak Mau Ditinggalkan: Muslim Indonesia di Edinburgh"
 date       : 2023-04-14 22:00 +00
 categories : [University Life]
@@ -12,7 +13,7 @@ comments   : false
 
 img_path   : /assets/img/2023/
 image      :
-  path     : kibar-februari.webp
+  src      : /assets/img/2023/kibar-februari.webp
 ---
 
 

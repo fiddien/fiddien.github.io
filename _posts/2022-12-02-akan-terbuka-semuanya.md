@@ -1,4 +1,5 @@
 ---
+layout: post
 title      : "1. Akan terbuka semuanya"
 date       : 2022-12-02 23:30 +00
 categories : [Monologue]
@@ -10,7 +11,7 @@ math       : false
 mermaid    : false
 
 image      :
-  path     : /assets/img/2023/moonlight2.jpg
+  src      : /assets/img/2023/moonlight2.jpg
 ---
 
 Halo, dunia.

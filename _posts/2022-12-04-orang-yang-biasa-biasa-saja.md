@@ -1,4 +1,5 @@
 ---
+layout: post
 title      : "3. Orang yang biasa-biasa saja"
 date       : 2022-12-04 08:00 +00
 categories : [Floating Idea]
@@ -10,7 +11,7 @@ math       : false
 mermaid    : false
 
 image      :
-  path     : /assets/img/2023/busy-street.jpg
+  src      : /assets/img/2023/busy-street.jpg
 ---
 
 Kali ini kita masuk ke pertanyaan yang lebih dalam. Mengapa harus menulis?

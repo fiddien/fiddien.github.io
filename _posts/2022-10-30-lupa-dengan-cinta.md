@@ -1,4 +1,5 @@
 ---
+layout: post
 title      : "0. Lupa dengan cinta"
 date       : 2022-10-30 01:15 +00
 categories : [Monologue]
@@ -11,7 +12,7 @@ mermaid    : false
 
 img_path   : /assets/img/2022
 image      :
-  path     : edinburgh-night.jpg
+  src      : /assets/img/2022/edinburgh-night.jpg
   width    : 
   height   : 
   alt      : 

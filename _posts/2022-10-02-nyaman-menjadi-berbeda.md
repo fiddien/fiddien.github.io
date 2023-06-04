@@ -1,4 +1,5 @@
 ---
+layout: post
 title      : "Nyaman Menjadi Berbeda: Muslim dan Southeast Asian di UK"
 date       : 2022-10-02 22:37 +01
 categories : [Personal, University Life]
@@ -11,7 +12,7 @@ mermaid    : false
 
 img_path   : /assets/img/2022/
 image      :
-  path     : batik_day_at_scott_monument.jpeg
+  src      : /assets/img/2022/batik_day_at_scott_monument.jpeg
   width    : 
   height   : 
   alt      : 

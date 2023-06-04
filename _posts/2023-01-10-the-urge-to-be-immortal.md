@@ -1,4 +1,5 @@
 ---
+layout: post
 title      : "The Urge to be Immortal"
 date       : 2023-01-10 00:24 +00
 categories : [Floating Idea]
@@ -10,7 +11,7 @@ math       : false
 mermaid    : false
 
 image      :
-  path     : /assets/img/2023/old-books.jpg
+  src      : /assets/img/2023/old-books.jpg
 ---
 
 I get the sense that everyone want to be remembered. People have different degree of urgency towards the desire, but at least it is their significant other they wish who keep them in his/her mind.

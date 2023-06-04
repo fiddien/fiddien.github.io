@@ -1,4 +1,5 @@
 ---
+layout: post
 title      : "'17: cemburu, kritis, keystone"
 date       : 2023-01-07 12:52 +00
 categories : [Personal]
@@ -10,7 +11,7 @@ math       : false
 mermaid    : false
 
 image      :
-  path     : /assets/img/2023/frost1.jpg
+  src      : /assets/img/2023/frost1.jpg
 ---
 
 

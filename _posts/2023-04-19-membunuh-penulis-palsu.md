@@ -1,4 +1,5 @@
 ---
+layout: post
 title      : "Membunuh Penulis Palsu"
 date       : 2023-04-19 02:38 +00
 categories : [Monologue]
@@ -12,7 +13,7 @@ comments   : false
 
 img_path   : /assets/img/2023/
 image      :
-  path     : feet.jpg
+  src      : /assets/img/2023/feet.jpg
 ---
 
 Tidak ada yang lebih bebas sekaligus lebih mengekang daripada terjebak di dalam kepalamu sendiri. Dan mungkin aku telah terkekang selama lebih dari 20 tahun. Kini saatnya aku membebaskan diri.

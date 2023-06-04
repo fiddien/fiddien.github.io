@@ -1,4 +1,5 @@
 ---
+layout: post
 title      : "Key art dan patterns of actions tahunan"
 date       : 2023-01-03 02:11 +00
 categories : [Floating Idea, Personal]
@@ -11,7 +12,7 @@ math       : false
 mermaid    : false
 
 image      :
-  path     : /assets/img/2023/painting.jpg
+  src      : /assets/img/2023/painting.jpg
 ---
 
 Akhir kuartal pertama tahun 2020 adalah waktu ketika kefrustrasian pada diri sendiri yang sudah memuncak, membuat aku berani melakukan dua aktivitas yang lumayan ekstrem: mengkritik habis-habisan diri di masa lalu, merencanakan diri di masa depan dengan penuh kasih sayang. Di sini aku tidak mengatakan bahwa *mengkritik* itu berlawanan dengan *menyayangi*, tapi efek dari kedua perlakuan tersebut berada pada ujung yang berbeda: pesimisme dan optimisme--setidaknya begitulah model mentalku di saat itu.

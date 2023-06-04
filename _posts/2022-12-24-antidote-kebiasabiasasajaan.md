@@ -1,4 +1,5 @@
 ---
+layout: post
 title      : "4. Antidote untuk kebiasabiasasajaan"
 date       : 2022-12-24 19:20 +00
 categories : [Floating Idea]
@@ -10,7 +11,7 @@ math       : false
 mermaid    : false
 
 image      :
-  path     : /assets/img/2023/bulb.jpg
+  src      : /assets/img/2023/bulb.jpg
 ---
 
 Aku ragu untuk memulai percakapan ini: menjadi orang yang biasa-biasa saja. Sebelum ke arah sana, siapa yang berhak menentukan atau melabeli kita dengan julukan "biasa-biasa saja"? 

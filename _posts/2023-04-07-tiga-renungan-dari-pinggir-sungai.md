@@ -1,4 +1,5 @@
 ---
+layout: post
 title      : "Tiga Renungan Dari Pinggir Sungai"
 date       : 2023-04-07 22:00 +00
 categories : [Travel Journal]
@@ -12,7 +13,7 @@ comments   : false
 
 img_path   : /assets/img/2023/
 image      :
-  path     : leith-edinburgh.webp
+  src      : /assets/img/2023/leith-edinburgh.webp
 ---
 
 Aku tidak pernah menyadari sebelumnya bahwa aku akan “menikmati” sungai sedalam ini, meski hanya berdiri di pinggirannya. Ada kebahagiaan yang baru terbuka.
