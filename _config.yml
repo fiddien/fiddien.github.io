@@ -77,7 +77,8 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "assets/norobots/avatar.jpg"
+# avatar: "assets/norobots/avatar.jpg"
+avatar: "assets/img/favicons/android-chrome-512x512.png"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
@@ -114,6 +115,7 @@ pwa:
   enabled: false # the option for PWA feature
 
 paginate: 10
+paginate_path: "/blog/:num/"
 
 # ------------ The following options are not recommended to be modified ------------------
 
@@ -141,7 +143,7 @@ collections:
 
 defaults:
   - scope:
-      path: "" # An empty string here means all files in the project
+      path: "_posts" # An empty string here means all files in the project
       type: posts
     values:
       layout: post
@@ -169,14 +171,14 @@ defaults:
     values:
       swcache: true
   - scope:
-      path: ''
+      path: '_projects'
       type: projects
     values:
       layout: page
       permalink: /projects/:title/
       comments: false
   - scope:
-      path: ''
+      path: '_poems'
       type: poems
     values:
       layout: poem

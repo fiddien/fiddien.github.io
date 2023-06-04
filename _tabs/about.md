@@ -2,6 +2,7 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 0
+hidden: true
 ---
 
 Ilma (`/ˈil.mɑ/`) is a student of MSc Speech and Language Processing at the University of Edinburgh, sponsored by Indonesia Endowment Fund for Education (LPDP).
