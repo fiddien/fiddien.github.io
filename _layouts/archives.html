@@ -10,8 +10,16 @@ layout: page
 
 <div id="archives" class="pl-xl-3">
 
-{% for post in site.posts %}
+<!-- Concatenate the posts, poems, and projects -->
+{% assign posts = site.posts | concat: site.poems | concat: site.projects | sort: 'date' | reverse %}
+
+{% for post in posts %}
   {% capture cur_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+  {% if post.layout == 'poems' %}
+    {% assign font_style = 'italic' %}
+  {% else %}
+    {% assign font_style = 'normal' %}
+  {% endif %}
 
   {% if cur_year != last_year %}
     {% unless forloop.first %}</ul>{% endunless %}
@@ -26,7 +34,13 @@ layout: page
     <span class="date month small text-muted ms-1" data-ts="{{ ts }}" data-df="{{ df_dayjs_m }}">
       {{ post.date | date: df_strftime_m }}
     </span>
-    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    {% if post.layout == 'poem' %}
+      <a href="{{ post.url | relative_url }}" style="font-style: italic;">{{ post.title }}</a>
+    {% elsif post.layout == 'project' %}
+      <a href="{{ post.url | relative_url }}" style="font-weight: bold;">{{ post.title }}</a>
+    {% else %}
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    {% endif %}
   </li>
 
   {% if forloop.last %}</ul>{% endif %}

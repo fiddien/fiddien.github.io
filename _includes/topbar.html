@@ -29,8 +29,8 @@
               <span>{{ site.data.locales[include.lang].tabs[item] | default: page.title }}</span>
             {% elsif page.layout == 'post' %}
               <span>
-                <a href="{{ '/archives' | relative_url }}">
-                  {{ site.data.locales[include.lang].tabs.archives | capitalize }}
+                <a href="{{ '/blog' | relative_url }}">
+                  {{ site.data.locales[include.lang].tabs.blog | capitalize }}
                 </a>
               </span>
               <!-- <span>{{ page.title }}</span> -->
