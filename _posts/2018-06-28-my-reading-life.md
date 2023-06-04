@@ -10,13 +10,6 @@ toc        : false
 comments   : false
 math       : false
 mermaid    : false
-
-img_path   : 
-image      :
-  path     : 
-  width    : 
-  height   : 
-  alt      : 
 ---
 
 Or more like… reading goals.

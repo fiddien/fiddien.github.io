@@ -11,12 +11,6 @@ comments   : false
 math       : false
 mermaid    : false
 
-img_path   : 
-image      :
-  path     : 
-  width    : 
-  height   : 
-  alt      : 
 ---
 
 Semenjak tanggal 26 April 2017 berlalu, pertanyaan sederhana ini sering menetap di kepalanya:
