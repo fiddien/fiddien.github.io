@@ -252,7 +252,11 @@ i {
       transition: all 0.3s ease-in;
     }
   }
+  [data-topbar-visible='true'] & > div {
+    top: 5.5rem;
+  }
 }
+
 
 #access-lastmod {
   a {
@@ -924,7 +928,28 @@ $btn-mb: 0.5rem;
 
 #topbar-wrapper {
   height: $topbar-height;
+  position: fixed;
+  top: 0;
+  left: $sidebar-width; /* same as sidebar width */
+  right: 0;
+  transition: top 0.2s ease-in-out;
+  z-index: 50;
   background-color: var(--topbar-bg);
+  [data-topbar-visible='false'] & {
+    top: -$topbar-height; /* same as topbar height. */
+  }
+
+  &::before {
+    $blur: 12px;
+
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: $topbar-height;
+    z-index: -1;
+    -webkit-backdrop-filter: blur($blur);
+    backdrop-filter: blur($blur);
+  }
 }
 
 #topbar {
@@ -1128,6 +1153,11 @@ $btn-mb: 0.5rem;
   @include pl-pr(0);
 }
 
+#core-wrapper,
+#panel-wrapper {
+  margin-top: $topbar-height; /* same as the height of topbar */
+}
+
 #topbar-wrapper.row,
 #main > .row,
 #search-result-wrapper > .row {
@@ -1301,6 +1331,7 @@ $btn-mb: 0.5rem;
       transform: translateX(0);
     }
 
+    #topbar-wrapper,
     #main-wrapper,
     footer {
       transform: translateX(#{$sidebar-width});
@@ -1320,6 +1351,7 @@ $btn-mb: 0.5rem;
 
   #main-wrapper {
     @include slide;
+    padding-top: $topbar-height;
   }
 
   #topbar,
@@ -1339,7 +1371,6 @@ $btn-mb: 0.5rem;
 
   #topbar-wrapper {
     @include slide(top 0.2s ease);
-
     left: 0;
   }
 
@@ -1370,6 +1401,12 @@ $btn-mb: 0.5rem;
     }
   }
 } /* max-width: 849px */
+
+@media all and (max-width: 849px) and (orientation: portrait) {
+  [data-topbar-visible='false'] #topbar-wrapper {
+    top: 0;
+  }
+}
 
 /* Phone & Pad */
 @media all and (min-width: 577px) and (max-width: 1199px) {
@@ -1422,6 +1459,7 @@ $btn-mb: 0.5rem;
   }
 
   #search-result-wrapper {
+    margin-top: 3rem;
     max-width: $main-content-max-width;
     justify-content: start !important;
   }
@@ -1473,7 +1511,7 @@ $btn-mb: 0.5rem;
 /* panel hidden */
 @media all and (max-width: 1199px) {
   #panel-wrapper {
-    display: none;
+    display: block;
   }
 
   #main > div.row {
@@ -1548,6 +1586,7 @@ $btn-mb: 0.5rem;
     );
   }
 
+  #topbar,
   #main,
   footer > .container {
     max-width: $main-content-max-width;
