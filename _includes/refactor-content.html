@@ -78,7 +78,7 @@
       {% continue %}
     {% endunless %}
 
-    {% assign _left = _left | remove: ' /' | replace: ' w=', ' width=' | replace: ' h=', ' height=' %}
+    {% assign _left = _left | remove: ' /' %}
     {% assign _attrs = _left | split: '" ' %}
 
     {% assign _width = nil %}
@@ -96,9 +96,9 @@
       {% capture _value %}{{ _pair | last | remove: '"' }}{% endcapture %}
 
       {% case _key %}
-        {% when 'width' %}
+        {% when 'width' or 'w' %}
           {% assign _width = _value %}
-        {% when 'height' %}
+        {% when 'height' or 'h' %}
           {% assign _height = _value %}
         {% when 'src' %}
           {% assign _src = _value %}
