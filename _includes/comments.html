@@ -1,16 +1,5 @@
 <!--  The comments switcher -->
 {% if page.comments and site.comments.active %}
-<<<<<<< HEAD
-<h3 class="pt-2 mt-1 mb-4 ml-1" data-toc-skip="">Leave a Comment</h3>
-  <!-- <h1>Comments</h1>
-  Leave your thoughts below! ✍  
-  </br>
-  Pardon the ads, if any exists. They come from the comment provider. -->
   {% capture path %}comments/{{ site.comments.active }}.html{% endcapture %}
   {% include {{ path }} %}
 {% endif %}
-=======
-  {% capture path %}comments/{{ site.comments.active }}.html{% endcapture %}
-  {% include {{ path }} %}
-{% endif %}
->>>>>>> parent of 6a5ac1f (Merge branch 'main' of https://github.com/fiddien/fiddien.github.io)

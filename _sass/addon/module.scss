@@ -7,11 +7,7 @@
 %heading {
   color: var(--heading-color);
   font-weight: 400;
-<<<<<<< HEAD
-  font-family: 'Lato', 'Microsoft Yahei', sans-serif;
-=======
   font-family: $font-family-heading;
->>>>>>> parent of 6a5ac1f (Merge branch 'main' of https://github.com/fiddien/fiddien.github.io)
 }
 
 %section {
@@ -59,13 +55,8 @@
 }
 
 %link-hover {
-<<<<<<< HEAD
-  color: #1ca19b !important;
-  border-bottom: 1px solid #1ca19b;
-=======
   color: #d2603a !important;
   border-bottom: 1px solid #d2603a;
->>>>>>> parent of 6a5ac1f (Merge branch 'main' of https://github.com/fiddien/fiddien.github.io)
   text-decoration: none;
 }
 
@@ -78,12 +69,6 @@
 }
 
 %clickable-transition {
-<<<<<<< HEAD
-  transition: color 0.35s ease-in-out;
-}
-
-%no-cursor {
-=======
   transition: all 0.3s ease-in-out;
 }
 
@@ -91,7 +76,6 @@
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
->>>>>>> parent of 6a5ac1f (Merge branch 'main' of https://github.com/fiddien/fiddien.github.io)
   user-select: none;
 }
 
@@ -107,13 +91,10 @@
   font-style: normal;
 }
 
-<<<<<<< HEAD
-=======
 %rounded {
   border-radius: $base-radius;
 }
 
->>>>>>> parent of 6a5ac1f (Merge branch 'main' of https://github.com/fiddien/fiddien.github.io)
 %img-caption {
   + em {
     display: block;
@@ -127,15 +108,6 @@
 
 %sidebar-links {
   color: rgba(117, 117, 117, 0.9);
-<<<<<<< HEAD
-  user-select: none;
-}
-
-/* ---------- scss mixin --------- */
-
-@mixin no-text-decoration {
-  text-decoration: none;
-=======
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
@@ -155,7 +127,6 @@
 @mixin mt-mb($value) {
   margin-top: $value;
   margin-bottom: $value;
->>>>>>> parent of 6a5ac1f (Merge branch 'main' of https://github.com/fiddien/fiddien.github.io)
 }
 
 @mixin ml-mr($value) {
@@ -163,14 +134,11 @@
   margin-right: $value;
 }
 
-<<<<<<< HEAD
-=======
 @mixin pt-pb($val) {
   padding-top: $val;
   padding-bottom: $val;
 }
 
->>>>>>> parent of 6a5ac1f (Merge branch 'main' of https://github.com/fiddien/fiddien.github.io)
 @mixin pl-pr($val) {
   padding-left: $val;
   padding-right: $val;
@@ -189,32 +157,17 @@
 @mixin align-center {
   position: relative;
   left: 50%;
-<<<<<<< HEAD
-  -webkit-transform: translateX(-50%);
-  -ms-transform: translateX(-50%);
-  transform: translateX(-50%);
-}
-
-@mixin prompt($type, $fw-icon, $icon-weight: 900) {
-=======
   transform: translateX(-50%);
 }
 
 @mixin prompt($type, $fa-content, $fa-style: 'solid') {
->>>>>>> parent of 6a5ac1f (Merge branch 'main' of https://github.com/fiddien/fiddien.github.io)
   &.prompt-#{$type} {
     background-color: var(--prompt-#{$type}-bg);
 
     &::before {
-<<<<<<< HEAD
-      content: $fw-icon;
-      color: var(--prompt-#{$type}-icon-color);
-      font-weight: $icon-weight;
-=======
       content: $fa-content;
       color: var(--prompt-#{$type}-icon-color);
       font: var(--fa-font-#{$fa-style});
->>>>>>> parent of 6a5ac1f (Merge branch 'main' of https://github.com/fiddien/fiddien.github.io)
     }
   }
 }

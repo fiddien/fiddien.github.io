@@ -305,7 +305,7 @@ Oh iya, biasakan juga untuk mendengar aksen British dan variasi-variasi dekatnya
 
 Saya akhiri bagian ini dengan tips dan trik dari Chris of IELTS Daily:
 
-{% include embed/youtube.html id="uwT9RQpANEc" %}
+{% include youtube.html id="uwT9RQpANEc" %}
 _I’m a fan!_
 
 ---
@@ -333,7 +333,7 @@ Ada juga yang ngeluh, _computer delivery test_ gak bisa _highlight_ banyak di pa
 
 Saya berani bilang, itu semua bisa dijawab dengan strategi ini:
 
-{% include embed/youtube.html id="i7YMyqnoz9I" %}
+{% include youtube.html id="i7YMyqnoz9I" %}
 _Seriously, the best._
 
 Singkatnya: baca paragraf per paragraf atau ide per ide, kemudian langsung jawab soal-soal yang berkaitan, sampai _passage_ bagian itu tidak lagi ditanyakan di soal sisanya. Dengan begini, kita bisa benar-benar memahami teks; lebih akurat jawabnya; enggak serabutan nyari kata kunci; keteteran terlalu lama baca di awal; dan Reading di _computer-delivery test_ pun tidak akan terlalu kesulitan.
@@ -373,7 +373,7 @@ Jangan lupa ikut acara-acara _workshop_ dari lembaga resmi penyelenggara IELTS s
 
 Kalau kita ingin coba analisis tulisan kita sendiri, tidak ada salahnya memakai [Grammarly](http://grammarly.com/) untuk mengecek grammarnya, atau perhatikan bagaimana essay Task 2 dinilai di video ini:
 
-{% include embed/youtube.html id="XZlbtBpY4q0" %}
+{% include youtube.html id="XZlbtBpY4q0" %}
 _Seriously, I love his videos._
 
 ---
@@ -395,7 +395,7 @@ Atau sebaliknya, kita bisa melakukan semacam “_daily stand-up meeting_” pagi
 
 Targetkan untuk tidak banyak jeda, _self-correction_, dan kebingungan mencari-cari _vocabulary_.
 
-{% include embed/youtube.html id="fVQAu8W6mmk" %}
+{% include youtube.html id="fVQAu8W6mmk" %}
 _Hesitation is the enemy of fluency._
 
 Saya **tidak menyarankan** teman-teman untuk menulis apa yang akan dikatakan sebelum berbicara, karena akan beda sekali rasanya dengan _tek-tok_ langsung. Lebih baik, jawabannya dipikirkan di kepala saja, bahkan paralel dengan berbicara. Itu lebih menggambarkan proses tanya-jawab yang sebenarnya di Speaking IELTS. Pasti susah kalau belum biasa, tapi saya yakin itulah cara belajar yang lebih baik. 😉

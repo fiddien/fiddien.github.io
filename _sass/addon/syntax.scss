@@ -2,71 +2,37 @@
 * The syntax highlight.
 */
 
-<<<<<<< HEAD
-@import "colors/light-syntax";
-@import "colors/dark-syntax";
-=======
 @import 'colors/light-syntax';
 @import 'colors/dark-syntax';
->>>>>>> parent of 6a5ac1f (Merge branch 'main' of https://github.com/fiddien/fiddien.github.io)
 
 html {
   @media (prefers-color-scheme: light) {
     &:not([data-mode]),
-<<<<<<< HEAD
-    [data-mode=light] {
-      @include light-syntax;
-    }
-
-    &[data-mode=dark] {
-=======
     &[data-mode='light'] {
       @include light-syntax;
     }
 
     &[data-mode='dark'] {
->>>>>>> parent of 6a5ac1f (Merge branch 'main' of https://github.com/fiddien/fiddien.github.io)
       @include dark-syntax;
     }
   }
 
   @media (prefers-color-scheme: dark) {
     &:not([data-mode]),
-<<<<<<< HEAD
-    &[data-mode=dark] {
-      @include dark-syntax;
-    }
-
-    &[data-mode=light] {
-=======
     &[data-mode='dark'] {
       @include dark-syntax;
     }
 
     &[data-mode='light'] {
->>>>>>> parent of 6a5ac1f (Merge branch 'main' of https://github.com/fiddien/fiddien.github.io)
       @include light-syntax;
     }
   }
 }
 
-<<<<<<< HEAD
-/* -- Codes Snippet -- */
-
-$code-radius: 6px;
-
-%code-snippet-bg {
-  background: var(--highlight-bg-color);
-}
-
-%code-snippet-radius {
-  border-radius: $code-radius;
-=======
 /* -- code snippets -- */
 
 %code-snippet-bg {
   background-color: var(--highlight-bg-color);
->>>>>>> parent of 6a5ac1f (Merge branch 'main' of https://github.com/fiddien/fiddien.github.io)
 }
 
 %code-snippet-padding {
@@ -75,23 +41,13 @@ $code-radius: 6px;
 }
 
 .highlighter-rouge {
-<<<<<<< HEAD
-  @extend %code-snippet-bg;
-  @extend %code-snippet-radius;
-
-=======
->>>>>>> parent of 6a5ac1f (Merge branch 'main' of https://github.com/fiddien/fiddien.github.io)
   color: var(--highlighter-rouge-color);
   margin-top: 0.5rem;
   margin-bottom: 1.2em; /* Override BS Inline-code style */
 }
 
 .highlight {
-<<<<<<< HEAD
-  @extend %code-snippet-radius;
-=======
   @extend %rounded;
->>>>>>> parent of 6a5ac1f (Merge branch 'main' of https://github.com/fiddien/fiddien.github.io)
   @extend %code-snippet-bg;
 
   @at-root figure#{&} {
@@ -111,11 +67,7 @@ $code-radius: 6px;
 
   table {
     td pre {
-<<<<<<< HEAD
-      overflow: visible;  /* Fixed iOS safari overflow-x */
-=======
       overflow: visible; /* Fixed iOS safari overflow-x */
->>>>>>> parent of 6a5ac1f (Merge branch 'main' of https://github.com/fiddien/fiddien.github.io)
       word-break: normal; /* Fixed iOS safari linenos code break */
     }
   }
@@ -126,44 +78,22 @@ $code-radius: 6px;
     text-align: right;
     color: var(--highlight-lineno-color);
     -webkit-user-select: none;
-<<<<<<< HEAD
-    -khtml-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    -o-user-select: none;
-    user-select: none;
-  }
-
-  /* set the dollar sign to non-selectable */
-  .gp {
-    user-select: none;
-  }
-
-=======
     -moz-user-select: none;
     -o-user-select: none;
     -ms-user-select: none;
     user-select: none;
   }
->>>>>>> parent of 6a5ac1f (Merge branch 'main' of https://github.com/fiddien/fiddien.github.io)
 } /* .highlight */
 
 code {
   -webkit-hyphens: none;
   -ms-hyphens: none;
-<<<<<<< HEAD
-  -moz-hyphens: none;
-=======
->>>>>>> parent of 6a5ac1f (Merge branch 'main' of https://github.com/fiddien/fiddien.github.io)
   hyphens: none;
 
   &.highlighter-rouge {
     font-size: $code-font-size;
     padding: 3px 5px;
-<<<<<<< HEAD
-=======
     word-break: break-word;
->>>>>>> parent of 6a5ac1f (Merge branch 'main' of https://github.com/fiddien/fiddien.github.io)
     border-radius: 4px;
     background-color: var(--inline-code-bg);
   }
@@ -187,13 +117,6 @@ code {
   blockquote & {
     color: inherit;
   }
-<<<<<<< HEAD
-
-  .highlight > & {
-    color: transparent;
-  }
-=======
->>>>>>> parent of 6a5ac1f (Merge branch 'main' of https://github.com/fiddien/fiddien.github.io)
 }
 
 td.rouge-code {
@@ -208,9 +131,6 @@ td.rouge-code {
     border-bottom: none !important;
     pointer-events: none;
   }
-<<<<<<< HEAD
-
-=======
 }
 
 div[class^='language-'] {
@@ -224,23 +144,14 @@ div[class^='language-'] {
 
     border-radius: 0;
   }
->>>>>>> parent of 6a5ac1f (Merge branch 'main' of https://github.com/fiddien/fiddien.github.io)
 }
 
 /* Hide line numbers for default, console, and terminal code snippets */
 div {
-<<<<<<< HEAD
-  &[class^='highlighter-rouge'],
-  &.language-plaintext.highlighter-rouge,
-  &.language-console.highlighter-rouge,
-  &.language-terminal.highlighter-rouge,
-  &.nolineno {
-=======
   &.nolineno,
   &.language-plaintext,
   &.language-console,
   &.language-terminal {
->>>>>>> parent of 6a5ac1f (Merge branch 'main' of https://github.com/fiddien/fiddien.github.io)
     pre.lineno {
       display: none;
     }
@@ -256,47 +167,19 @@ div {
 
   $code-header-height: 2.25rem;
 
-<<<<<<< HEAD
-  border-top-left-radius: $code-radius;
-  border-top-right-radius: $code-radius;
-=======
->>>>>>> parent of 6a5ac1f (Merge branch 'main' of https://github.com/fiddien/fiddien.github.io)
   display: flex;
   justify-content: space-between;
   align-items: center;
   height: $code-header-height;
-<<<<<<< HEAD
-
-  &::before {
-    $dot-size: 0.75rem;
-    $dot-margin: 0.5rem;
-
-    content: "";
-    display: inline-block;
-    margin-left: 1rem;
-    width: $dot-size;
-    height: $dot-size;
-    border-radius: 50%;
-    background-color: var(--code-header-muted-color);
-    box-shadow:
-      ($dot-size + $dot-margin) 0 0 var(--code-header-muted-color),
-      ($dot-size + $dot-margin) * 2 0 0 var(--code-header-muted-color);
-  }
-=======
   margin-left: 1rem;
   margin-right: 0.5rem;
->>>>>>> parent of 6a5ac1f (Merge branch 'main' of https://github.com/fiddien/fiddien.github.io)
 
   /* the label block */
   span {
     /* label icon */
     i {
       font-size: 1rem;
-<<<<<<< HEAD
-      margin-right: 0.4rem;
-=======
       margin-right: 0.5rem;
->>>>>>> parent of 6a5ac1f (Merge branch 'main' of https://github.com/fiddien/fiddien.github.io)
       color: var(--code-header-icon-color);
 
       &.small {
@@ -321,15 +204,9 @@ div {
   /* clipboard */
   button {
     @extend %cursor-pointer;
-<<<<<<< HEAD
-
-    border: 1px solid transparent;
-    border-radius: $code-radius;
-=======
     @extend %rounded;
 
     border: 1px solid transparent;
->>>>>>> parent of 6a5ac1f (Merge branch 'main' of https://github.com/fiddien/fiddien.github.io)
     height: $code-header-height;
     width: $code-header-height;
     padding: 0;
@@ -349,13 +226,10 @@ div {
       }
     }
 
-<<<<<<< HEAD
-=======
     &:focus {
       outline: none;
     }
 
->>>>>>> parent of 6a5ac1f (Merge branch 'main' of https://github.com/fiddien/fiddien.github.io)
     &:not([timeout]):hover {
       background-color: rgba(128, 128, 128, 0.37);
 
@@ -363,32 +237,6 @@ div {
         color: white;
       }
     }
-<<<<<<< HEAD
-
-    &:focus {
-      outline: none;
-    }
-
-  }
-
-}
-
-@media all and (max-width: 576px) {
-  .post-content {
-    > div[class^='language-'] {
-      @include ml-mr(-1.25rem);
-
-      border-radius: 0;
-
-      .highlight {
-        padding-left: 0.25rem;
-      }
-
-      .code-header {
-        border-radius: 0;
-        padding-left: 0.4rem;
-        padding-right: 0.5rem;
-=======
   }
 }
 
@@ -416,7 +264,6 @@ div {
         background-color: var(--code-header-muted-color);
         box-shadow: ($dot-size + $dot-margin) 0 0 var(--code-header-muted-color),
           ($dot-size + $dot-margin) * 2 0 0 var(--code-header-muted-color);
->>>>>>> parent of 6a5ac1f (Merge branch 'main' of https://github.com/fiddien/fiddien.github.io)
       }
     }
   }

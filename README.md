@@ -1,25 +1,3 @@
-<<<<<<< HEAD
-# fiddien.github.io
-Now in [fiddien.com](https://fiddien.com).
-
-A personal blog where I share long-format writings, poems, and projects showcase.
-
-I use Jekyll here as a way to unstructuredly learn HTML, CSS, and Javascript.
-
-
-
-## License
-
-The content of the blog is licensed under the [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/) unless otherwise stated.
-
-The Chirpy template is published under [MIT][mit] License.
-
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[use-template]: https://github.com/cotes2020/chirpy-starter/generate
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
-=======
 <div align="center">
 
   # Chirpy Jekyll Theme
@@ -115,4 +93,3 @@ This work is published under [MIT][mit] License.
 [jetbrains]: https://www.jetbrains.com/?from=jekyll-theme-chirpy
 [donation]: https://sponsor.cotes.page/
 [mit]: https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/LICENSE
->>>>>>> parent of 6a5ac1f (Merge branch 'main' of https://github.com/fiddien/fiddien.github.io)

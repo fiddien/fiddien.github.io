@@ -1,15 +1,3 @@
-<<<<<<< HEAD
-<!--
-  The Side Bar
--->
-
-<div id="sidebar" class="d-flex flex-column align-items-end">
-  <div class="profile-wrapper text-center">
-    {% if site.avatar != empty and site.avatar %}
-    <div id="avatar">
-      <a href="{{ '/' | relative_url }}" alt="avatar" class="mx-auto">
-          {% capture avatar_url %}
-=======
 <!-- The Side Bar -->
 
 <div id="sidebar" class="d-flex flex-column align-items-end">
@@ -17,7 +5,6 @@
     <a href="{{ '/' | relative_url }}" id="avatar" class="rounded-circle">
       {% if site.avatar != empty and site.avatar %}
         {% capture avatar_url %}
->>>>>>> parent of 6a5ac1f (Merge branch 'main' of https://github.com/fiddien/fiddien.github.io)
             {% if site.avatar contains '://' %}
               {{ site.avatar }}
             {% elsif site.img_cdn != empty and site.img_cdn %}
@@ -26,91 +13,6 @@
               {{ site.avatar | relative_url }}
             {% endif %}
           {% endcapture %}
-<<<<<<< HEAD
-          <img src="{{ avatar_url | strip }}" alt="avatar" onerror="this.style.display='none'">
-        </a>
-      </div>
-      {% endif %}
-
-    <div class="site-title mt-3 ml-3 mr-3">
-      <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
-    </div>
-    <div class="site-subtitle font-italic">{{ site.tagline }}</div>
-
-  </div><!-- .profile-wrapper -->
-
-  <ul class="w-100">
-
-    <!-- home -->
-    <li class="nav-item{% if page.title == 'Ilma Aliya Fiddien' %}{{ " active" }}{% endif %}">
-      <a href="{{ '/' | relative_url }}" class="nav-link">
-        <i class="fa-fw fas fa-home ml-xl-3 mr-xl-3 unloaded"></i>
-        <span>{{ site.data.locales[lang].tabs.home | upcase }}</span>
-      </a>
-    </li>    
-    <!-- Blog tab -->
-    <li class="nav-item{% if page.title == 'Blog' or page.collection == 'posts' %}{{ " active" }}{% endif %}">
-      <a href="{{ site.paginate_path | replace: '/:num', '' | relative_url }}" class="nav-link">
-        <i class="fa-fw fas fa-pen ml-xl-3 mr-xl-3 unloaded"></i>
-        <span>BLOG</span>
-      </a>
-    </li>
-    <!-- the real tabs -->
-    {% for tab in site.tabs %}
-    {% if tab.show_tab %}
-    <li class="nav-item{% if tab.url == page.url %}{{ " active" }}{% endif %}">
-      <a href="{{ tab.url | relative_url }}" class="nav-link">
-        <i class="fa-fw {{ tab.icon }} ml-xl-3 mr-xl-3 unloaded"></i>
-        {% capture tab_name %}{{ tab.url | split: '/' }}{% endcapture %}
-
-        <span>{{ site.data.locales[lang].tabs.[tab_name] | default: tab.title | upcase }}</span>
-      </a>
-    </li> <!-- .nav-item -->
-    {% endif %}
-    {% endfor %}
-  </ul> <!-- ul.nav.flex-column -->
-
-  <div class="sidebar-bottom mt-auto d-flex flex-wrap justify-content-center align-items-center">
-
-    
-    <button class="mode-toggle btn" aria-label="Switch Mode">
-      <i class="fas fa-adjust"></i>
-    </button>
-
-    {% if site.data.contact.size > 0 %}
-      <span class="icon-border"></span>
-    {% endif %}
-    
-
-    {% for entry in site.data.contact %}
-      {% capture url %}
-        {%- if entry.type == 'github' -%}
-          https://github.com/{{ site.github.username }}
-        {%- elsif entry.type == 'twitter' -%}
-          https://twitter.com/{{ site.twitter.username }}
-        {%- elsif entry.type == 'email' -%}
-          {% assign email = site.social.email | split: '@' %}
-          javascript:location.href = 'mailto:' + ['{{ email[0] }}','{{ email[1] }}'].join('@')
-        {%- elsif entry.type == 'rss' -%}
-          {{ "/feed.xml" | relative_url }}
-        {%- else -%}
-          {{ entry.url }}
-        {%- endif -%}
-      {% endcapture %}
-
-      {% if url %}
-      <a href="{{ url }}" aria-label="{{ entry.type }}"
-        {% unless entry.noblank %}target="_blank" rel="noopener"{% endunless %}>
-        <i class="{{ entry.icon }}"></i>
-      </a>
-      {% endif %}
-
-    {% endfor %}
-
-  </div> <!-- .sidebar-bottom -->
-
-</div><!-- #sidebar -->
-=======
         <img src="{{ avatar_url | strip }}" width="112" height="112" alt="avatar" onerror="this.style.display='none'">
       {% endif %}
     </a>
@@ -130,13 +32,6 @@
         <span>{{ site.data.locales[include.lang].tabs.home | upcase }}</span>
       </a>
     </li>
-    <!-- Blog tab -->
-    <!-- <li class="nav-item{% if page.title == 'Blog' or page.collection == 'posts' %}{{ " active" }}{% endif %}">
-      <a href="{{ site.paginate_path | replace: '/:num', '' | relative_url }}" class="nav-link">
-        <i class="fa-fw fas fa-pen"></i>
-        <span>BLOG</span>
-      </a>
-    </li> -->
     <!-- the real tabs -->
     {% for tab in site.tabs %}
       <li class="nav-item{% if tab.url == page.url %}{{ " active" }}{% endif %}">
@@ -207,4 +102,3 @@
   <!-- .sidebar-bottom -->
 </div>
 <!-- #sidebar -->
->>>>>>> parent of 6a5ac1f (Merge branch 'main' of https://github.com/fiddien/fiddien.github.io)

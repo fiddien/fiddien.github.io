@@ -13,48 +13,26 @@
     line-height: 1.5rem;
     padding: 0.6rem 0;
 
-<<<<<<< HEAD
-    &::before { // dot
-      background: #999;
-=======
     /* dot */
     &::before {
       background: #999999;
->>>>>>> parent of 6a5ac1f (Merge branch 'main' of https://github.com/fiddien/fiddien.github.io)
       width: 5px;
       height: 5px;
       border-radius: 50%;
       display: block;
-<<<<<<< HEAD
-      content: "";
-=======
       content: '';
->>>>>>> parent of 6a5ac1f (Merge branch 'main' of https://github.com/fiddien/fiddien.github.io)
       position: relative;
       top: 0.6rem;
       margin-right: 0.5rem;
     }
 
-<<<<<<< HEAD
-    > a { /* post's title */
-=======
     /* post's title */
     > a {
->>>>>>> parent of 6a5ac1f (Merge branch 'main' of https://github.com/fiddien/fiddien.github.io)
       @extend %no-bottom-border;
 
       font-size: 1.1rem;
     }
 
-<<<<<<< HEAD
-    > span:last-child {
-      white-space: nowrap;
-    } /* post's date */
-  }
-}
-
-#page-tag h1 > i { // tag icon
-=======
     /* post's date */
     > span:last-child {
       white-space: nowrap;
@@ -64,7 +42,6 @@
 
 /* tag icon */
 #page-tag h1 > i {
->>>>>>> parent of 6a5ac1f (Merge branch 'main' of https://github.com/fiddien/fiddien.github.io)
   font-size: 1.2rem;
 }
 
@@ -78,11 +55,7 @@
   a:hover {
     @extend %link-hover;
 
-<<<<<<< HEAD
-    margin-bottom: -1px; // Avoid jumping
-=======
     margin-bottom: -1px; /* Avoid jumping */
->>>>>>> parent of 6a5ac1f (Merge branch 'main' of https://github.com/fiddien/fiddien.github.io)
   }
 }
 

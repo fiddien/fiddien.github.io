@@ -8,11 +8,6 @@
 
 .categories {
   margin-bottom: 2rem;
-<<<<<<< HEAD
-
-  .card-header {
-    padding-right: 12px;
-=======
   border-color: var(--categories-border);
 
   &.card,
@@ -31,17 +26,12 @@
       border-bottom-left-radius: 0;
       border-bottom-right-radius: 0;
     }
->>>>>>> parent of 6a5ac1f (Merge branch 'main' of https://github.com/fiddien/fiddien.github.io)
   }
 
   i {
     @extend %category-icon-color;
 
-<<<<<<< HEAD
-    font-size: 86%; // fontawesome icons
-=======
     font-size: 86%; /* fontawesome icons */
->>>>>>> parent of 6a5ac1f (Merge branch 'main' of https://github.com/fiddien/fiddien.github.io)
   }
 
   .list-group-item {
@@ -54,17 +44,11 @@
       border-top-right-radius: 0;
     }
 
-<<<<<<< HEAD
-  }
-
-} // .categories
-=======
     &:last-child {
       border-bottom: 0;
     }
   }
 } /* .categories */
->>>>>>> parent of 6a5ac1f (Merge branch 'main' of https://github.com/fiddien/fiddien.github.io)
 
 .category-trigger {
   width: 1.7rem;
@@ -73,26 +57,12 @@
   text-align: center;
   color: #6c757d !important;
 
-<<<<<<< HEAD
-  &:hover {
-    i {
-      color: var(--categories-icon-hover-color);
-    }
-  }
-
-=======
->>>>>>> parent of 6a5ac1f (Merge branch 'main' of https://github.com/fiddien/fiddien.github.io)
   i {
     position: relative;
     height: 0.7rem;
     width: 1rem;
     transition: transform 300ms ease;
   }
-<<<<<<< HEAD
-}
-
-@media (hover: hover) { // only works on desktop
-=======
 
   &:hover {
     i {
@@ -103,17 +73,11 @@
 
 /* only works on desktop */
 @media (hover: hover) {
->>>>>>> parent of 6a5ac1f (Merge branch 'main' of https://github.com/fiddien/fiddien.github.io)
   .category-trigger:hover {
     background-color: var(--categories-hover-bg);
   }
 }
 
 .rotate {
-<<<<<<< HEAD
-  -ms-transform: rotate(-90deg); /* IE 9 */
-  -webkit-transform: rotate(-90deg); /* Safari 3-8 */
-=======
->>>>>>> parent of 6a5ac1f (Merge branch 'main' of https://github.com/fiddien/fiddien.github.io)
   transform: rotate(-90deg);
 }

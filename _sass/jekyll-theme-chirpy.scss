@@ -1,34 +1,9 @@
 /*!
-<<<<<<< HEAD
- * The styles for Jekyll theme Chirpy
- *
- * Chirpy v5.1.0 (https://github.com/cotes2020/jekyll-theme-chirpy)
-=======
  * Chirpy v6.0.1 (https://github.com/cotes2020/jekyll-theme-chirpy)
->>>>>>> parent of 6a5ac1f (Merge branch 'main' of https://github.com/fiddien/fiddien.github.io)
  * © 2019 Cotes Chung
  * MIT Licensed
  */
 
-<<<<<<< HEAD
-@import
-  "colors/light-typography",
-  "colors/dark-typography",
-
-  "addon/module",
-  "addon/variables",
-  "variables-hook",
-  "mailchimp-form",
-  "addon/syntax",
-  "addon/commons",
-
-  "layout/home",
-  "layout/post",
-  "layout/tags",
-  "layout/archives",
-  "layout/categories",
-  "layout/category-tag";
-=======
 @import 'colors/light-typography';
 @import 'colors/dark-typography';
 @import 'addon/variables';
@@ -42,4 +17,3 @@
 @import 'layout/archives';
 @import 'layout/categories';
 @import 'layout/category-tag';
->>>>>>> parent of 6a5ac1f (Merge branch 'main' of https://github.com/fiddien/fiddien.github.io)
