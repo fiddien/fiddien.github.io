@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # frozen_string_literal: true
 
 source "https://rubygems.org"
@@ -26,3 +27,30 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 if RUBY_PLATFORM =~ /linux-musl/
   gem "jekyll-sass-converter", "~> 2.0"
 end
+=======
+source 'https://rubygems.org'
+group :jekyll_plugins do
+    gem 'classifier-reborn'
+    gem 'jekyll'
+    gem 'jekyll-archives'
+    gem 'jekyll-diagrams'
+    gem 'jekyll-email-protect'
+    gem 'jekyll-feed'
+    gem 'jekyll-imagemagick'
+    gem 'jekyll-link-attributes'
+    gem 'jekyll-minifier'
+    gem 'jekyll-paginate-v2'
+    gem 'jekyll-scholar'
+    gem 'jekyll-sitemap'
+    gem 'jekyll-toc'
+    gem 'jekyll-twitter-plugin'
+    gem 'jemoji'
+    gem 'mini_racer'
+    gem 'unicode_utils'
+    gem 'webrick'
+end
+group :other_plugins do
+    gem 'feedjira'
+    gem 'httparty'
+end
+>>>>>>> 67bccbc8fbe2304d9029d2a653f8165f821fb4dc
