@@ -5,6 +5,9 @@
     id="topbar"
     class="container d-flex align-items-center justify-content-between h-100"
   >
+    
+    <i id="sidebar-trigger" class="fas fa-bars fa-fw"></i>
+
     <span id="breadcrumb">
       {% assign paths = page.url | split: '/' %}
 
@@ -24,6 +27,20 @@
           {% elsif forloop.last %}
             {% if page.collection == 'tabs' %}
               <span>{{ site.data.locales[include.lang].tabs[item] | default: page.title }}</span>
+            {% elsif page.layout == 'post' %}
+              <span>
+                <a href="{{ '/archives' | relative_url }}">
+                  {{ site.data.locales[include.lang].tabs.archives | capitalize }}
+                </a>
+              </span>
+              <span>{{ page.title | truncate: 24 }}</span>
+            {% elsif page.layout == 'poem' %}
+              <span>
+                <a href="{{ '/poems' | relative_url }}">
+                  {{ site.data.locales[include.lang].tabs.poems | capitalize }}
+                </a>
+              </span>
+              <span>{{ page.title }}</span>
             {% else %}
               <span>{{ page.title }}</span>
             {% endif %}
@@ -39,8 +56,6 @@
       {% endif %}
     </span>
     <!-- endof #breadcrumb -->
-
-    <i id="sidebar-trigger" class="fas fa-bars fa-fw"></i>
 
     <div id="topbar-title">
       {% if page.layout == 'home' %}

@@ -15,6 +15,9 @@ tabs:
   tags: Tags
   archives: Archives
   about: About
+  poems: Poems
+  projects: Projects
+  blog: Blog
 
 # the text displayed in the search bar & search results
 search:

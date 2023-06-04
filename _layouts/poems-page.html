@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: default
 # The list of poems.
 ---
 
 <!-- <div id="post-list"> -->
-  <div style="column-count:2; column-gap:24px;">
+  <div style="column-count:2; column-gap:24px; padding: 2rem;">
     {% for post in site.poems %}
       <a href="{{ post.url | relative_url }}" class="card-wrapper">
         <div class="card post-preview flex-md-row-reverse">
