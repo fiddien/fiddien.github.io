@@ -132,6 +132,12 @@ collections:
   tabs:
     output: true
     sort_by: order
+  projects:
+    output: true
+    sort_by: order
+  poems:
+    output: true
+    sort_by: title
 
 defaults:
   - scope:
@@ -162,6 +168,19 @@ defaults:
       path: assets/js/dist
     values:
       swcache: true
+  - scope:
+      path: ''
+      type: projects
+    values:
+      layout: page
+      permalink: /projects/:title/
+      comments: false
+  - scope:
+      path: ''
+      type: poems
+    values:
+      layout: poem
+      permalink: /poems/:title/
 
 sass:
   style: compressed
