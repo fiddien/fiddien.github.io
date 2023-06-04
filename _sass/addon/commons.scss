@@ -961,7 +961,7 @@ $btn-mb: 0.5rem;
   #breadcrumb {
     font-size: 1rem;
     color: gray;
-    padding-left: 0.5rem;
+    // padding-left: 1.5rem;
 
     a:hover {
       @extend %link-hover;
@@ -1483,6 +1483,10 @@ $btn-mb: 0.5rem;
   #topbar-title {
     text-align: left;
   }
+  
+  #breadcrumb {
+    padding-left: 1.3rem;
+  }
 }
 
 /* Pad horizontal */
@@ -1490,6 +1494,10 @@ $btn-mb: 0.5rem;
   #main .col-lg-11 {
     flex: 0 0 96%;
     max-width: 96%;
+  }
+  
+  #breadcrumb {
+    padding-left: 2.2rem;
   }
 }
 
@@ -1522,6 +1530,10 @@ $btn-mb: 0.5rem;
 /* --- desktop mode, both sidebar and panel are visible --- */
 
 @media all and (min-width: 1200px) {
+  #breadcrumb {
+    padding-left: 1.5rem;
+  }
+
   #back-to-top {
     bottom: 6.5rem;
   }
@@ -1565,6 +1577,10 @@ $btn-mb: 0.5rem;
 @media all and (min-width: 1400px) {
   #back-to-top {
     right: calc((100vw - #{$sidebar-width} - 1140px) / 2 + 3rem);
+  }
+
+  #breadcrumb {
+    padding-left: 3.5rem;
   }
 }
 
@@ -1634,5 +1650,9 @@ $btn-mb: 0.5rem;
         @include ml-mr(calc(($icon-gap - $btn-border-width) / 2));
       }
     }
+  }
+ 
+  #breadcrumb {
+    padding-left: 1.5rem;
   }
 } /* min-width: 1650px */
