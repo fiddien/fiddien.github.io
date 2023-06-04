@@ -6,6 +6,7 @@ const $btnSearchTrigger = $('#search-trigger');
 const $btnCancel = $('#search-cancel');
 const $content = $('#main>.row');
 const $topbarTitle = $('#topbar-title');
+const $breadcrumb = $('#breadcrumb');
 const $searchWrapper = $('#search-wrapper');
 const $resultWrapper = $('#search-result-wrapper');
 const $results = $('#search-results');
@@ -38,6 +39,7 @@ class MobileSearchBar {
   static on() {
     $btnSbTrigger.addClass(C_UNLOADED);
     $topbarTitle.addClass(C_UNLOADED);
+    $breadcrumb.addClass(C_UNLOADED);
     $btnSearchTrigger.addClass(C_UNLOADED);
     $searchWrapper.addClass(C_FLEX);
     $btnCancel.addClass(C_LOADED);
@@ -48,6 +50,7 @@ class MobileSearchBar {
     $searchWrapper.removeClass(C_FLEX);
     $btnSbTrigger.removeClass(C_UNLOADED);
     $topbarTitle.removeClass(C_UNLOADED);
+    $breadcrumb.removeClass(C_UNLOADED);
     $btnSearchTrigger.removeClass(C_UNLOADED);
   }
 }
