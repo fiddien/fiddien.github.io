@@ -1,5 +1,5 @@
 ---
-layout: poems
+layout: poems-page
 title: Poems
 icon: fas fa-paragraph
 show_tab: true
