@@ -35,10 +35,10 @@
 
   a.gallery-item {
     color: var(--text-color);
-    max-width: 21rem;
-    max-height: 21rem;
+    max-width: 100%;
+    max-height: calc(50% - 1rem);
     margin: 0.5rem;
-    flex: 1 1 300px;
+    flex: 1 1 30%;
     overflow: hidden;
     text-overflow: ellipsis;
     border: 0;

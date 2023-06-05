@@ -11,13 +11,13 @@ layout: default
           <h1 class="dynamic-title">
           {{ title }}
           </h1>
+          <div id="gallery">
+              {% for poem in site.poems %}
+                <a class="gallery-item" href="{{ poem.url | relative_url }}">
+                  <h1 class="gallery-item-title">{{ poem.title }}</h1>
+                </a>
+              {% endfor %}
+          </div>
       </div>
-  </div>
-  <div id="gallery">
-      {% for poem in site.poems %}
-        <a class="gallery-item" href="{{ poem.url | relative_url }}">
-          <h1 class="gallery-item-title">{{ poem.title }}</h1>
-        </a>
-      {% endfor %}
   </div>
 </div>
