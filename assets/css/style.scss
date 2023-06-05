@@ -17,9 +17,15 @@
     justify-content: left;
   }
 
-  img {
+  img.cover {
     width: 100%;
     object-fit: cover;
+    opacity: 0.5;
+  }
+
+  img.cover:hover {
+    opacity: 1;
+    transition: all 0.2s ease-in;
   }
 
   h1.gallery-item-title {
