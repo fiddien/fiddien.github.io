@@ -26,3 +26,11 @@
 - title: Menuju Studi Pascasarjana
   cover: menuju_studi_pascasarjana.jpg
   src: /assets/pdf/slides/menuju_studi_pascasarjana.pdf
+
+- title: "Mathematics in Deep Learning: Forward Pass"
+  cover: math_deep_learning_forward_pass.jpg
+  src: /assets/pdf/slides/math_deep_learning_forward_pass.pdf
+
+- title: "Mathematics in Deep Learning: Backward Pass"
+  cover: math_deep_learning_backward_pass.jpg
+  src: /assets/pdf/slides/math_deep_learning_backward_pass.pdf
