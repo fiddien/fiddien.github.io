@@ -3,45 +3,10 @@ layout: default
 # The list of poems.
 ---
 
-<style>
-  #poem-cards {
-    padding: 1.5rem; 
-    margin-top: 3.5rem; 
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: center;
-  }
-
-  a.poem-list {
-    color: var(--text-color);
-    max-width: 180px;
-    max-height: 6rem;
-    margin: 0.5rem;
-    padding: 1rem;
-    flex: 1 1 300px;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    border: 0;
-    border-radius: 10px;
-    background: var(--card-bg);
-    box-shadow: var(--card-shadow);
-    text-align: center;
-  }
-  
-  a.poem-list:hover {
-    background-color: var(--tag-hover);
-    transition: all 0.2s ease-in;
-  }
-  
-</style>
-
-<!-- <div id="post-list"> -->
-<div id="poem-cards">
-  {% for post in site.poems %}
-    <a href="{{ post.url | relative_url }}" class="poem-list">
-        {{ post.title }}
+<div id="gallery">
+  {% for poem in site.poems %}
+    <a href="{{ post.url | relative_url }}" class="gallery-item">
+      <h1 class="gallery-item-title">{{ poem.title }}</h1>
     </a>
   {% endfor %}
 </div>
-<!-- </div>  -->
