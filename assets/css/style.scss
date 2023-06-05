@@ -7,14 +7,14 @@
 
 /* Gallery */
 #gallery {
-    padding: 1.5rem; 
-    margin-top: 3.5rem; 
+    padding: 0.5rem; 
+    margin-top: 1.5rem; 
     display: flex;
     -webkit-flex-wrap: wrap;
     -ms-flex-wrap: wrap;
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: left;
   }
 
   img {
@@ -31,7 +31,7 @@
     color: var(--text-color);
     max-width: 21rem;
     max-height: 21rem;
-    margin: 1rem;
+    margin: 0.5rem;
     flex: 1 1 300px;
     overflow: hidden;
     text-overflow: ellipsis;
