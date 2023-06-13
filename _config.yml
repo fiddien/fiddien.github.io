@@ -183,6 +183,12 @@ defaults:
     values:
       layout: poem
       permalink: /poems/:title/
+  - scope:
+      path: '_notes'
+      type: notes
+    values:
+      layout: posts
+      permalink: /notes/:title/
 
 sass:
   style: compressed
