@@ -2,7 +2,7 @@
 layout: default
 title: Slides
 icon: fas fa-floppy-disk
-order: 7
+order: 5
 ---
 
 <div class="row">
@@ -13,7 +13,7 @@ order: 7
             <h1 class="dynamic-title">
             {{ title }}
             </h1>
-            The slides files I presented in various occassions.
+            The slides files I presented in various occassions. The contents are my liability and are not representative of any entity mentioned.
             <div id="gallery">
                 {% for slide in site.data.slides %}
                     <a class="gallery-item" href="{{ slide.src | relative_url }}" target="_blank">
