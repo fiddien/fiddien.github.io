@@ -1,36 +1,39 @@
+- title: "Esai LPDP: Komitmen, Rencana, Kontribusi"
+  cover: esai_lpdp_krr.jpg
+  src: /assets/pdf/slides/esai_lpdp_krr.pdf
 
-- title: Pelatihan Menulis Untuk Notulis
-  cover: pelatihan_notulis.jpg
-  src: /assets/pdf/slides/pelatihan_notulis.pdf
+- title: "Mathematics in Deep Learning: Backward Pass"
+  cover: math_deep_learning_backward_pass.jpg
+  src: /assets/pdf/slides/math_deep_learning_backward_pass.pdf
 
-- title: "Sekolah Formatur #1"
-  cover: sekolah_formatur_gamais_1.jpg
-  src: /assets/pdf/slides/sekolah_formatur_gamais_1.pdf
-
-- title: "Sekolah Formatur #2"
-  cover: sekolah_formatur_gamais_2.jpg
-  src: /assets/pdf/slides/sekolah_formatur_gamais_2.pdf
-
-- title: Pengenalan EfficientDet
-  cover: pengenalan_efficientdet.jpg
-  src: /assets/pdf/slides/Pengenalan_EfficientDet.pdf
-
-- title: Membuat Motivation Letter
-  cover: membuat_motivation_letter.jpg
-  src: /assets/pdf/slides/Membuat_Motivation Letter_Recommendation Letter.pdf
-
-- title: Recommendation Letter & LoA
-  cover: recommendation_letter_loa.jpg
-  src: /assets/pdf/slides/recommendation_letter_loa.pdf
+- title: "Mathematics in Deep Learning: Forward Pass"
+  cover: math_deep_learning_forward_pass.jpg
+  src: /assets/pdf/slides/math_deep_learning_f  orward_pass.pdf
 
 - title: Menuju Studi Pascasarjana
   cover: menuju_studi_pascasarjana.jpg
   src: /assets/pdf/slides/menuju_studi_pascasarjana.pdf
 
-- title: "Mathematics in Deep Learning: Forward Pass"
-  cover: math_deep_learning_forward_pass.jpg
-  src: /assets/pdf/slides/math_deep_learning_forward_pass.pdf
+- title: Recommendation Letter & LoA
+  cover: recommendation_letter_loa.jpg
+  src: /assets/pdf/slides/recommendation_letter_loa.pdf
 
-- title: "Mathematics in Deep Learning: Backward Pass"
-  cover: math_deep_learning_backward_pass.jpg
-  src: /assets/pdf/slides/math_deep_learning_backward_pass.pdf
+- title: Membuat Motivation Letter
+  cover: membuat_motivation_letter.jpg
+  src: /assets/pdf/slides/Membuat_Motivation Letter_Recommendation Letter.pdf
+
+- title: Pengenalan EfficientDet
+  cover: pengenalan_efficientdet.jpg
+  src: /assets/pdf/slides/Pengenalan_EfficientDet.pdf
+
+- title: "Sekolah Formatur #2"
+  cover: sekolah_formatur_gamais_2.jpg
+  src: /assets/pdf/slides/sekolah_formatur_gamais_2.pdf
+
+- title: "Sekolah Formatur #1"
+  cover: sekolah_formatur_gamais_1.jpg
+  src: /assets/pdf/slides/sekolah_formatur_gamais_1.pdf
+
+- title: Pelatihan Menulis Untuk Notulis
+  cover: pelatihan_notulis.jpg
+  src: /assets/pdf/slides/pelatihan_notulis.pdf
