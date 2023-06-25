@@ -12,12 +12,12 @@ comments   : false
 
 img_path   : /assets/img/2023/
 image      :
-  path     : selasar_meeting.jpg
+  path     : selasar-meeting.jpg
 ---
 
 Ini *mungkin* diawali dari kebengongan di antara siang-siang bolong, antara rapat-rapat di mana saya menjadi tukang ketik di dalamnya. Iya, “mungkin”, karena saya tidak tahu tepatnya kapan.
 
-![Meeting at Selasar](selasar_meeting.jpg)
+![Meeting at Selasar](selasar-meeting.jpg)
 _Lima tahun yang lalu._
 
 ***
