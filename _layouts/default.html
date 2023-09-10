@@ -30,7 +30,7 @@ layout: compress
       </div>
     </div>
 
-    {% include footer.html lang=lang %}
+    {% include_cached footer.html lang=lang %}
 
     <div id="mask"></div>
 
@@ -65,12 +65,16 @@ layout: compress
       </div>
     {% endif %}
 
+    {% if site.pwa.enabled %}
+      {% include_cached notification.html lang=lang %}
+    {% endif %}
+
     {% include js-selector.html %}
 
     {% if page.mermaid %}
       {% include mermaid.html %}
     {% endif %}
 
-    {% include search-loader.html %}
+    {% include_cached search-loader.html %}
   </body>
 </html>

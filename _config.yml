@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
   A literacy collection of Ilma Aliya Fiddien. Discovering meaning and applying virtues.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://fiddien.github.io"
+url: "https://fiddien.com"
 
 github:
   username: fiddien # change to your github username
@@ -84,10 +84,10 @@ avatar: "assets/img/favicons/android-chrome-512x512.png"
 toc: true
 
 comments:
-  active: disqus # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  active: # disqus # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
-    shortname: ilmaaliyaf # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+    shortname: # ilmaaliyaf # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
   utterances:
     repo: # <gh-username>/<repo>
@@ -112,7 +112,7 @@ assets:
     env: # [development|production]
 
 pwa:
-  enabled: false # the option for PWA feature
+  enabled: true # the option for PWA feature
 
 paginate: 10
 paginate_path: "/blog/:num/"
