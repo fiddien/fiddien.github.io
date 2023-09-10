@@ -11,7 +11,7 @@ tags:
 languages: 🇮🇩
 pin: false
 toc: false
-comments: true
+comments: false
 math: false
 mermaid: false
 img_path: /assets/img/2020/

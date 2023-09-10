@@ -12,7 +12,7 @@ tags:
 languages: 🇮🇩
 pin: false
 toc: true
-comments: true
+comments: false
 math: false
 mermaid: false
 image:

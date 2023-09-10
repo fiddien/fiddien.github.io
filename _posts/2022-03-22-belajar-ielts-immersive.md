@@ -10,7 +10,7 @@ languages: 🇮🇩
 pin: true
 front: true
 toc: true
-comments: true
+comments: false
 math: false
 mermaid: false
 img_path: /assets/img/2022/
