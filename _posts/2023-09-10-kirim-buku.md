@@ -15,11 +15,12 @@ img_path: /assets/img/2023/
 image :
   path: book3.jpg
 ---
-Setelah sedikit [menjustifikasi mengapa aku boleh-boleh saja membeli banyak buku](/posts/membeli-buku), alasan lainnya adalah bahwa membeli buku-buku yang kuincar masih relatif sulit ditemukan dan mahal jika dibeli dari Indonesia. Meskipun sekarang sudah ada buku digital di platform seperti Kindle, sejauh ini tidak ada yang bisa mengalahkan sensasi membaca buku fisik yang dimiliki secara pribadi. Ini menimbulkan masalah, karena ketika akhirnya aku selesai studi dan harus pulang ke dalam negeri, buku-buku yang menumpuk itu ingin kubawa ke tanah air pula!
 
-Ada berbagai ketakutan yang muncul ketika memikirkan hal ini. Kalau dibawa bersama diri, bagaimana kalau tidak muat di koper bagasi pesawat? Bagaimana kalau kena pajak? Jika dipaketkan, bagaimana kalau ada yang rusak?
+Setelah sedikit [menjustifikasi mengapa aku boleh-boleh saja membeli banyak buku](/posts/membeli-buku), alasan lainnya adalah bahwa judul-judul yang kuincar masih relatif sulit ditemukan dan mahal jika dibeli dari Indonesia. Meskipun sekarang sudah ada buku digital di platform seperti Kindle, sejauh ini tidak ada yang bisa mengalahkan sensasi membaca buku fisik yang dimiliki secara pribadi. Ini menimbulkan masalah, karena ketika akhirnya aku selesai studi dan harus pulang ke dalam negeri, buku-buku yang menumpuk itu ingin kubawa ke tanah air pula!
 
-Pada akhirnya, buku-buku itu datang dengan selamat dan cepat. Mari urai cerita bagaimana aku mengirim sekitar 40 kg buku dari Britania Raya ke Indonesia.
+Ada berbagai kekhawatiran yang muncul ketika memikirkan hal ini. Kalau dibawa bersama diri, bagaimana kalau tidak muat di koper bagasi pesawat? Bagaimana kalau kena pajak? Jika dipaketkan, bagaimana kalau ada yang rusak?
+
+Pada akhirnya, buku-buku itu datang dengan selamat dan cepat. Mari urai cerita bagaimana 40 kg buku berpindah dari Britania Raya ke Indonesia.
 
 ## Aturan dan administrasi
 
@@ -40,28 +41,31 @@ Kedua, aku meminta agar dibuatkan surat keterangan pindah kepada KBRI London[^3]
 [^2]: [https://www.beacukai.go.id/faq/ketentuan-barang-bawaan-pribadi-penumpang-dan-jasa-titipan-jastip-.html](https://www.beacukai.go.id/faq/ketentuan-barang-bawaan-pribadi-penumpang-dan-jasa-titipan-jastip-.html)
 
 [^3]: [https://kemlu.go.id/london/id/pages/penerbitan-surat-keterangan/1102/about-service](https://www.beacukai.go.id/faq/ketentuan-barang-bawaan-pribadi-penumpang-dan-jasa-titipan-jastip-.html)
-## Packaging
 
-Karena setiap buku bagiku *precious*, setiap elemen pengepakkannya diusahakan seprotektif mungkin. Melapisi buku dengan plastik agar terhindar dari basah adalah poin yang wajib. Buku-buku yang dimensinya sama aku tumpuk setinggi 10-15 cm ke dalam satu balutan *bubble wrap* agar tidak terlalu memakan banyak plastik juga.
+## Bungkus
+
+Karena tiap buku bagiku sangat berharga, setiap elemen pengepakkannya diusahakan seprotektif mungkin. Melapisi mereka dengan plastik agar terhindar dari basah adalah poin yang wajib. Buku-buku yang dimensinya mirip ditumpuk setinggi 10-15 cm ke dalam satu balutan *bubble wrap* agar tidak terlalu memakan banyak bahan juga.
 
 ![a pile of books](book1.jpg)
-_Dua bungkus pertama_
+_Dua bungkus pertama._
 
-Box yang digunakan adalah jenis *double wall* atau berlapis dua karton untuk memaksimalkan berat yang bisa ditampung namun tetap lebih aman. Ia kurang lebih berukuran 47 x 33 x 33 cm. Beli boks di UK ternyata mahal! Satu box bisa sampai 10 pound sterling. Belilah agak banyak bersama orang lain (atau jual kembali) karena harganya bisa jauh lebih murah.
+Box yang digunakan adalah jenis *double wall* atau berlapis dua karton untuk memaksimalkan berat yang bisa ditampung namun tetap lebih aman. Ia kurang lebih berukuran 47 x 33 x 33 cm. Beli box di UK ternyata mahal! Satunya bisa seharga 10 pound sterling. Belilah agak banyak bersama orang lain atau jual kembali, karena harganya bisa jauh lebih murah.
 
-Ada *best-practice* cara menyusun buku di dalam box yang dirangkum sebagai:
-1. Isi box dengan padat, jangan biarkan ada ruang kosong. Ruang kosong di box bisa membuat buku bergeser-geser sehingga berpotensi rusak. Kalau ada sedikit *gap*, isi dengan kertas atau *bubble wrap*.
+Ada *best-practice* cara menyusun buku di dalam box pindahan:
+
+1. Isi box dengan padat, jangan biarkan ada ruang kosong. Ruang kosong bisa membuat buku bergeser-geser sehingga berpotensi rusak. Kalau ada sedikit *gap*, penuhi dengan kertas atau *bubble wrap*.
 2. Selalu arahkan punggung buku ke dalam box, jangan tempatkan di sisi. Ini untuk menghindari kemungkinan patahnya punggung yang kaku tersebut ketika si box terbentur-bentur di perjalanan. 
 
-Aku perlu waktu cukup lama untuk mengotak-atik berbagai kombinasi susunan buku agar bisa memenuhi dua saran di atas, termasuk membuka-tutup bungkusan-bungkusan *bubble wrap* yang sebelumnya sudah disiapkan. Karena salah satu objektifku adalah membuat box ini seberat mungkin, *given its limited volume*, aku juga sempat menukar-nukar buku dengan jenis kertas yang berbeda dari buku yang tadinya akan disimpan di koper.
+Aku perlu waktu cukup lama untuk mengotak-atik berbagai kombinasi susunan buku agar bisa memenuhi dua saran di atas, termasuk membuka-tutup bungkusan-bungkusan *bubble wrap* yang sebelumnya sudah disiapkan. Karena salah satu objektifku adalah membuat box ini seberat mungkin, *given its limited volume*, aku juga sempat menukar-nukar buku dengan jenis kertas yang berbeda dari buku yang tadinya akan disimpan di koper. Secara umum, buku dengan kertas warna putih lebih berat dari yang kertasnya warna kecoklatan.
 
 ![inside the box](book2.jpg)
 _Penampakan atas isi box._
 
-Oya, sebelum diisi, permukaan luar box kardus ini aku lapisi dengan *tape* plastik biar dia tahan percikan air dan tidak mudah rusak karena tergores atau tertusuk. Pelapisan ekstra ditambahkan di sisi-sisi dan sudut-sudut box.
+Oh iya, sebelum diisi, permukaan luar box kardus ini aku lapisi dengan *tape* plastik biar dia tahan percikan air dan tidak mudah rusak karena tergores atau tertusuk. Pelapisan ekstra ditambahkan di sisi-sisi box.
+
 ## Kirim
 
-Sudah disebut di atas bahwa aku menggunakan layanan Parcelforce[^4], anak perusahaannya Royal Mail UK. Dia dipilih karena harganya yang paling murah di antara jasa pengiriman internasional lain seperti DHL dan FedEx, dengan keterangan lain yang sesuai kebutuhan. Secara daring, aku memesan paket *global**priority*** dengan meminta barangnya dikoleksi langsung dari alamat rumah. Dengan berat, volume, dan alamat yang sudah ditentukan, ditambah dengan biaya asuransi, semuanya memakan £157.20, jauh lebih murah dari harga ekstra bagasi, jastip, atau layanan pengiriman dari Indonesia yang kadang harus dikumpulkan di London yang nun jauh di sana (posisiku di Edinburgh).
+Sudah disebut di atas bahwa aku menggunakan layanan Parcelforce[^4], anak perusahaannya Royal Mail UK. Dia dipilih karena harganya yang paling murah di antara jasa pengiriman internasional lain seperti DHL dan FedEx, dengan keterangan lain yang sesuai kebutuhan. Secara daring, aku memesan paket *global**priority*** dengan meminta barangnya dikoleksi langsung dari alamat rumah. Dengan berat 25 kg, volume yang tadi disebutkan, dan alamat yang sudah ditentukan (rumah di UK ke rumah di Indonesia), ditambah dengan biaya asuransi, semuanya menghabiskan £157.20. Itu jauh lebih murah dari harga ekstra bagasi, jastip, atau layanan pengiriman dari Indonesia yang kadang harus dikumpulkan di London yang nun jauh di sana (posisiku di Edinburgh).
 
 *Disclaimer*: tidak sedang promosi! 😀
 
@@ -72,24 +76,24 @@ _Bapak kurir yang strong._
 
 Sebelum diserahkan ke kurir, aku memastikan semua label tertempel dan dokumen yang sudah disiapkan sedemikian rupa disematkan di atas box sehingga mudah diakses petugas. Di sisi-sisi box juga ditempel tulisan "BOOKS" yang lumayan besar agar siapapun yang mengurusi benda ini bisa menyesuaikan ekspektasinya secara mudah.
 
-Ketika ditanya orang rumah, "Kapan barangnya datang?", aku memberikan estimasi yang pesimis: 1 bulan. Tapi, *tada!* dalam 5 hari kerja dia sudah sampai. 🫶
+Ketika ditanya orang rumah, "Kapan barangnya datang?", meski pihak pengirim hanya bilang 3+ hari, aku memberikan estimasi yang pesimis: 1 bulan. Tapi, *tada!* dalam 5 hari kerja dia sudah sampai. 🫶
 
 ![](book_tracking.jpg)
 _Lini masa proses pengiriman barang._
 
-## Bayar
+## Bayar pajak
 
-Kelancaran pengiriman tersebut dibantu oleh ibuku yang juga *gercep* mengabarkan bahwa ada kabar dari POS Indonesia bahwa barangnya sudah ada di gudang mereka, menanti penerima barang untuk membayar pajak dan biaya administrasi, sebelum lanjut dikirim ke alamat tujuan.
+Kelancaran pengiriman tersebut dibantu oleh Ibuku yang juga *gercep* (makasih, Ibu!) mengabarkan bahwa ada kabar dari POS Indonesia bahwa barangnya sudah di gudang mereka, menanti **penerima barang** untuk membayar pajak dan biaya administrasi, sebelum lanjut dikirim ke alamat tujuan.
 
-Aku yang dibangunkan malam-malam (atau pagi-pagi) agak sakit perut ketika menavigasi websitenya POS Indonesia, takut terkena jantungan ketika melihat nominal yang harus dibayar.
+Aku yang dibangunkan ~~malam-malam~~ pagi-pagi agak sakit perut ketika menavigasi [website POS Indonesia](https://ems.posindonesia.co.id/), khawatir terkena jantungan ketika melihat nominal yang harus dibayar.
 
 ![](book_tracking2.jpg)
 
-Alhamdulillah! Cuma perlu bayar Rp5.550.
+Alhamdulillah! Cuma perlu kirim uang Rp5.550.
 
 ## Buka
 
-*I'll keep saying Alhamdulillah*, karena boxnya diterima dalam keadaan cukup baik. Ada sedikit penyok di sudut bawah, tapi tidak ada pengaruh berarti pada buku yang ada di dalamnya. 
+*I'll keep saying Alhamdulillah*, karena boxnya diterima dalam keadaan cukup baik. Ada sedikit penyok di sudut bawah, tapi tidak memberi pengaruh berarti pada buku yang ada di dalamnya. 
 
 ![the box has arrived](book4.jpg)
 _Tampak atas box yang sudah sampai di rumah._
@@ -97,6 +101,6 @@ _Tampak atas box yang sudah sampai di rumah._
 ![the condition of the box](book5.jpg)
 _Tampak samping._
 
-Sisa buku yang tidak masuk di paket box ini pergi terbang bersamaku, tersimpan di koper bagasi. Tidak ada hal yang *outstanding* dari proses yang satu ini, tidak ada persiapan khusus yang dilakukan lagi selain memastikan semuanya barangku masuk, tidak melebihi kapasitas, dan tentu saja tidak melanggar aturan.
+Sisa buku yang tidak masuk di paket box ini pergi terbang bersamaku, tersimpan di koper bagasi. Tidak ada hal yang *outstanding* dari proses yang satu ini; tidak ada persiapan khusus yang dilakukan lagi selain memastikan semuanya barang masuk, tidak melebihi kapasitas, dan tentu saja tidak melanggar aturan.
 
-Secara keseluruhan, pengalamanku mengirim buku dari UK ke Indonesia lumayan lancar dan menenangkan. Aku harap ini cukup memberikan gambaran bagi mereka yang ingin membawa pulang barang pribadinya setelah hidup cukup lama bermukim di luar negeri.
+Secara keseluruhan, pengalamanku mengirim buku dari UK ke Indonesia lumayan lancar dan menenangkan. Aku harap ini cukup memberikan gambaran bagi mereka yang ingin membawa pulang barang pribadinya setelah cukup lama bermukim di luar negeri.
