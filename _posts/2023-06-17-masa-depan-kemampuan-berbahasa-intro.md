@@ -1,18 +1,20 @@
 ---
-title      : "Masa Depan Kemampuan Berbahasa: Intro"
-date       : 2023-06-17 22:55 +01
-categories : [Essay]
-tags       : [komunikasi, bahasa, teknologi]
-languages  : 🇮🇩
-
-pin        : false
-math       : false
-mermaid    : false
-comments   : false
-
-img_path   : /assets/img/2023/
-image      :
-  path     : selasar-meeting.jpg
+title: "Masa Depan Kemampuan Berbahasa: Intro"
+date: 2023-06-17 22:55 +01
+categories:
+  - Essay
+tags:
+  - technology
+  - language
+  - communication
+languages: 🇮🇩
+pin: false
+math: false
+mermaid: false
+comments: false
+img_path: /assets/img/2023/
+image:
+  path: selasar-meeting.jpg
 ---
 
 Ini *mungkin* diawali dari kebengongan di antara siang-siang bolong, antara rapat-rapat di mana saya menjadi tukang ketik di dalamnya. Iya, “mungkin”, karena saya tidak tahu tepatnya kapan.

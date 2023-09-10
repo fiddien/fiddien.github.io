@@ -1,16 +1,17 @@
 ---
-title      : "2. Pemanasan dan pendinginan"
-date       : 2022-12-03 10:15 +00
-categories : [Floating Idea]
-tags       : [identity, cloudy mind, writing]
-languages  : 🇮🇩
-
-pin        : false
-math       : false
-mermaid    : false
-
-image      :
-  path     : /assets/img/2023/empty-bench.jpg
+title: 2. Pemanasan dan pendinginan
+date: 2022-12-03 10:15 +00
+categories:
+  - Floating Idea
+tags:
+  - identity
+  - writing
+languages: 🇮🇩
+pin: false
+math: false
+mermaid: false
+image:
+  path: /assets/img/2023/empty-bench.jpg
 ---
 
 Hari ke hari berlalu. Terkadang aku selalu lupa untuk terus menulis. Kepalaku begitu kosong. Mungkin memang karena jarang diisi. Sedih sekali ketika aku ingin mengakui diri sebagai orang yang berilmu, namun menulis saja kesulitan.

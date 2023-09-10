@@ -1,20 +1,21 @@
 ---
-title      : "Belajar IELTS: Alasan, Strategi, dan Tips | An Immersive Approach"
-date       : 2022-03-22 17:34 +07
-categories : [Recommendation]
-tags       : [ielts, study abroad]
-languages  : 🇮🇩
-
-pin        : true
-front      : true
-toc        : true
-comments   : true
-math       : false
-mermaid    : false
-
-img_path   : /assets/img/2022/
-image      :
-  path     : ielts-idp_.webp
+title: "Belajar IELTS: Alasan, Strategi, dan Tips | An Immersive Approach"
+date: 2022-03-22 17:34 +07
+categories:
+  - Recommendation
+tags:
+  - ielts
+  - study
+languages: 🇮🇩
+pin: true
+front: true
+toc: true
+comments: true
+math: false
+mermaid: false
+img_path: /assets/img/2022/
+image:
+  path: ielts-idp_.webp
 ---
 
 

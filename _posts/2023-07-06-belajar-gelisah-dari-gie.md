@@ -1,18 +1,18 @@
 ---
-title      : "Belajar Gelisah dari Gie"
-date       : 2023-07-06 20:00 +01
-categories : [Essay]
-tags       : [intelektual, aktivis]
-languages  : 🇮🇩
-
-pin        : false
-math       : false
-mermaid    : false
-comments   : false
-
-img_path   : /assets/img/2023/
-image      :
-  path     : gie.webp
+title: Belajar Gelisah dari Gie
+date: 2023-07-06 20:00 +01
+categories:
+  - Floating Idea
+tags:
+  - activists
+languages: 🇮🇩
+pin: false
+math: false
+mermaid: false
+comments: false
+img_path: /assets/img/2023/
+image:
+  path: gie.webp
 ---
 
 Masih teringat jelas momen dan nuansa ketika aku pertama kali membaca *Catatan Seorang Demonstran*. Buku bersampul hitam, putih, dan merah menyala itu sering aku bawa di saat-saat “menunggu” di asrama. Menunggu bergantian menggunakan mesin cuci; menunggu makan malam selesai dimasak; menunggu piket di waktu maghrib; menunggu kantuk datang di bawah cahaya lampu tabung yang terpasang 2 meter dari kepalaku. Membosankan sekali ya? Tapi semenjak itu aku tidak pernah bosan.

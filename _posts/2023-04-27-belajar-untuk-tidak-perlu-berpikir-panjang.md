@@ -1,18 +1,19 @@
 ---
-title      : "Belajar untuk tidak perlu berpikir panjang"
-date       : 2023-04-27 03:54 +00
-categories : [Floating Idea]
-tags       : [continous improvement, autonomy]
-languages  : 🇮🇩
-
-pin        : false
-math       : false
-mermaid    : false
-comments   : false
-
-img_path   : /assets/img/2023/
-image      :
-  path     : spring.jpg
+title: Belajar untuk tidak perlu berpikir panjang
+date: 2023-04-27 03:54 +00
+categories:
+  - Floating Idea
+tags:
+  - autonomy
+  - continous-improvement
+languages: 🇮🇩
+pin: false
+math: false
+mermaid: false
+comments: false
+img_path: /assets/img/2023/
+image:
+  path: spring.jpg
 ---
 
 Jika hanya butuh satu _key takeway_ yang perlu dicamkan baik-baik pasca Ramadhan 1444 H, maka itu adalah bisikan “gak usah banyak mikir!”

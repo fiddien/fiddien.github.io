@@ -1,16 +1,15 @@
 ---
-title      : "1. Akan terbuka semuanya"
-date       : 2022-12-02 23:30 +00
-categories : [Monologue]
-tags       : [cloudy mind]
-languages  : 🇮🇩
-
-pin        : false
-math       : false
-mermaid    : false
-
-image      :
-  path     : /assets/img/2023/moonlight2.jpg
+title: 1. Akan terbuka semuanya
+date: 2022-12-02 23:30 +00
+categories:
+  - Monologue
+tags: []
+languages: 🇮🇩
+pin: false
+math: false
+mermaid: false
+image:
+  path: /assets/img/2023/moonlight2.jpg
 ---
 
 Halo, dunia.

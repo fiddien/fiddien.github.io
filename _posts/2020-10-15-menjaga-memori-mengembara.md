@@ -1,22 +1,25 @@
 ---
-title      : Menjaga Memori Mengembara
-date       : 2020-10-15 22:02 +07
-categories : Personal
-tags       : [far away from home, hikmah, ikhlas, video editing, south korea]
-languages  : 🇮🇩
-
-pin        : false
-toc        : false
-comments   : true
-math       : false
-mermaid    : false
-
-img_path   : /assets/img/2020/
-image      :
-  path     : mengembara_.webp
-  width    : 
-  height   : 
-  alt      : 
+title: Menjaga Memori Mengembara
+date: 2020-10-15 22:02 +07
+categories:
+  - Personal
+tags:
+  - hikmah
+  - ikhlas
+  - south-korea
+  - living-abroad
+languages: 🇮🇩
+pin: false
+toc: false
+comments: true
+math: false
+mermaid: false
+img_path: /assets/img/2020/
+image:
+  path: mengembara_.webp
+  width: 
+  height: 
+  alt:
 ---
 
 _“Nah, Ilma kalau jadi PJ (penanggung jawab) buat tim desain dan dokumentasi, kira-kira menyanggupi, gak?”_

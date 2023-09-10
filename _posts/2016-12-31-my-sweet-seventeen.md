@@ -1,23 +1,21 @@
 ---
-title      : My Sweet (two thousands and) Seventeen
-date       : 2016-12-31 08:00:00
-categories : [Personal]
-tags       : [reflecting, thinking about the future]
-languages  : 🇬🇧
-
-pin        : false
-toc        : false
-comments   : false
-math       : false
-mermaid    : false
-
-img_path   : /assets/img/2016/
-image      :
-  path     : coffee_.webp
-  alt      : 
-# ![image alt](img src){: width="700" height="400" .normal/left/right/shadow}
-# _image caption_
-# {: .prompt-info/tip/warning/danger/ }
+title: My Sweet (two thousands and) Seventeen
+date: 2016-12-31 08:00:00
+categories:
+  - Personal
+tags:
+  - reflecting
+  - future
+languages: 🇬🇧
+pin: false
+toc: false
+comments: false
+math: false
+mermaid: false
+img_path: /assets/img/2016/
+image:
+  path: coffee_.webp
+  alt:
 ---
 
 Sorry, my dear, it’s 8.31 P.M. now in 31 December 2016 and you won’t celebrate anything–the new year eve I mean.

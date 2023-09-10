@@ -1,20 +1,21 @@
 ---
-title      : "Nyaman Menjadi Berbeda: Muslim dan Southeast Asian di UK"
-date       : 2022-10-02 22:37 +01
-categories : [Personal, University Life]
-tags       : [far away from home]
-languages  : 🇮🇩
-
-pin        : false
-math       : false
-mermaid    : false
-
-img_path   : /assets/img/2022/
-image      :
-  path     : batik_day_at_scott_monument.jpeg
-  width    : 
-  height   : 
-  alt      : 
+title: "Nyaman Menjadi Berbeda: Muslim dan Southeast Asian di UK"
+date: 2022-10-02 22:37 +01
+categories:
+  - Personal
+  - University Life
+tags:
+  - living-abroad
+languages: 🇮🇩
+pin: false
+math: false
+mermaid: false
+img_path: /assets/img/2022/
+image:
+  path: batik_day_at_scott_monument.jpeg
+  width: 
+  height: 
+  alt:
 ---
 
 Selasa, 13 September 2021, keluar dari McEwan Hall seberes International Check-In adalah pertama kalinya dalam hidup aku merasa sangat asing. Segala hal di luar diri ini begitu berbeda: bahasa, warna dan kontur wajah, kecepatan melangkah, hampir segalanya. Di antara 35an rekan satu program, MSc Speech and Language Processing 22/23, tidak ada yang sama secara signifikan. Termasuk hanya aku sendiri yang selalu lupa menyebutkan hobi ketika sesi berkenalan (bingung juga hobinya apa). Tidak tahu apa yang bisa kubagikan selain perbedaan.

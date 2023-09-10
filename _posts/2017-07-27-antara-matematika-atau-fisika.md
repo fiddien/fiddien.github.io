@@ -1,16 +1,17 @@
 ---
-title      : Antara Matematika atau Fisika?
-date       : 2017-07-27 08:00:00 +07
-categories : Personal
-tags       : ["thinking about the future", itb]
-languages  : 🇮🇩
-
-pin        : false
-toc        : false
-comments   : false
-math       : false
-mermaid    : false
-
+title: Antara Matematika atau Fisika?
+date: 2017-07-27 08:00:00 +07
+categories:
+  - Personal
+tags:
+  - future
+  - itb
+languages: 🇮🇩
+pin: false
+toc: false
+comments: false
+math: false
+mermaid: false
 ---
 
 Semenjak tanggal 26 April 2017 berlalu, pertanyaan sederhana ini sering menetap di kepalanya:

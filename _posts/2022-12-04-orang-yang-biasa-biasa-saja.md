@@ -1,16 +1,17 @@
 ---
-title      : "3. Orang yang biasa-biasa saja"
-date       : 2022-12-04 08:00 +00
-categories : [Floating Idea]
-tags       : [mediocre, thinking about the future]
-languages  : 🇮🇩
-
-pin        : false
-math       : false
-mermaid    : false
-
-image      :
-  path     : /assets/img/2023/busy-street.jpg
+title: 3. Orang yang biasa-biasa saja
+date: 2022-12-04 08:00 +00
+categories:
+  - Floating Idea
+tags:
+  - mediocre
+  - future
+languages: 🇮🇩
+pin: false
+math: false
+mermaid: false
+image:
+  path: /assets/img/2023/busy-street.jpg
 ---
 
 Kali ini kita masuk ke pertanyaan yang lebih dalam. Mengapa harus menulis?

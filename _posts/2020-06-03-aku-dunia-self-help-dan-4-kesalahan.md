@@ -1,21 +1,25 @@
 ---
-title      : Aku, Dunia Self-Help, dan 4 Kesalahan
-date       : 2020-06-03 10:00 +07
-categories : Personal
-tags       : ["sabr & syukr", essentialism, continous improvement, reading]
-languages  : 🇮🇩
-
-pin        : false
-toc        : true
-comments   : true
-math       : false
-mermaid    : false
-
-image      :
-  path     : /assets/img/2020/self-help_.webp
-  width    : 
-  height   : 
-  alt      : 
+title: Aku, Dunia Self-Help, dan 4 Kesalahan
+date: 2020-06-03 10:00 +07
+categories:
+  - Personal
+tags:
+  - sabr
+  - syukr
+  - essentialism
+  - reading
+  - continous-improvement
+languages: 🇮🇩
+pin: false
+toc: true
+comments: true
+math: false
+mermaid: false
+image:
+  path: /assets/img/2020/self-help_.webp
+  width: 
+  height: 
+  alt:
 ---
 
 Memoriku memang cukup aneh. Terkadang aku bisa mengingat dengan sangat detil kejadian yang menurutku tidak terlalu bermakna. Ingatan itu muncul saja secara tiba-tiba. Termasuk buku bergenre _self-help_ yang pertama kali aku baca: _Terapi Berpikir Positif_.
