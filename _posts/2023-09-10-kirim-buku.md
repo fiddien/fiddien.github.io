@@ -1,5 +1,5 @@
 ---
-title: Kirim Buku Dari UK ke Indonesia
+title: Kirim Buku dari UK ke Indonesia
 date: 2023-09-10
 categories:
   - Personal
@@ -76,26 +76,30 @@ _Bapak kurir yang strong._
 
 Sebelum diserahkan ke kurir, aku memastikan semua label tertempel dan dokumen yang sudah disiapkan sedemikian rupa disematkan di atas box sehingga mudah diakses petugas. Di sisi-sisi box juga ditempel tulisan "BOOKS" yang lumayan besar agar siapapun yang mengurusi benda ini bisa menyesuaikan ekspektasinya secara mudah.
 
+Dalam konteks Parcelforce, ia sepertinya bekerjasama dengan POS Indonesia dalam menyalurkan barang di dalam negeri. Entah bagaimana dengan penyedia jasa lain.
+
 Ketika ditanya orang rumah, "Kapan barangnya datang?", meski pihak pengirim hanya bilang 3+ hari, aku memberikan estimasi yang pesimis: 1 bulan. Tapi, *tada!* dalam 5 hari kerja dia sudah sampai. 🫶
 
-![](book_tracking.jpg)
+![package tracking](book_tracking.jpg)
 _Lini masa proses pengiriman barang._
 
 ## Bayar pajak
 
 Kelancaran pengiriman tersebut dibantu oleh Ibuku yang juga *gercep* (makasih, Ibu!) mengabarkan bahwa ada kabar dari POS Indonesia bahwa barangnya sudah di gudang mereka, menanti **penerima barang** untuk membayar pajak dan biaya administrasi, sebelum lanjut dikirim ke alamat tujuan.
 
-Aku yang dibangunkan ~~malam-malam~~ pagi-pagi agak sakit perut ketika menavigasi [website POS Indonesia](https://ems.posindonesia.co.id/), khawatir terkena jantungan ketika melihat nominal yang harus dibayar.
+Aku yang dibangunkan ~~malam-malam~~ pagi-pagi agak sakit perut ketika menavigasi [website EMS POS Indonesia](https://ems.posindonesia.co.id/), khawatir terkena jantungan ketika melihat nominal yang harus dibayar.
 
-![](book_tracking2.jpg)
+![pajak](book_tracking2.jpg)
 
 Alhamdulillah! Cuma perlu kirim uang Rp5.550.
 
-## Buka
+Proses membayar pajaknya cukup sederhana. Penerima barang mendapat pesan SMS dari POS Indonesia ke nomor yang dicantumkan di formulir pengiriman. Buka link yang disedikan (awas penipuan!), lalu mengikuti panduan yang diberikan. Link tersebut juga bisa diakses di halaman *tracking* barang (tulisan "See detail" di gambar sebelumnya). Setelah itu, cek kembali status pembayaran pajak di halaman yang sama. Untuk memastikan, kita bisa telepon kantor POS terdekat.
+
+## Terima
 
 *I'll keep saying Alhamdulillah*, karena boxnya diterima dalam keadaan cukup baik. Ada sedikit penyok di sudut bawah, tapi tidak memberi pengaruh berarti pada buku yang ada di dalamnya. 
 
-![the box has arrived](book4.jpg)
+![the box has arrived!](book4.jpg)
 _Tampak atas box yang sudah sampai di rumah._
 
 ![the condition of the box](book5.jpg)
