@@ -1,5 +1,5 @@
 ---
-title: Kirim Buku dari UK ke Indonesia
+title: Kirim Buku Dari UK ke Indonesia
 date: 2023-09-10
 categories:
   - Personal
