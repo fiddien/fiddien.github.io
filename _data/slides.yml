@@ -1,43 +1,59 @@
+- title: "Crash Course to Ethical & Trustworthy AI (2024)"
+  cover: ethical_trustworthy_ai.jpg
+  src:   crash_course_ethical_and_trustworthy_ai_2024_01.pdf
+
+- title: "Mathematics in Deep Learning: Backward Pass (2024)"
+  cover: math_deep_learning_backward_pass.jpg
+  src:   math_deep_learning_backward_pass_2024_01.pdf
+
+- title: "Mathematics in Deep Learning: Forward Pass (2024)"
+  cover: math_deep_learning_forward_pass.jpg
+  src:   math_deep_learning_forward_pass_2024_01.pdf
+
+- title: "Tes Bakat Skolastik LPDP"
+  cover: elite_circle_tes_bakat_skolastik.jpg
+  src:   elite_circle_tes_bakat_skolastik.pdf
+
 - title: "Crash Course to Ethical & Trustworthy AI"
   cover: ethical_trustworthy_ai.jpg
-  src: /assets/pdf/slides/crash_course_trustworthy_ethical_ai.pdf
+  src:   crash_course_ethical_and_trustworthy_ai.pdf
 
 - title: "Esai LPDP: Komitmen, Rencana, Kontribusi"
   cover: esai_lpdp_krr.jpg
-  src: /assets/pdf/slides/esai_lpdp_krr.pdf
+  src:   esai_lpdp_krr.pdf
 
-- title: "Mathematics in Deep Learning: Backward Pass"
+- title: "Mathematics in Deep Learning: Backward Pass (2023)"
   cover: math_deep_learning_backward_pass.jpg
-  src: /assets/pdf/slides/math_deep_learning_backward_pass.pdf
+  src:   math_deep_learning_backward_pass.pdf
 
-- title: "Mathematics in Deep Learning: Forward Pass"
+- title: "Mathematics in Deep Learning: Forward Pass (2023)"
   cover: math_deep_learning_forward_pass.jpg
-  src: /assets/pdf/slides/math_deep_learning_f  orward_pass.pdf
+  src:   math_deep_learning_forward_pass.pdf
 
 - title: Menuju Studi Pascasarjana
   cover: menuju_studi_pascasarjana.jpg
-  src: /assets/pdf/slides/menuju_studi_pascasarjana.pdf
+  src:   menuju_studi_pascasarjana.pdf
 
 - title: Recommendation Letter & LoA
   cover: recommendation_letter_loa.jpg
-  src: /assets/pdf/slides/recommendation_letter_loa.pdf
+  src:   recommendation_letter_loa.pdf
 
 - title: Membuat Motivation Letter
   cover: membuat_motivation_letter.jpg
-  src: /assets/pdf/slides/Membuat_Motivation Letter_Recommendation Letter.pdf
+  src:   membuat_motivation_letter_dan_recommendation_letter.pdf
 
 - title: Pengenalan EfficientDet
   cover: pengenalan_efficientdet.jpg
-  src: /assets/pdf/slides/Pengenalan_EfficientDet.pdf
+  src:   pengenalan_efficientdet.pdf
 
 - title: "Sekolah Formatur #2"
   cover: sekolah_formatur_gamais_2.jpg
-  src: /assets/pdf/slides/sekolah_formatur_gamais_2.pdf
+  src:   sekolah_formatur_gamais_2.pdf
 
 - title: "Sekolah Formatur #1"
   cover: sekolah_formatur_gamais_1.jpg
-  src: /assets/pdf/slides/sekolah_formatur_gamais_1.pdf
+  src:   sekolah_formatur_gamais_1.pdf
 
 - title: Pelatihan Menulis Untuk Notulis
   cover: pelatihan_notulis.jpg
-  src: /assets/pdf/slides/pelatihan_notulis.pdf
+  src:   pelatihan_notulis.pdf

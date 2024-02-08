@@ -10,12 +10,12 @@ title: About
 
 
 <p>
-    Posts language: 
+    The posts here are written in these languages:
         <a href="/en/" class="post-tag no-text-decoration">🇬🇧</a>
         <a href="/id/" class="post-tag no-text-decoration">🇮🇩</a>
 </p>
 
-Highlighted posts:
+Highlighted entries:
 
 {% assign fronted = site.posts | where: "front", "true" %}
 {% assign default = site.posts | where_exp: "item", "item.front != true and item.hidden != true" %}
@@ -35,10 +35,10 @@ Highlighted posts:
     <li><a href="https://fiddien.com/categories/essay/" class="post-tag no-text-decoration">Essays</a></li>
 
     {% for post in posts %}
-    
+
     <li>
         <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-        <sup> 
+        <sup>
             <!-- time to read -->
             <span>
                 {% include read-time.html content=post.content lang=lang %}
@@ -51,15 +51,15 @@ Highlighted posts:
                 </span>
             {% endif %}
             <!-- language -->
-            
+
         </sup>
     </li>
 
     {% endfor %}
 </ul>
 
-She also shares some of her evolving thougts in the <a href="https://notes.fiddien.com/" class="post-tag no-text-decoration">Arboretum</a>.
-    
+She also shares some of her evolving thougts at <a href="https://notes.fiddien.com/" class="post-tag no-text-decoration">Arboretum</a>.
+
 <hr>
 <p>
     <a href="mailto:ilmaaliyaf@gmail.com"><i class="fas fa-envelope fa-fw"></i> Email</a>, <a href="https://linkedin.com/in/fiddien"><i class="fab fa-linkedin fa-fw"></i> connect</a>, or follow along her <a href="https://goodreads.com/fiddien"><i class="fab fa-goodreads fa-fw"></i> reading list</a>.
