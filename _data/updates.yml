@@ -46,7 +46,8 @@
   url  :
   urld :
   desc : >
-    6mo
+    I was responsible to develop and deliver training materials for 50+ students
+    in the field of personal development and leadership.
 
 ## EDUCATION ##
 
@@ -68,8 +69,8 @@
   desc : >
     Graduated with merit. Alhamdulillah.
 
-- title: Completed the master's programme, Speech and Language Processing
-  date : 2023-12-24
+- title: Completed the master's programme in Speech and Language Processing
+  date : 2023-08-24
   emoji: 🎓
   type : career
   url  : assets/pdf/master_dissertation_clear_metrics_IlmaAliyaFiddien.pdf
@@ -110,7 +111,7 @@
 
 - title: Completed the undergraduate programme in Mathematics
   date : 2021-06-29
-  emoji: 🎓
+  emoji:
   type : career
   url  : assets/pdf/bachelor_thesis_partition_dimension_IlmaAliyaFiddien_signed.pdf
   urld : >
@@ -118,11 +119,11 @@
     <i>Dimensi Partisi Graf Hasil Kali 2-Kuat dan Program Pencari Partisi Pembeda Beberapa Kelas Graf</i>,
     which was supervised by Prof. M. Salman. A. N.
   desc : >
-    Graduated with a highly satisfactory judicium.
+    I got an A for my thesis. Alhamdulillah.
 
 - title: Bangkit Academy, Machine Learning Track
   date : 2021-01-14
-  emoji: 💻
+  emoji: 🤖
   type : capacity
   url  : https://grow.google/intl/id_id/bangkit/
   urld : Link to the official website.
@@ -148,13 +149,18 @@
   type : capacity
   url  : posts/tumbuh-dengan-berbagi-kerentanan/
   urld : "Lesson learned: from vulnerability to personal growth."
-  desc : 2mo
+  desc : >
+    A 6-week long, self-paced programme to develop a project that would make a positive impact in the community.
+    We were working in a team of 5 people, and I was responsible for the project management.
+    Edinburgh City of Literature was our partner.
 
 - title: AI for Agricultural Discussion Group at AI for Indonesia Community
   date : 2021-11-01
   emoji: 🌐
   type : capacity
   url  :
+  desc : >
+    A group of 5 people discussing the potential of AI in agriculture.
 
 - title: Junior Machine Learning Engineer at Omdena, Human Right First (Hrf)
   date : 2021-05-01
@@ -181,7 +187,7 @@
 
 - title: Vice Head of Human Development Sector at Keluarga Mahasiswa Islam ITB
   date : 2020-01-15
-  emoji: 🤝
+  emoji: 🌱
   type : [capacity, contribution]
   url  :
   urld :
@@ -193,7 +199,7 @@
 
 - title: Think Tank (Formatur) at Keluarga Mahasiswa Islam ITB
   date : 2019-10-01
-  emoji: 🤝
+  emoji: 🧠
   type : capacity
   url  :
   desc : >
@@ -202,7 +208,7 @@
 
 - title: Think Tank and Secretary of P3RI 1440 H
   date : 2018-10-01
-  emoji: 🤝
+  emoji: 📋
   type : [capacity, contribution]
   url  :
   urld : >
@@ -220,6 +226,10 @@
   emoji: 🏆
   type : award
   url  :
+  desc : >
+    The essay was about the potential of AI in the acceleration of equality improvement in the education sector,
+    along with the challenges it might face.
+    With the award, we were invited to present the essay in the ISIC 2023 event.
 
 - title: Awarded LPDP Scholarship, PK-191
   date : 2022-07-25
@@ -227,17 +237,23 @@
   emoji: 🪙
   type : scholarship
   url  : https://www.instagram.com/p/CgqDXk3PcuK/
+  desc : >
+    The scholarship is awarded to 1000+ students in Indonesia every year to pursue a postgraduate degree abroad.
 
 - title: Salman Activist Scholarship (BAS), Rumah Amal Salman
   date : 2020-01-01
-  desc : 1yr
   emoji: 🪙
   type : scholarship
   url  :
+  desc : >
+    The scholarship was awarded to students who have a good academic performance
+    and are active in social activities.
 
 - title: Improvement of Academic Achievement (PPA) Scholarship, Institut Teknologi Bandung
   date : 2018-01-01
-  desc : 6mo
   emoji: 🪙
   type : scholarship
   url  :
+  desc : >
+    The scholarship was meant to support students who have the potential to
+    futher excel in their academic performance.
