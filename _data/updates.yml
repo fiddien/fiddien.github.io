@@ -71,7 +71,7 @@
 
 - title: Completed the master's programme in Speech and Language Processing
   date : 2023-08-24
-  emoji: 🎓
+  emoji: ✅
   type : career
   url  : assets/pdf/master_dissertation_clear_metrics_IlmaAliyaFiddien.pdf
   urld : >
@@ -91,7 +91,7 @@
     I didn't have enough reason to stay in the UK waiting for the graduation day,
     so I came back!
 
-- title: Started studying in Edinburgh 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+- title: Started studying in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
   date : 2022-09-12
   emoji: 🛫
   type : capacity
@@ -111,7 +111,7 @@
 
 - title: Completed the undergraduate programme in Mathematics
   date : 2021-06-29
-  emoji:
+  emoji: ✅
   type : career
   url  : assets/pdf/bachelor_thesis_partition_dimension_IlmaAliyaFiddien_signed.pdf
   urld : >
@@ -134,12 +134,39 @@
 - title: Started studying in Bandung
   date : 2017-08-21
   emoji: 🏫
-  type : education
+  type : capacity
   url  : https://www.instagram.com/p/BaLzBl3lZqY/
   urld : My ruminations after studying there for some time.
   desc : >
     Enrolled to the Faculty of Mathematics and Natural Science (FMIPA) at Institut Teknologi Bandung (ITB).
     On the second year, I joined as a cohort in the Mathematics department.
+
+- title: Graduated from SMA Negeri 1 Majalengka
+  date : 2017-06-01
+  emoji: 🎓
+  type : capacity
+  url  : https://www.instagram.com/p/BT1aIrplwNJ/
+  urld : The graduation day.
+  desc : >
+    Top 10 graduates of the year. Alhamdulillah.
+
+- title: Graduated from SMP Negeri 1 Kadipaten
+  date : 2014-06-01
+  emoji: 🎓
+  type : capacity
+  url  :
+  urld :
+  desc : >
+    Best graduate of the year. Alhamdulillah.
+
+- title: Graduated from SDN 1 Kasokandel
+  date : 2011-06-01
+  emoji: 🎓
+  type : capacity
+  url  :
+  urld :
+  desc : >
+    Alhamdulillah. Shaped my mentality.
 
 ## RECENT VOLUNTARY/LEADERSHIP EXPERIENCES ##
 
@@ -218,6 +245,14 @@
     Developed the concept and theme of the event series;
     responsible in organizing the administration of 10+ events.
 
+- title: Head of Student Council (OSIS) at SMP Negeri 1 Kadipaten
+  date : 2013-01-01
+  emoji: 🏅
+  type : capacity
+  url  :
+  urld :
+  desc : >
+    My first experience in leadership.
 
 ## SCHOLARSHIPS AND AWARDS ##
 
@@ -257,3 +292,14 @@
   desc : >
     The scholarship was meant to support students who have the potential to
     futher excel in their academic performance.
+
+## MISC ##
+- title: "Started blogging"
+  date : 2010-03-07
+  emoji: 📝
+  type : capacity
+  url  : https://iafilmaaf26.wordpress.com/
+  urld : My silly wordpress blog.
+  desc : >
+    I started writing about my thoughts and experiences in a blog.
+    I've created a few blogs since then, but this one is the first.
