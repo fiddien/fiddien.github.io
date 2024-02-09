@@ -57,3 +57,25 @@ html {
     text-overflow: ellipsis;
   }
 /*-- gallery --*/
+
+
+/* Overriding archives */
+#archives .year {
+  height: 3rem;
+  font-size: 1.32rem;
+}
+/*-- archives --*/
+
+/* Overriding toolbar */
+.profile-wrapper {
+  margin-bottom: 1rem;
+}
+/*-- toolbar --*/
+
+/* Overwrite bootstrap tooltip */
+.tooltip-inner {
+  white-space: pre-wrap;
+}
+/* -- tooltip --*/
+
+@import 'updates';

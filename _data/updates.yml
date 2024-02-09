@@ -1,0 +1,243 @@
+## WORK ##
+
+- title: Machine Learning Engineer (NLP) at AJARI
+  date : 2023-10-13
+  emoji: 💼
+  type : career
+  url  : https://ajari.ai/
+  urld : Link to the company website.
+  desc : >
+    My current professional role and workplace.
+
+- title: Program Manager of Perintis Scholarship Development at YPM Salman ITB
+  date : 2021-07-26
+  emoji: 💼
+  type : contribution
+  url  :
+  urld :
+  desc : >
+    With a team, I managed the administration and regular events for 190+ scholarship awardees.
+    I also developed a curriculum to incite awardees' holistic growth.
+
+- title: Data Science Instructor, Associate at Bitlabs Academy
+  date : 2021-07-19
+  emoji: 💼
+  type : career
+  url  :
+  urld :
+  desc : >
+    A six-month long, contract-based part-time work. I elaborate learning materials
+    about machine learning concepts and algorithms into slides and jupyter notebooks.
+    Some of the presentations were also delivered to a bootcamp class by myself.
+
+- title: Research Assistant at Mathematics Algebra Research Group ITB
+  date : 2021-03-01
+  emoji: 💼
+  type : career
+  url  :
+  urld :
+  desc : >
+    An eight-month long, project-based work.
+
+- title: SMPE & SSDK Trainer at ITB Character Development Center
+  date : 2019-05-01
+  emoji: 💼
+  type : contribution
+  url  :
+  urld :
+  desc : >
+    6mo
+
+## EDUCATION ##
+
+- title: Oxford Machine Learning Summer School 2024 - MLx Rep. Learning & Generative AI
+  date : 2024-07-11
+  emoji: 📚
+  type : capacity
+  url  : https://www.oxfordml.school/
+  urld : Link to the official website.
+  desc : >
+    Soon. I'm interested in learning more about geometric deep learning.
+
+- title: Awarded an MSc from the University of Edinburgh
+  date : 2023-12-24
+  emoji: 🎓
+  type : career
+  url  : https://www.instagram.com/p/C0Mb1EKvKAq/
+  urld : Reflection.
+  desc : >
+    Graduated with merit. Alhamdulillah.
+
+- title: Completed the master's programme, Speech and Language Processing
+  date : 2023-12-24
+  emoji: 🎓
+  type : career
+  url  : assets/pdf/master_dissertation_clear_metrics_IlmaAliyaFiddien.pdf
+  urld : >
+    Link to my dissertation,
+    " <i>Investigating Clear-Writing Principles in Scientific Writing: Automated with ClearMetrics</i>, "
+    which project was supervised by Adam Lopez, PhD.
+  desc : >
+    My dissertation got an hounour grade! Alhamdulillah.
+
+- title: Moved back to Indonesia 🇮🇩
+  date : 2023-09-01
+  emoji: 🛬
+  type : life
+  url  : https://www.instagram.com/p/Cw5dmGzvD0P/
+  urld : A poem reminiscing the journey back home, with a short tour in Istanbul.
+  desc : >
+    I didn't have enough reason to stay in the UK waiting for the graduation day,
+    so I came back!
+
+- title: Started studying in Edinburgh 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+  date : 2022-09-12
+  emoji: 🛫
+  type : capacity
+  url  : https://www.instagram.com/p/CiqBkPWtbkq/
+  urld : First impression of the experience.
+  desc : >
+    To study for a master's degree in the University of Edinburgh.
+
+- title: Awarded a BSc from Institut Teknologi Bandung
+  date : 2021-07-17
+  emoji: 🎓
+  type : career
+  url  : https://www.instagram.com/p/CQkVJWwtPkY/
+  urld : My reflection on the whole process.
+  desc : >
+    Graduated with a highly satisfactory judicium. Alhamdulillah.
+
+- title: Completed the undergraduate programme in Mathematics
+  date : 2021-06-29
+  emoji: 🎓
+  type : career
+  url  : assets/pdf/bachelor_thesis_partition_dimension_IlmaAliyaFiddien_signed.pdf
+  urld : >
+    Link to the final-year thesis,
+    <i>Dimensi Partisi Graf Hasil Kali 2-Kuat dan Program Pencari Partisi Pembeda Beberapa Kelas Graf</i>,
+    which was supervised by Prof. M. Salman. A. N.
+  desc : >
+    Graduated with a highly satisfactory judicium.
+
+- title: Bangkit Academy, Machine Learning Track
+  date : 2021-01-14
+  emoji: 💻
+  type : capacity
+  url  : https://grow.google/intl/id_id/bangkit/
+  urld : Link to the official website.
+  desc : >
+    A six-month long, credit-awarded out-of-campus activities to build skills in basic software engineering,
+    advanced practical machine learning, and IT project management.
+
+- title: Started studying in Bandung
+  date : 2017-08-21
+  emoji: 🏫
+  type : education
+  url  : https://www.instagram.com/p/BaLzBl3lZqY/
+  urld : My ruminations after studying there for some time.
+  desc : >
+    Enrolled to the Faculty of Mathematics and Natural Science (FMIPA) at Institut Teknologi Bandung (ITB).
+    On the second year, I joined as a cohort in the Mathematics department.
+
+## RECENT VOLUNTARY/LEADERSHIP EXPERIENCES ##
+
+- title: Change Agent Summer 2023 at Students as Change Agents, The University of Edinburgh
+  date : 2023-08-01
+  emoji: 🌍
+  type : capacity
+  url  : posts/tumbuh-dengan-berbagi-kerentanan/
+  urld : "Lesson learned: from vulnerability to personal growth."
+  desc : 2mo
+
+- title: AI for Agricultural Discussion Group at AI for Indonesia Community
+  date : 2021-11-01
+  emoji: 🌐
+  type : capacity
+  url  :
+
+- title: Junior Machine Learning Engineer at Omdena, Human Right First (Hrf)
+  date : 2021-05-01
+  emoji: 💻
+  type : capacity
+  url  : https://www.omdena.com/blog/instant-monitoring-system-for-human-rights-abuses-through-nlp/
+  urld : Link to the blog post explaining the problem statement and the result of the project.
+  desc : >
+    My first experience working in multi-national setting.
+    For three months, with a team of 30-50 members (people came and go), I researched on the
+    topic at hand, helped translating business problem into a technical one. I got a first-hand
+    experience building a social-media-based dataset for training a machine learning model.
+    The model was trained to classify whether a piece of text contains an information of
+    human-right violations.
+
+- title: Member of Advisory Council at Keluarga Mahasiswa Islam ITB
+  date : 2021-01-01
+  emoji: 🤝
+  type : [capacity, contribution]
+  url  :
+  desc : >
+    This is a trust given for a year to make high-level decisions regarding the organisation's
+    internal strategy and regeneration.
+
+- title: Vice Head of Human Development Sector at Keluarga Mahasiswa Islam ITB
+  date : 2020-01-15
+  emoji: 🤝
+  type : [capacity, contribution]
+  url  :
+  urld :
+  desc : >
+    I was trusted to create strategies and run the "cadrerisation" department that was responsible
+    to develop 300+ organisatin cadres. We were innovating on various development
+    programmes as in the COVID-19 era, where everything had to be online.
+    From this experience, I confirmed my passion in personal education.
+
+- title: Think Tank (Formatur) at Keluarga Mahasiswa Islam ITB
+  date : 2019-10-01
+  emoji: 🤝
+  type : capacity
+  url  :
+  desc : >
+    With a team of 9 members, we formulise the strategies that would be implemented
+    in the following period of the organisation.
+
+- title: Think Tank and Secretary of P3RI 1440 H
+  date : 2018-10-01
+  emoji: 🤝
+  type : [capacity, contribution]
+  url  :
+  urld : >
+    P3RI = Panitia Pelaksana Program Ramadan dan Idul Adha
+    (Committee of Ramadhan and Ied Adha Programme Execution)
+  desc : >
+    Developed the concept and theme of the event series;
+    responsible in organizing the administration of 10+ events.
+
+
+## SCHOLARSHIPS AND AWARDS ##
+
+- title: ISIC 2023 PPI UK, Best Essay in Social and Health Reconstruction Category
+  date : 2023-08-01
+  emoji: 🏆
+  type : award
+  url  :
+
+- title: Awarded LPDP Scholarship, PK-191
+  date : 2022-07-25
+  desc : 1yr
+  emoji: 🪙
+  type : scholarship
+  url  : https://www.instagram.com/p/CgqDXk3PcuK/
+
+- title: Salman Activist Scholarship (BAS), Rumah Amal Salman
+  date : 2020-01-01
+  desc : 1yr
+  emoji: 🪙
+  type : scholarship
+  url  :
+
+- title: Improvement of Academic Achievement (PPA) Scholarship, Institut Teknologi Bandung
+  date : 2018-01-01
+  desc : 6mo
+  emoji: 🪙
+  type : scholarship
+  url  :
