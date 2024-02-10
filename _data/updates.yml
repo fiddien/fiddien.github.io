@@ -113,9 +113,9 @@
   date : 2021-06-29
   emoji: ✅
   type : career
-  url  : assets/pdf/bachelor_thesis_partition_dimension_IlmaAliyaFiddien_signed.pdf
+  url  : assets/pdf/bachelor_thesis_partition_dimension_IlmaAliyaFiddien_unsigned.pdf
   urld : >
-    Link to the final-year thesis,
+    Link to the unsigned final-year thesis,
     <i>Dimensi Partisi Graf Hasil Kali 2-Kuat dan Program Pencari Partisi Pembeda Beberapa Kelas Graf</i>,
     which was supervised by Prof. M. Salman. A. N.
   desc : >
@@ -260,7 +260,8 @@
   date : 2023-08-01
   emoji: 🏆
   type : award
-  url  :
+  url  : https://www.academia.edu/114708662/Revolutionizing_Educational_Inclusivity_in_Indonesia_with_Conversational_AI?source=swp_share
+  urld : Link to the essay.
   desc : >
     The essay was about the potential of AI in the acceleration of equality improvement in the education sector,
     along with the challenges it might face.
