@@ -1,5 +1,16 @@
 ## WORK ##
 
+- title: Researcher and Secretary at AFKAR Institute
+  date : 2023-11-01
+  emoji: 🔬
+  type : career
+  url  : https://afkarinstitute.org/
+  urld : Link to the organisation website.
+  desc : >
+    With a small team from Elite Circle alumni, we established this research institute from scratch.
+    I manage the administration and the internal communication of the institute.
+    I'm also responsible for setting up and managing the research activities of the institute.
+
 - title: Machine Learning Engineer (NLP) at AJARI
   date : 2023-10-13
   emoji: 💼
@@ -7,7 +18,7 @@
   url  : https://ajari.ai/
   urld : Link to the company website.
   desc : >
-    My current professional role and workplace.
+    My current professional role and workplace. Delivering AI solutions for education.
 
 - title: Program Manager of Perintis Scholarship Development at YPM Salman ITB
   date : 2021-07-26

@@ -1,12 +1,16 @@
+- title: "Tujuan dari Sains"
+  cover: tujuan_dari_sains.jpg
+  src:   https://drive.google.com/file/d/107CT7hfrFkCWVSn59UcxZByB87QU_yue/view?usp=sharing
+
 - title: "Crash Course to Ethical & Trustworthy AI (2024)"
   cover: ethical_trustworthy_ai.jpg
   src:   crash_course_ethical_and_trustworthy_ai_2024_01.pdf
 
-- title: "Mathematics in Deep Learning: Backward Pass (2024)"
+- title: "Math in Deep Learning: Backward Pass (2024)"
   cover: math_deep_learning_backward_pass.jpg
   src:   math_deep_learning_backward_pass_2024_01.pdf
 
-- title: "Mathematics in Deep Learning: Forward Pass (2024)"
+- title: "Math in Deep Learning: Forward Pass (2024)"
   cover: math_deep_learning_forward_pass.jpg
   src:   math_deep_learning_forward_pass_2024_01.pdf
 
@@ -22,11 +26,11 @@
   cover: esai_lpdp_krr.jpg
   src:   esai_lpdp_krr.pdf
 
-- title: "Mathematics in Deep Learning: Backward Pass (2023)"
+- title: "Math in Deep Learning: Backward Pass (2023)"
   cover: math_deep_learning_backward_pass.jpg
   src:   math_deep_learning_backward_pass.pdf
 
-- title: "Mathematics in Deep Learning: Forward Pass (2023)"
+- title: "Math in Deep Learning: Forward Pass (2023)"
   cover: math_deep_learning_forward_pass.jpg
   src:   math_deep_learning_forward_pass.pdf
 
