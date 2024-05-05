@@ -14,7 +14,7 @@ toc: true
 comments: true
 math: false
 mermaid: false
-front: false
+front: true
 img_path: /assets/img/2024/
 image :
   path: journal-books.webp

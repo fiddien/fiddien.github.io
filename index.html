@@ -1,11 +1,11 @@
 ---
-layout: page
+layout: page-no-title
 title: About
 ---
 {% include lang.html %}
 
 <p>
-    Ilma Aliya Fiddien is a student of life, a writer in leisure, and a machine learning engineer. She writes in <a href="/blog"><i class="fas fa-pen-square fa-fw"></i> this blog</a> and <a href="https://fiddien.medium.com"><i class="fab fa-medium fa-fw"></i> Medium</a> to reflect from her experiences and to cristalise what she has learned.
+    Ilma Aliya Fiddien is a student of life, a writer in leisure, and (currently) a machine learning engineer. She writes in <a href="/blog"><i class="fas fa-pen-square fa-fw"></i> this blog</a> and <a href="https://fiddien.medium.com" target=”_blank”><i class="fab fa-medium fa-fw"></i> Medium</a> to reflect from her experiences and to cristalise what she has learned.
 </p>
 
 
@@ -32,7 +32,6 @@ Highlighted entries:
 {% endif %} -->
 
 <ul>
-    <li><a href="https://fiddien.com/categories/essay/" class="post-tag no-text-decoration">Essays</a></li>
 
     {% for post in posts %}
 
@@ -46,9 +45,9 @@ Highlighted entries:
 
             <!-- post language -->
             {% if post.languages %}
-                <span>
-                    | {{ post.languages }}
-                </span>
+            <span>
+                | {{ post.languages }}
+            </span>
             {% endif %}
             <!-- language -->
 
@@ -56,11 +55,12 @@ Highlighted entries:
     </li>
 
     {% endfor %}
+
+    <li>and other <a href="https://fiddien.com/categories/essay/" class="post-tag no-text-decoration">Essays</a>.</li>
 </ul>
 
-She also shares some of her evolving thougts at <a href="https://notes.fiddien.com/" class="post-tag no-text-decoration">Arboretum</a>.
+Her interests are in machine learning, natural language processing, and the intersection of technology, society, and personal growth. Her evolving thoughts on these topics are gradually capture at <a href="https://notes.fiddien.com/" class="post-tag no-text-decoration">Arboretum</a> and <a href="https://twitter.com/IlmaFiddien"><i class="fab fa-twitter fa-fw"></i> X</a>.
 
-<hr>
 <p>
-    <a href="mailto:ilmaaliyaf@gmail.com"><i class="fas fa-envelope fa-fw"></i> Email</a>, <a href="https://linkedin.com/in/fiddien"><i class="fab fa-linkedin fa-fw"></i> connect</a>, or follow along her <a href="https://goodreads.com/fiddien"><i class="fab fa-goodreads fa-fw"></i> reading list</a>.
+    <a href="https://linkedin.com/in/fiddien"><i class="fab fa-linkedin fa-fw"></i> Connect</a>, or follow along her <a href="https://goodreads.com/fiddien"><i class="fab fa-goodreads fa-fw"></i> reading list</a>.
 </p>
