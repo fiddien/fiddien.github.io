@@ -38,7 +38,7 @@ I think it was my own mental drama at the election I mention few paragraph befor
 
 After that, I do write more, even as insignificant as possible, recording everything, letting out every thoughts. I desired to find pattern in my life, on how I work. It was _thinking about thinking_. Until I came into question on how should I write? Part of _squished the sponge_ is also sharing the _product_, (otherwise I will feel useless). What to share? Where to share?
 
-Then finally I choose this blog for writing all the jumbled ideas which have some values in it; at least it contains some useful insight. Then turn some of them into bits of narration on [my Instagram](http://instagram.com/ilmaaliyaf).
+Then finally I choose this blog for writing all the jumbled ideas which have some values in it; at least it contains some useful insight. Then turn some of them into bits of narration on [my Instagram](https://instagram.com/ilmaaliyaf).
 
 Why not Medium? What to do with it? I don’t know, haha. Maybe because I need few personalizations on how my post looks.
 

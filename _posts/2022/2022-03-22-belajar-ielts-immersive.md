@@ -265,7 +265,7 @@ Saat itu saya ada beberapa kerjaan _part-time_, jadi agak sedikit luang. Tiap ha
 
 Tak apa, karena _**the process of planning is more important than the plan itself!**_
 
-## 🚀 Tips Belajar 
+## 🚀 Tips Belajar
 
 Oke, kita sudah paham mengenai apa-apa saja yang bisa membuat kita _istiqomah_ mempersiapkan IELTS. Saatnya belajarrrrr! Belajar _for life_!
 
@@ -284,7 +284,7 @@ Banyak-banyaklah mendengarkan podcast berbahasa Inggris! Karena _setting_ pas te
 
 Saya yakin, seberapapun jagonya seseorang, pengganggu utama Listening di hari-H adalah **kehilangan fokus.** 😶
 
-Bagi yang telinganya belum terbiasa, biasakan dulu. Sambil beres-beres kamar, nyapu, nyuci, olahraga… dibawa santai~ 
+Bagi yang telinganya belum terbiasa, biasakan dulu. Sambil beres-beres kamar, nyapu, nyuci, olahraga… dibawa santai~
 
 Nah, ketika sesi khusus belajar, teslah kemampuan kita dengan menjelaskan ulang secara singkat apa yang sudah kita dengar selama 5 menit, misalnya. Lupa lagi? Dengarkan lagi sampai kita bisa menjelaskan.
 
@@ -320,7 +320,7 @@ _Take the computer-delivery test. Problem solved._
 
 Menurut saya, ada beberapa langkah terurut (harus berurutan, ya!) untuk bisa menguasai komponen tes ini.
 
-1.  Udah oke dengan _reading comprehension skill_-nya ketika membaca. Nah, sebisa mungkin, membaca itu sambil menangkap makna atau _meaning_ kalimatnya ya! Gak hanya menanda-naindai _vocabulary_, atau mata bolak-balik kanan-kiri.  
+1.  Udah oke dengan _reading comprehension skill_-nya ketika membaca. Nah, sebisa mungkin, membaca itu sambil menangkap makna atau _meaning_ kalimatnya ya! Gak hanya menanda-naindai _vocabulary_, atau mata bolak-balik kanan-kiri.
     Kemampuan ini bisa dilatih dengan banyak-banyak menikmati artikel ilmiah atau jurnalistik (yang seninya tinggi) setiap hari. Saran: [ScienceDaily](https://www.sciencedaily.com/), [BBC Science](https://www.bbc.com/news/science_and_environment), [Science News](https://www.sciencenews.org/), [The Jakarta Post](https://www.thejakartapost.com/). Kalau latihannya mau lebih _effort_, di ScienceDaily biasanya ada _summary_ artikel. Coba teman-teman baca dulu, lalu rangkum sendiri (sambil latihan _writing_), kemudian bandingkan dengan _summary_ dari editornya.
 2.  Terbiasa dengan berbagai _paraphrashing_, karena seringnya kalimat di soal adalah _paraphrase_ dari kalimat di _passage_.
 3.  Latihan dan latihan soal IELTS untuk meningkatkan akurasi jawaban.
@@ -347,16 +347,16 @@ _Kelakuan test-takers…_
 
 Wah ini nih, komponen tes yang paling butuh bantuan orang lain untuk bisa _improve_. Namun, bukan berarti kita tidak bisa memulai latihan Writing kalau belum punya tutor/mentor IELTS. Ini _steps_ yang bisa kita usahakan (tak harus berurut).
 
-1.  Biasakan menulis untuk mengeluarkan isi pikiran. Ini penting karena nanti waktu kita sangat terbatas. Ada 2 tugas yang harus dibereskan dalam 60 menit. Ditambah lagi ada minimal jumlah kata yang harus dipenuhi.  
-    Mulai dari hal sesederhana melaporkan kegiatan kita sehari-hari. Tidak perlu memikirkan bagaimana konten atau tata bahasanya, cukup kejar batas minimum kata/karakter yang kita targetkan.  
+1.  Biasakan menulis untuk mengeluarkan isi pikiran. Ini penting karena nanti waktu kita sangat terbatas. Ada 2 tugas yang harus dibereskan dalam 60 menit. Ditambah lagi ada minimal jumlah kata yang harus dipenuhi.
+    Mulai dari hal sesederhana melaporkan kegiatan kita sehari-hari. Tidak perlu memikirkan bagaimana konten atau tata bahasanya, cukup kejar batas minimum kata/karakter yang kita targetkan.
     Untuk yang _paper-based_, biasakan menulis cepat DAN terbaca; untuk yang _computer-based_, berlatihlah mengetik dengan 10 jari.
 2.  Banyak-banyak menulis dalam bahasa Inggris. Tentu saja. Kalau tidak biasa, kadang _vocabulary_ yang kita kuasai ketika latihan malah tidak keluar di tes, karena faktor panik.
-3.  Biasakanlah menulis terstruktur dan berparagraf. Di suatu essay, ada bagian pembuka, isi, penutup. Di tiap paragraf ada inti ide, penjelasan, dan contoh. Organisasikan paragrafnya secara logis.  
-    Bingung menambah argumen untuk jawaban essay? Selain memperbanyak baca tentang wawasan umum, bacalah bank ide untuk Writing Task 2 di sini: [IELTS Tips dan Trik oleh Ibham Veza](https://muklason.files.wordpress.com/2015/08/ielts-tips-trik-ibham-veza.pdf).  
+3.  Biasakanlah menulis terstruktur dan berparagraf. Di suatu essay, ada bagian pembuka, isi, penutup. Di tiap paragraf ada inti ide, penjelasan, dan contoh. Organisasikan paragrafnya secara logis.
+    Bingung menambah argumen untuk jawaban essay? Selain memperbanyak baca tentang wawasan umum, bacalah bank ide untuk Writing Task 2 di sini: [IELTS Tips dan Trik oleh Ibham Veza](https://muklason.files.wordpress.com/2015/08/ielts-tips-trik-ibham-veza.pdf).
     Aku sendiri latihan dengan menulis [beberapa essay di blog ini](https://ilmaaliyaf.com/categories/en/). 😉
-4.  Biasakanlah menulis ala-ala soal IELTS.  
-    Task 1: _reporting data/charts/map/process._  
-    Task 2: _delivering argumentations about an issue._  
+4.  Biasakanlah menulis ala-ala soal IELTS.
+    Task 1: _reporting data/charts/map/process._
+    Task 2: _delivering argumentations about an issue._
     Kit bisa menggunakan bank soal di sini: [IELTS Daily Writing Model Answers](https://www.ielts-daily.com/writing-model-answer)
 5.  Latihan dengan suasana _the real test_. Kasih _timer_! Kemudian evaluasi dan fokus untuk memperbaiki kelemahan. _Deliberate practice_.
 
@@ -372,7 +372,7 @@ _Checklist for Task 2_
 
 Jangan lupa ikut acara-acara _workshop_ dari lembaga resmi penyelenggara IELTS seperti IDP atau British Council, ya. Tips yang mereka kasih selalu pro.
 
-Kalau kita ingin coba analisis tulisan kita sendiri, tidak ada salahnya memakai [Grammarly](http://grammarly.com/) untuk mengecek grammarnya, atau perhatikan bagaimana essay Task 2 dinilai di video ini:
+Kalau kita ingin coba analisis tulisan kita sendiri, tidak ada salahnya memakai [Grammarly](https://grammarly.com/) untuk mengecek grammarnya, atau perhatikan bagaimana essay Task 2 dinilai di video ini:
 
 {% include embed/youtube.html id="XZlbtBpY4q0" %}
 _Seriously, I love his videos._

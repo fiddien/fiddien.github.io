@@ -43,7 +43,7 @@ order: 99
               {% include tooltip.html shown=update.title hidden=update.urld %}
             </a>
           {% else %}
-            <a>{% include tooltip.html shown=update.title hidden=update.urld %}</a>
+            <a href="#">{% include tooltip.html shown=update.title hidden=update.urld %}</a>
           {% endif %}
           <!-- {% if update.desc != null %}
             <div class="description">{{ update.desc }}</div>

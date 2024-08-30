@@ -29,7 +29,7 @@ Apakah kamu masuk ke dalam “spesies” yang sama seperti penulis? 😀
 Sebenarnya siapa sih _knowledge-junkie_ itu?
 
 ![kepala berotot](knowledge-junkie.jpg)
-_Otot pun isinya otak… [sumber gambar](http://www.sydneyptcourses.com.au/)_
+_Otot pun isinya otak… [sumber gambar](https://www.sydneyptcourses.com.au/)_
 
 Menurut Urban Dictionary, istilah tersebut didefinisikan sebagai…
 
@@ -62,9 +62,9 @@ Salah satu video yang pertama penulis tonton dari TED-Ed.
 
 {% include embed/youtube.html id="Y6e_m9iq-4Q" %}
 
-Tentu cek juga video-video [TED](http://ted.com/)! Banyak topik yang membuat insight kita menjadi lebih luas sehingga kita tahu apa yang terjadi di dunia luar sana.
+Tentu cek juga video-video [TED](https://ted.com/)! Banyak topik yang membuat insight kita menjadi lebih luas sehingga kita tahu apa yang terjadi di dunia luar sana.
 
- 
+
 ## Vsauce
 
 > “Hey, Vsauce. Michael here.”
@@ -105,4 +105,4 @@ _And that’s it!_ Semoga artikel ini dapat membantu kamu, _knowledge-junkie_, m
 _Wait, here is a quote from my favorite host,_
 
 ![](michael-steven-quote.jpg)
-_[sumber gambar](http://digiday.com/)_
+_[sumber gambar](https://digiday.com/)_
