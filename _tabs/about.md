@@ -11,7 +11,7 @@ She writes in <i class="fas fa-pen-square fa-fw"></i> this blog and <a href="htt
 
 
 <!-- <p>
-    Posts language: 
+    Posts language:
         <a href="/en/" class="post-tag no-text-decoration">🇬🇧</a>
         <a href="/id/" class="post-tag no-text-decoration">🇮🇩</a>
 </p> -->
@@ -37,10 +37,10 @@ Highlighted:
     <li><a href="https://fiddien.com/categories/essay/" class="post-tag no-text-decoration">Essays</a></li>
 
     {% for post in posts %}
-    
+
     <li>
         <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-        <sup> 
+        <sup>
             <!-- time to read -->
             <span>
                 {% include read-time.html content=post.content %}
@@ -53,13 +53,13 @@ Highlighted:
                 </span>
             {% endif %}
             <!-- language -->
-            
+
         </sup>
     </li>
 
     {% endfor %}
 </ul>
-    
+
 <hr>
 <p>
     <a href="mailto:ilmaaliyaf@gmail.com"><i class="fas fa-envelope fa-fw"></i> Email</a>, <a href="https://linkedin.com/in/fiddien"><i class="fab fa-linkedin fa-fw"></i> connect</a>, or follow along her <a href="https://goodreads.com/fiddien"><i class="fab fa-goodreads fa-fw"></i> reading list</a>.

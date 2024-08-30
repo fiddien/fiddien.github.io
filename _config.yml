@@ -38,10 +38,10 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Ilma Aliya Fiddien
-  email: ilmaaliyaf#gmail.com # change to your email address
+  email: ilma@fiddien.com
   links:
     # The first element serves as the copyright owner's link
-    - "mailto:ilmaaliyaf@gmail.com"
+    - "mailto:ilma@fiddien.com"
     - https://www.linkedin.com/in/fiddien
 
 google_site_verification: # fill in to your verification string
