@@ -12,9 +12,9 @@ mermaid    : false
 img_path   : /assets/img/2021/1-uni-life/
 image      :
   path     : ilma-plaza-widya.webp
-  width    : 
-  height   : 
-  alt      : 
+  width    :
+  height   :
+  alt      :
 ---
 
 Berkuliah di ITB layaknya suatu mimpi berubah jadi kenyataan. Penulis telah membayangkan status tersebut ketika merangkai suatu essai pendek mengenai cita-cita di kelas 2 SD. Di sana, Penulis menyebutkan daftar sekolah yang akan ia masuki serta profesi apa yang akan dijalani. Heh, melihatnya lagi, ternyata cita-cita masa kecil benar-benar terbatasi dengan eksposur dunia nyata. Cita-cita Penulis di dunia ini berhenti di profesi, seakan-akan profesi adalah suatu destinasi kesuksesan.
@@ -121,7 +121,7 @@ Ini beberapa dari poster yang pertama Penulis buat ketika kuliah.
         style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:300px; min-width:256px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
     </blockquote>
 </div>
-<script async src="//www.instagram.com/embed.js"></script>
+<script async src="https://www.instagram.com/embed.js"></script>
 
 Dari pengalaman di Kreator, Penulis belajar bahwa berorganisasi tidak melulu tentang mengerjakan tugas melaksanakan program kerja, tapi juga ada unsur belajar dan bermain. Apalagi jika kita menjalani itu semua dengan *beginner* mindset–bahwa kita tidak tahu banyak hal tapi bersemangat untuk belajar, bahwa banyak hal menarik dari tugas-tugas ini yang bisa kita ekplorasi, bahwa setiap orang dan peristiwa bisa menjadi guru dan kita pun bisa menjadi guru bagi orang lain. Tentu, itu semua tidak terlepas dari peran pembimbing/pemimpin di dalamnya yang bisa memotivasi dan membantu kelompok dalam berprogres.
 
