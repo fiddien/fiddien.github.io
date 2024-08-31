@@ -16,7 +16,7 @@ timezone: Asia/Jakarta
 
 title: Towards Virtue # the main title
 
-tagline: # In rediscovering universal virtues and fostering them in self and others. # it will display as the sub-title
+tagline: A literacy collection of Ilma Aliya Fiddien
 
 description: >- # used by seo meta and the atom feed
   A literacy collection of Ilma Aliya Fiddien. Discovering meaning and applying virtues.
@@ -25,10 +25,10 @@ description: >- # used by seo meta and the atom feed
 url: "https://fiddien.com"
 
 github:
-  username: fiddien # change to your github username
+  username: fiddien
 
-# twitter:
-#   username: ifiddien # change to your twitter username
+twitter:
+  username: ilmafiddien
 
 social:
   # Change to your full name.
@@ -40,7 +40,7 @@ social:
     - "mailto:ilma@fiddien.com"
     - https://www.linkedin.com/in/fiddien
 
-google_site_verification: # fill in to your verification string
+google_site_verification: google-site-verification=Ily8jJU26woumz9I40tLSPd198oj69zrPp4DeNtMqNI
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
@@ -64,7 +64,7 @@ analytics:
 
 # Page views settings
 pageviews:
-  provider: # now only supports 'goatcounter'
+  provider: goatcounter # now only supports 'goatcounter'
 
 # Prefer color scheme setting.
 #
@@ -98,7 +98,7 @@ toc: true
 
 comments:
   # Global switch for the post-comment system. Keeping it empty means disabled.
-  provider: # [disqus | utterances | giscus]
+  provider: disqus # [disqus | utterances | giscus]
   # The provider options are as follows:
   disqus:
     shortname: ilmaaliyaf # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
