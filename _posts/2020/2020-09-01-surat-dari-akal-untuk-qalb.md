@@ -1,7 +1,7 @@
 ---
 title      : Surat dari Akal untuk Qalb Yang Hampir Sekarat
 date       : 2020-09-01 17:00 +07
-categories : [Essay]
+categories : ["Reflections & Essays"]
 tags       : [heart, intelligence]
 languages  : 🇮🇩
 
@@ -14,9 +14,9 @@ mermaid    : false
 img_path   : /assets/img/2020/
 image      :
   path     : surat1_.webp
-  width    : 
-  height   : 
-  alt      : 
+  width    :
+  height   :
+  alt      :
 ---
 
 Halo, manusia dunia. Perkenalkan, aku **Akal**. Aku adalah sebuah fungsi yang digunakan oleh tuanku, seorang manusia seperti kalian yang membaca. Aku yakin masing-masing kalian juga punya Akal yang hidup. Akal yang sehat. Aku harap begitu.

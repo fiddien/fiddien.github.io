@@ -1,7 +1,7 @@
 ---
 title      : "Who Is Going to Tell Your Story?"
 date       : 2021-11-18 21:11 +07
-categories : [Personal]
+categories : ["Reflections & Essays"]
 tags       : reflecting
 languages  : 🇬🇧
 
@@ -10,18 +10,18 @@ math       : false
 mermaid    : false
 toc        : false
 
-img_path   : 
+img_path   :
 image      :
   path     : /assets/img/2021/history.jpeg
-  width    : 
-  height   : 
-  alt      : 
+  width    :
+  height   :
+  alt      :
 ---
 
 For the last few days, I have been struck by some impactful lines coming from a brilliant American musical.
 
 > Let me tell you what I wish I’d known when I was young and dreamed of glory. You have no control: who lives, who dies, who tells your story.
-> 
+>
 > “History Has Its Eyes on You” — a song written by Lin-Manuel Miranda, sung by Christoper Jackson
 
 Life will test and surprise us, almost always unexpectedly. But between the strands of events or frustrations, we find diamonds. Our story that worth diamonds. Who is going to tell it? Our loved ones or strangers? Friends or foes?

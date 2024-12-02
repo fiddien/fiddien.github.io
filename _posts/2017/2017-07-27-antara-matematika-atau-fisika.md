@@ -2,7 +2,7 @@
 title: Antara Matematika atau Fisika?
 date: 2017-07-27 08:00:00 +07
 categories:
-  - Personal
+  - "Learning & Education"
 tags:
   - future
   - itb
@@ -59,6 +59,6 @@ Itu. Sekarang ia tak punya pemikiran lagi apa yang harus ia tuangkan dalam perde
 Oke, cukup sampai di sini. Ia akan menulis jawaban dari pertanyaan tulisan ini tahun depan. Semoga masa TPB mencerahkannya dan semoga ia tidak lupa.
 
 
-> يَـأَ يُّهَا الَّذِيْنَ ءَامَنُوا إِذَاقِيْـلَ لَكُمْ تَفَـسَّحُوْافِيْ الْمَجَلِسِ فَافْـسَحُوا يَفْـسَحِ اللهُ لَكُمْۖ وَإِذَا قِيْـلَ انْشُزُوا فَانْشُزُوا يَرْفَعِ اللهُ الَّذِيْنَ ءَامَنُوا مِنْكُمْ وَالَّذِيْنَ أُوتُوا الْعِلْمَ دَرَجَتٍۗ وَاللهُ بِمَا تَعْمَلُونَ خَبْيْرٌ 
+> يَـأَ يُّهَا الَّذِيْنَ ءَامَنُوا إِذَاقِيْـلَ لَكُمْ تَفَـسَّحُوْافِيْ الْمَجَلِسِ فَافْـسَحُوا يَفْـسَحِ اللهُ لَكُمْۖ وَإِذَا قِيْـلَ انْشُزُوا فَانْشُزُوا يَرْفَعِ اللهُ الَّذِيْنَ ءَامَنُوا مِنْكُمْ وَالَّذِيْنَ أُوتُوا الْعِلْمَ دَرَجَتٍۗ وَاللهُ بِمَا تَعْمَلُونَ خَبْيْرٌ
 >
 >Artinya: “Wahai orang-orang yang beriman, apabila dikatakan kepada kalian, ‘Berlapang-lapanglah dalam majelis,’ maka lapangkanlah, niscaya Allah akan memberi kelapangan untuk kalian. Dan apabila dikatakan, ‘Berdirilah kamu,’ maka berdirilah, niscaya Allah akan meninggikan orang-orang yang beriman diantara kalian dan orang-orang yang diberi ilmu pengetahuan beberapa derajat. Dan Allah Maha Mengetahui atas apa yang kalian kerjakan.” (Qs. Al-Mujadilah: 11)

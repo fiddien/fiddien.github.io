@@ -2,7 +2,7 @@
 title: Menjaga Memori Mengembara
 date: 2020-10-15 22:02 +07
 categories:
-  - Personal
+  - "Reflections & Essays"
 tags:
   - hikmah
   - ikhlas

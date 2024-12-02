@@ -1,7 +1,7 @@
 ---
 title      : "3 Pelajaran dari Tenggelamnya Kapal Van der Wijck"
 date       : 2021-01-16
-categories : Book
+categories : ["Life Philosophy & Wisdom"]
 tags       : [romance, "sabr & syukr"]
 languages  : 🇮🇩
 

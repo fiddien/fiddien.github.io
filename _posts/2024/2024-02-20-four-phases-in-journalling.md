@@ -2,7 +2,7 @@
 title: "My 4 Phases in Journalling"
 date: 2024-02-20
 categories:
-  - Personal Development
+  - "Personal & Professional Development"
 tags:
   - growth
   - self-discovery

@@ -1,7 +1,7 @@
 ---
 title      : "4. Antidote untuk kebiasabiasasajaan"
 date       : 2022-12-24 19:20 +00
-categories : [Floating Idea]
+categories : ["Self-Help & Growth Series"]
 tags       : [mediocre, akhlaqul karimah, sincerity]
 languages  : 🇮🇩 # 🇬🇧 🇮🇩
 
@@ -13,7 +13,7 @@ image      :
   path     : /assets/img/2023/bulb.jpg
 ---
 
-Aku ragu untuk memulai percakapan ini: menjadi orang yang biasa-biasa saja. Sebelum ke arah sana, siapa yang berhak menentukan atau melabeli kita dengan julukan "biasa-biasa saja"? 
+Aku ragu untuk memulai percakapan ini: menjadi orang yang biasa-biasa saja. Sebelum ke arah sana, siapa yang berhak menentukan atau melabeli kita dengan julukan "biasa-biasa saja"?
 
 Akan aku jawab, "a sincere self," diri yang jujur.
 
@@ -48,7 +48,7 @@ Apa intinya? Meski kelihatannya engkau tak memiliki status atau produktivitas ya
 ---
 
 > Abu Hurairah narrated that the Messenger of Allah was asked about that for which people are admitted into Paradise the most, so he said:
-> 
+>
 > "Taqwa of Allah, and good character." And he was asked about that for which people are admitted into the Fire the most, and he said: " The mouth and the private parts."[^1]
 
-[^1]: Jami` at-Tirmidhi 2004 - Chapters on Righteousness And Maintaining Good Relations With Relatives. [Sunnah.com - Sayings and Teachings of Prophet Muhammad (صلى الله عليه و سلم)](https://sunnah.com/tirmidhi:2004) 
+[^1]: Jami` at-Tirmidhi 2004 - Chapters on Righteousness And Maintaining Good Relations With Relatives. [Sunnah.com - Sayings and Teachings of Prophet Muhammad (صلى الله عليه و سلم)](https://sunnah.com/tirmidhi:2004)

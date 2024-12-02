@@ -2,7 +2,7 @@
 title: "Masa Depan Kemampuan Berbahasa: Intro"
 date: 2023-06-17 22:55 +01
 categories:
-  - Essay
+  - "Writing & Language"
 tags:
   - technology
   - language

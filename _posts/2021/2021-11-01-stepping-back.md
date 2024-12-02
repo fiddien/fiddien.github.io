@@ -1,7 +1,7 @@
 ---
 title      : "The Last 8 Weeks of 2021: Stepping Back"
 date       : 2021-11-01 21:12 +07
-categories : [Personal]
+categories : ["Time & Transitions"]
 tags       : [reflecting, planning]
 languages  : 🇬🇧
 
@@ -9,12 +9,12 @@ pin        : false
 math       : false
 mermaid    : false
 
-img_path   : 
+img_path   :
 image      :
   path     : /assets/img/2021/kasokandel.webp
-  width    : 
-  height   : 
-  alt      : 
+  width    :
+  height   :
+  alt      :
 ---
 
 Never ever I have in my life I tried to polish my CV just to get people’s attention, up until yesterday. That’s the world of post graduation.
@@ -37,7 +37,7 @@ So, in this last chunk of 2021, I will dedicate myself to
 
 For now, I think I have placed the right mindset. The question is, how do I make them become realities?
 
-First, I believe in the power of environment. With a tidy, clean, and serene living place, my mind will become more at ease. With that, I have to take care of 
+First, I believe in the power of environment. With a tidy, clean, and serene living place, my mind will become more at ease. With that, I have to take care of
 
 1. my soul compartment: my heart,
   - by keep reading Riyadushshalihiin and listening to Ustadz M. Nuzul Dzikri’s podcast, with other resources that talk about purifying the heart and improving my ibadah (in general sense),
@@ -71,5 +71,5 @@ Then the last, **I need to chill**. Play with my sister. Laugh with my friend. T
 Yes, my goals are clear. I need to believe in those goals (and myself!) by actually execute them. More importantly, Allah is waiting for me to **prove my commitment**.
 
 > O Allah, make all my affairs good and do not allow me to rely on myself even if only for the blink of an eye!
-> 
+>
 > --Rasulullah ﷺ (HR an-Nasa-i and al-Hakim)

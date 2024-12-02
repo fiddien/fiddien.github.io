@@ -1,7 +1,7 @@
 ---
 title      : "No Need to Defeat Your Fears"
 date       : 2022-01-13 21:00 +07
-categories : [Monologue]
+categories : ["Self-Help & Growth Series"]
 tags       : fears
 languages  : 🇬🇧
 
@@ -9,12 +9,12 @@ pin        : false
 math       : false
 mermaid    : false
 
-img_path   : 
+img_path   :
 image      :
   path     : /assets/img/2022/fears.webp
-  width    : 
-  height   : 
-  alt      : 
+  width    :
+  height   :
+  alt      :
 ---
 <!-- POST -->
 

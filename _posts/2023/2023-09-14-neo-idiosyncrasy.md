@@ -2,7 +2,7 @@
 title: Neo-idiosyncrasy
 date: 2023-09-14
 categories:
-  - Monologue
+  - "Reflections & Essays"
 tags:
   - self-realisation
   - change

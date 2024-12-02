@@ -1,7 +1,7 @@
 ---
-title      : "3 Pelajaran dari The Kite Runner: Novel Terbaik"
+title      : "3 Pelajaran dari The Kite Runner"
 date       : 2020-08-19 16:00 +07
-categories : Book
+categories : ["Life Philosophy & Wisdom"]
 tags       : [being moral]
 languages  : 🇮🇩
 
@@ -13,9 +13,9 @@ mermaid    : false
 
 image      :
   path     : /assets/img/2020/kite-runner_.webp
-  width    : 
-  height   : 
-  alt      : 
+  width    :
+  height   :
+  alt      :
 ---
 
 Judul novel perdana dari Khaled Hosseini ini sudah berkali-kali muncul sebagai rekomendasi di akun Goodreads-ku. Kisah ini digadangkan sebagai salah satu novel terbaik di abad 21.

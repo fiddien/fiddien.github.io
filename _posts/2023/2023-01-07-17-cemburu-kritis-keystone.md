@@ -1,7 +1,7 @@
 ---
 title      : "'17: cemburu, kritis, keystone"
 date       : 2023-01-07 12:52 +00
-categories : [Personal]
+categories : ["Time & Transitions"]
 tags       : [reflecting]
 languages  : 🇮🇩
 
@@ -40,7 +40,7 @@ Dari awal tahun 2017 ini, aku dan orang-orang di sekitar tahu betul bahwa akan t
 
 ### focus on the keystone
 
-Satu hal yang benar-benar aku apresiasi sebagai alternatif dari "mengikuti arus" adalah saran orang tuaku tentang mengambil keputusan, tanpa peduli apakah itu sesuai kebiasaan atau tren. 
+Satu hal yang benar-benar aku apresiasi sebagai alternatif dari "mengikuti arus" adalah saran orang tuaku tentang mengambil keputusan, tanpa peduli apakah itu sesuai kebiasaan atau tren.
 
 > **Identifikasilah *keystone* di masa kini. Fokuslah pada *batu kunci* tersebut dalam membuat keputusan.**
 

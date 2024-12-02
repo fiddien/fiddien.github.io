@@ -1,7 +1,7 @@
 ---
 title      : A Lesson at the Dawn of the 7th
 date       : 2018-05-23 21:00 +07
-categories : [Personal]
+categories : ["Reflections & Essays"]
 tags       : [college, itb]
 languages  : 🇬🇧
 
@@ -14,9 +14,9 @@ mermaid    : false
 img_path   : /assets/img/2018/
 image      :
   path     : 2000-rupiah_.webp
-  width    : 
-  height   : 
-  alt      : 
+  width    :
+  height   :
+  alt      :
 
 # ![image alt](img src){: width="700" height="400" .normal/left/right/shadow}
 # _image caption_

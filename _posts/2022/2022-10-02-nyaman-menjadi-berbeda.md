@@ -2,8 +2,7 @@
 title: "Nyaman Menjadi Berbeda: Muslim dan Southeast Asian di UK"
 date: 2022-10-02 22:37 +01
 categories:
-  - Personal
-  - University Life
+  - "Islamic Thought & Practice"
 tags:
   - living-abroad
 languages: 🇮🇩
@@ -13,8 +12,8 @@ mermaid: false
 img_path: /assets/img/2022/
 image:
   path: batik_day_at_scott_monument.jpeg
-  width: 
-  height: 
+  width:
+  height:
   alt:
 ---
 
@@ -35,13 +34,13 @@ Lalu, hari ke hari, kepercaya diri semakin bisa aku pupuk. Dari mulai berani mem
 
 - Pakaian batik--yang biasa mengundang pertanyaan dan komentar. Aku mencoba memakai satu potong *blouse* atau rok di setiap minggunya! :)
 
-- Arah langkah kaki ketika keluar dari gedung kuliah di jam-jam tertentu--ke Edinburgh Central Mosque untuk mengejar sholat Dzuhr atau Ashr. 
+- Arah langkah kaki ketika keluar dari gedung kuliah di jam-jam tertentu--ke Edinburgh Central Mosque untuk mengejar sholat Dzuhr atau Ashr.
 
 - Dan senyuman! 🙂 Senjata ampuh di tengah
   - kecanggungan setelah aku menolak berjabat tangan dengan laki-laki,
   - kecanggungan ketika saling bertatap penasaran dengan orang baru yang itu terjadi sepersekian detik, atau
   - sebagai wujud apresiasi pada pengendara mobil yang sigap berhenti ketika lampu pejalan kaki tiba-tiba hijau!
-  
+
   Ketika ingin membuat diri ini lebih *approachable*, senyum adalah langkah pertama.
 
 Setelah itu, aspek kehidupan yang lebih "abstrak" justru jadi kenyamanan internal yang lebih berkelanjutan. Aku tidak akan merasa rendah diri di hadapan makhluk apapun dengan identitas dan pengalaman ini.

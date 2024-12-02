@@ -2,7 +2,7 @@
 title: Aku, Dunia Self-Help, dan 4 Kesalahan
 date: 2020-06-03 10:00 +07
 categories:
-  - Personal
+  - "Self-Help & Growth Series"
 tags:
   - sabr
   - syukr
@@ -17,8 +17,8 @@ math: false
 mermaid: false
 image:
   path: /assets/img/2020/self-help_.webp
-  width: 
-  height: 
+  width:
+  height:
   alt:
 ---
 

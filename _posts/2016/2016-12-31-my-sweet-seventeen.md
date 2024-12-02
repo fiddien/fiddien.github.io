@@ -2,7 +2,7 @@
 title: My Sweet (two thousands and) Seventeen
 date: 2016-12-31 08:00:00
 categories:
-  - Personal
+  - "Time & Transitions"
 tags:
   - reflecting
   - future
@@ -51,7 +51,7 @@ Am I prepared enough to reach my target?
 
 Can I push myself?
 
- 
+
 
 I am the only one who can answer my questions. I know.
 

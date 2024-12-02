@@ -2,7 +2,7 @@
 title: "\"What Do You Think of Me?\""
 date: 2024-04-20
 categories:
-  - Personal Development
+  - "Reflections & Essays"
 tags:
   - contemplation
   - self-discovery

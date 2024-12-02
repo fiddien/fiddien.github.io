@@ -1,7 +1,7 @@
 ---
 title      : "If Plan A Doesn't Work..."
 date       : 2021-11-30 21:00 +07
-categories : [Monologue]
+categories : ["Self-Help & Growth Series"]
 tags       : planning
 languages  : 🇬🇧
 
@@ -9,17 +9,17 @@ pin        : false
 math       : false
 mermaid    : false
 
-img_path   : 
+img_path   :
 image      :
   path     : /assets/img/2021/plans.jpg
-  width    : 
-  height   : 
-  alt      : 
+  width    :
+  height   :
+  alt      :
 ---
 
 
 > If Plan A doesn’t work, the alphabets has 25 more letters — 204 if you’re in Japan.
-> 
+>
 > --Claire Cook
 
 
@@ -33,7 +33,7 @@ And if things don’t go her way, then let it be. Let her make another change. B
 _Image by Olivier Le Moal_
 
 > I have nothing to offer but blood, toil, tears, and sweat.
-> 
+>
 > --Winston S. Churchill
 
 
@@ -44,7 +44,7 @@ Yes, they admit that they do not have any special going on. Today is just anothe
 ---
 
 > He who has a why to live for can bear almost any how.
-> 
+>
 > --Friedrich Nietzsche
 
 

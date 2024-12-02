@@ -1,7 +1,7 @@
 ---
 title      : House of Knowledge, Virtue, and Wisdom
 date       : 2020-02-08 23:56 +07
-categories : [Personal]
+categories : ["Islamic Thought & Practice"]
 tags       : [house, dormitory]
 languages  : 🇬🇧
 
@@ -13,9 +13,9 @@ mermaid    : false
 
 image      :
   path     : /assets/img/2020/houseof4_.webp
-  width    : 
-  height   : 
-  alt      : 
+  width    :
+  height   :
+  alt      :
 
 # ![image alt](img src){: width="700" height="400" .normal/left/right/shadow}
 # _image caption_

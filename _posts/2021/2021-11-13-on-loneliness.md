@@ -1,7 +1,7 @@
 ---
 title      : "On Loneliness: He is Close to Me"
 date       : 2021-11-13 23:01 +07
-categories : [Floating Idea]
+categories : ["Reflections & Essays"]
 tags       : [loneliness, spirituality]
 languages  : 🇬🇧
 
@@ -38,7 +38,7 @@ I truly feel that often, the swinging needs, between intimacy and isolation. Tho
 This is by no means a tafsir of Al-Qur’an. I’m just reflecting on my thoughts.
 
 > And when My servants ask you, [O Muḥammad], concerning Me – indeed I am near. I respond to the invocation of the supplicant when he calls upon Me. So let them respond to Me [by obedience] and believe in Me that they may be [rightly] guided.
-> 
+>
 > Al-Baqarah 2: 186
 
 There are a few keywords: _ask, near, calls, obedience, guided_.

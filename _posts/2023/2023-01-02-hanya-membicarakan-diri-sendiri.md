@@ -1,7 +1,7 @@
 ---
 title      : "5. Hanya membicarakan diri sendiri"
 date       : 2023-01-02 20:30 +00
-categories : [Monologue]
+categories : ["Self-Help & Growth Series"]
 tags       : [writing, judgement day]
 languages  : 🇮🇩
 

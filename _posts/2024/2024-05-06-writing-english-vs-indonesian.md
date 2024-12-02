@@ -2,7 +2,7 @@
 title: "Writing in English vs. Indonesian"
 date: 2024-05-06
 categories:
-  - Personal Development
+  - "Writing & Language"
 tags:
   - English language
   - Indonesian language

@@ -1,7 +1,7 @@
 ---
 title      : "Tiga Renungan Dari Pinggir Sungai"
 date       : 2023-04-07 22:00 +00
-categories : [Travel Journal]
+categories : ["Reflections & Essays"]
 tags       : [hikmah, river]
 languages  : 🇮🇩
 

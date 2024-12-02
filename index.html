@@ -15,50 +15,6 @@ title: About
         <a href="/id/" class="post-tag no-text-decoration">🇮🇩</a>
 </p>
 
-Highlighted entries:
-
-{% assign fronted = site.posts | where: "front", "true" %}
-{% assign default = site.posts | where_exp: "item", "item.front != true and item.hidden != true" %}
-{% assign posts = "" | split: "" %}
-{% assign offset = paginator.page | minus: 1 | times: paginator.per_page %}
-{% assign fronted_num = fronted.size | minus: offset %}
-
-<!-- {% if fronted_num > 0 %}
-  {% for i in (offset..fronted.size) limit: fronted_num %}
-    {% assign posts = posts | push: fronted[i] %}
-  {% endfor %}
-{% else %}
-  {% assign fronted_num = 0 %}
-{% endif %} -->
-
-<ul>
-
-    {% for post in posts %}
-
-    <li>
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-        <sup>
-            <!-- time to read -->
-            <span>
-                {% include read-time.html content=post.content lang=lang %}
-            </span>
-
-            <!-- post language -->
-            {% if post.languages %}
-            <span>
-                | {{ post.languages }}
-            </span>
-            {% endif %}
-            <!-- language -->
-
-        </sup>
-    </li>
-
-    {% endfor %}
-
-    <li>and other <a href="https://fiddien.com/categories/essay/" class="post-tag no-text-decoration">Essays</a>.</li>
-</ul>
-
 Her interests are in machine learning, natural language processing, and the intersection of technology, society, and personal growth. Her evolving thoughts on these topics are gradually capture at <a href="https://notes.fiddien.com/" class="post-tag no-text-decoration">Arboretum</a> and <a href="https://twitter.com/IlmaFiddien"><i class="fab fa-twitter fa-fw"></i> X</a>.
 
 <p>

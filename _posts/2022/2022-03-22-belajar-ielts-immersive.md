@@ -2,7 +2,7 @@
 title: "Belajar IELTS: Alasan, Strategi, dan Tips | An Immersive Approach"
 date: 2022-03-22 17:34 +07
 categories:
-  - Recommendation
+  - "Learning & Education"
 tags:
   - ielts
   - study

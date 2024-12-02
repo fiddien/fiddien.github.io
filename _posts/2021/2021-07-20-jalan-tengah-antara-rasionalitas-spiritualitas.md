@@ -1,7 +1,7 @@
 ---
 title      : Jalan Tengah Antara Rasionalitas dan Spiritualitas
 date       : 2021-07-20 20:43 +07
-categories : [Essay]
+categories : ["Islamic Thought & Practice"]
 tags       : spirituality
 languages  : 🇮🇩
 
@@ -29,7 +29,7 @@ Spiritualitas dapat dipandang sebagai dua hal, yaitu spiritualitas yang terkait 
 
 Arti spiritualitas yang lebih umum ini sulit untuk didefinisikan. Namun, terdapat beberapa kondisi yang menjelaskan kapan fenomena atau seseorang dikatakan memiliki unsur “spiritual”.[^3] Pertama, adanya penekanan pada pencarian makna. Pencarian ini dapat berupa misi individu dalam menemukan nilai dan signifikasi kehidupan. Hasil pencarian tersebut akan membentuk identitas individu dan mendasari komitmen serta rencana hidup seseorang. Kedua, adanya eksistensi “_inner space_” dalam diri seseorang. Aspek ini berkaitan dengan kesadaran (_awareness_), keterpusatan (_centeredness_), dan keheningan (_stillness_) diri seseorang. Ketiga, manifestasi dari spiritualitas itu sendiri, yaitu orientasi dasar, motivasi, dan watak seorang individu terhadap dirinya, orang lain, dunia, dan kehidupan. Keempat, ajaran tentang bagaimana merespon alam dan manusia. Terakhir, kualitas atau praktik kolektif dan komunal di antara orang-orang yang memiliki spiritualitas tersebut.
 
-Pendekatan spiritual mencari sumber kebenaran dari hal yang berbau meta-sains, seperti kebijaksanaan, tradisi, introspeksi, meditasi. Spiritualitas juga menggunakan sumber meta-utilitarian seperti motivasi, emosi, intuisi, dalam membuat keputusan. Ini berbeda dengan bagaimana pendekatan rasional bekerja. Namun, bukan berarti rasionalitas dan spiritualitas bersifat saling ekslusif. Tantangannya bukan pada perbedaan cara kerja kedua pendekatan tersebut, tetapi pada mana yang akan diproritaskan pada suatu konteks masalah. Rasionalitas yang berdasar pada konsep spiritualitas memiliki potensi sebagai jalan tengah. [^4] 
+Pendekatan spiritual mencari sumber kebenaran dari hal yang berbau meta-sains, seperti kebijaksanaan, tradisi, introspeksi, meditasi. Spiritualitas juga menggunakan sumber meta-utilitarian seperti motivasi, emosi, intuisi, dalam membuat keputusan. Ini berbeda dengan bagaimana pendekatan rasional bekerja. Namun, bukan berarti rasionalitas dan spiritualitas bersifat saling ekslusif. Tantangannya bukan pada perbedaan cara kerja kedua pendekatan tersebut, tetapi pada mana yang akan diproritaskan pada suatu konteks masalah. Rasionalitas yang berdasar pada konsep spiritualitas memiliki potensi sebagai jalan tengah. [^4]
 
 ### Spritualitas reflektif sebagai bahasa bersama
 

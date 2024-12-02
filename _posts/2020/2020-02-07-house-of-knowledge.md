@@ -1,7 +1,7 @@
 ---
-title      : House of Knowledge 
+title      : House of Knowledge
 date       : 2020-02-07 16:00 +07
-categories : [Reflection]
+categories : ["Islamic Thought & Practice"]
 tags       : [knowledge]
 languages  : 🇬🇧
 
@@ -13,9 +13,9 @@ mermaid    : false
 
 image      :
   path     : /assets/img/2020/houseof1_.webp
-  width    : 
-  height   : 
-  alt      : 
+  width    :
+  height   :
+  alt      :
 
 # ![image alt](img src){: width="700" height="400" .normal/left/right/shadow}
 # _image caption_
@@ -49,5 +49,5 @@ It is all for good causes. All knowledge should be for good causes. The pursuit 
 Allah has given us the faculty of reason and argument, one aspect that differentiates us from all other kinds of creation. Then we should use that very capability of reasoning and argue! To obtain knowledge, to use knowledge, to pass knowledge, and most importantly, to defeat the wrong and reveal the truth!
 
 > “Whoever takes a path upon which to obtain knowledge, Allah makes the path to Paradise easy for him.”
-> 
+>
 > _Jami at-Tirmidhi 2646_

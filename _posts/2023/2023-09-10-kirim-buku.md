@@ -2,7 +2,7 @@
 title: Kirim Buku dari UK ke Indonesia
 date: 2023-09-10
 categories:
-  - Personal
+  - "Practical Life & Reviews"
 tags:
   - living-abroad
 languages: 🇮🇩
@@ -30,7 +30,7 @@ Lebih jauhnya lagi, ada aturan mengenai barang bawaan pribadi yang disebut juga 
 
 Aku berharap kombinasi dua aturan pemerintah itu bisa meminimalkan biaya perpajakkan yang harus dikeluarkan. Untuk menenangkan diri, segala bentuk administrasi dan keterangan barang aku siapkan sebelum mengirimkan paket buku atau memasukkannya ke koper.
 
-Sebelum memulai, perlu diputuskan terlebih dahulu lewat jalur apa saja buku-buku ini akan dibawa pulang. Setelah hitung-hitung biayanya, aku memilih untuk mengirim 1 box lewat kurir pengiriman barang internasional dan sebagiannya kumasukkan ke dalam koper bagasi penerbangan pulang. 
+Sebelum memulai, perlu diputuskan terlebih dahulu lewat jalur apa saja buku-buku ini akan dibawa pulang. Setelah hitung-hitung biayanya, aku memilih untuk mengirim 1 box lewat kurir pengiriman barang internasional dan sebagiannya kumasukkan ke dalam koper bagasi penerbangan pulang.
 
 Pertama, semua buku didata ke dalam suatu tabel, lengkap berikut penulis, genre atau kategori buku, serta harga belinya. Data buku tersebut dimasukkan ke dalam list masing-masing sesuai moda pengiriman. Total harga barang tiap list juga dicantumkan.
 
@@ -54,7 +54,7 @@ Box yang digunakan adalah jenis *double wall* atau berlapis dua karton untuk mem
 Ada *best-practice* cara menyusun buku di dalam box pindahan:
 
 1. Isi box dengan padat, jangan biarkan ada ruang kosong. Ruang kosong bisa membuat buku bergeser-geser sehingga berpotensi rusak. Kalau ada sedikit *gap*, penuhi dengan kertas atau *bubble wrap*.
-2. Selalu arahkan punggung buku ke dalam box, jangan tempatkan di sisi. Ini untuk menghindari kemungkinan patahnya punggung yang kaku tersebut ketika si box terbentur-bentur di perjalanan. 
+2. Selalu arahkan punggung buku ke dalam box, jangan tempatkan di sisi. Ini untuk menghindari kemungkinan patahnya punggung yang kaku tersebut ketika si box terbentur-bentur di perjalanan.
 
 Aku perlu waktu cukup lama untuk mengotak-atik berbagai kombinasi susunan buku agar bisa memenuhi dua saran di atas, termasuk membuka-tutup bungkusan-bungkusan *bubble wrap* yang sebelumnya sudah disiapkan. Karena salah satu objektifku adalah membuat box ini seberat mungkin, *given its limited volume*, aku juga sempat menukar-nukar buku dengan jenis kertas yang berbeda dari buku yang tadinya akan disimpan di koper. Secara umum, buku dengan kertas warna putih lebih berat dari yang kertasnya warna kecoklatan.
 
@@ -97,7 +97,7 @@ Proses membayar pajaknya cukup sederhana. Penerima barang mendapat pesan SMS dar
 
 ## Terima
 
-*I'll keep saying Alhamdulillah*, karena boxnya diterima dalam keadaan cukup baik. Ada sedikit penyok di sudut bawah, tapi tidak memberi pengaruh berarti pada buku yang ada di dalamnya. 
+*I'll keep saying Alhamdulillah*, karena boxnya diterima dalam keadaan cukup baik. Ada sedikit penyok di sudut bawah, tapi tidak memberi pengaruh berarti pada buku yang ada di dalamnya.
 
 ![the box has arrived!](book4.jpg)
 _Tampak atas box yang sudah sampai di rumah._

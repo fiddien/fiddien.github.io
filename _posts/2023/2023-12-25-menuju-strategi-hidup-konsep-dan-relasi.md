@@ -2,7 +2,7 @@
 title: "Menuju Strategi Hidup: Konsep dan Relasi"
 date: 2023-11-18
 categories:
-  - Personal Development
+  - "Personal & Professional Development"
 tags:
   - judgement day
   - life strategy

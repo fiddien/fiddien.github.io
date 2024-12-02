@@ -1,8 +1,8 @@
 ---
 title      : Absence of Mind
 date       : 2019-04-07 11:47 +07
-categories : Monologue
-tags       : 
+categories : ["Reflections & Essays"]
+tags       :
 languages  : 🇬🇧
 
 pin        : false
@@ -15,7 +15,7 @@ image      :
   path     : /assets/img/2019/windows-silts_.webp
   width    : 800
   height   : 600
-  alt      : 
+  alt      :
 
 # ![image alt](img src){: width="700" height="400" .normal/left/right/shadow}
 # _image caption_

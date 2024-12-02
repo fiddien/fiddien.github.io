@@ -1,7 +1,7 @@
 ---
 title      : Shortcut Agar Husnudzon
 date       : 2021-02-05
-categories : Recommendation
+categories : ["Islamic Thought & Practice"]
 tags       : coaching
 languages  : 🇮🇩
 

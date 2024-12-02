@@ -1,7 +1,7 @@
 ---
 title      : The First Few Weeks in Asrama Salman
 date       : 2018-07-08
-categories : [Personal]
+categories : ["Community & Leadership"]
 tags       : [salman, scholarship]
 languages  : 🇬🇧
 
@@ -14,9 +14,9 @@ mermaid    : false
 img_path   : /assets/img/2018/
 image      :
   path     : salman_.webp
-  width    : 
-  height   : 
-  alt      : 
+  width    :
+  height   :
+  alt      :
 
 # ![image alt](img src){: width="700" height="400" .normal/left/right/shadow}
 # _image caption_
@@ -43,5 +43,5 @@ Now that I think about it. One of the main reason I applied for this dorm is bec
 In these few weeks, I already got so many hikmah from this that I cannot pour it one by one here. I can see, from now on until the end this dorm period next year, more hikmah will come to me. Of course, I am ready! Bismillah!
 
 > فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ - 55:13
-> 
+>
 > So which of the favors of your Lord would you deny?

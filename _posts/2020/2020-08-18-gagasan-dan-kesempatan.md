@@ -1,8 +1,8 @@
 ---
 title      : Gagasan dan Kesempatan
 date       : 2020-08-18 +07
-categories : 
-tags       : 
+categories : ["Personal & Professional Development"]
+tags       :
 languages  : 🇮🇩
 
 pin        : false
@@ -12,9 +12,9 @@ mermaid    : false
 img_path   : /assets/img/2022/
 image      :
   path     : https://images.unsplash.com/photo-1536339258903-69fa31f99a28?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80
-  width    : 
-  height   : 
-  alt      : 
+  width    :
+  height   :
+  alt      :
 ---
 
 ![illustration](https://images.unsplash.com/photo-1536339258903-69fa31f99a28?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80)

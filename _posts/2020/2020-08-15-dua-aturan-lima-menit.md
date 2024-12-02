@@ -1,7 +1,7 @@
 ---
 title      : Dua Aturan 5 Menit
 date       : 2020-08-15 07:34 +07
-categories : Recommendation
+categories : ["Practical Life & Reviews"]
 tags       : [rules]
 languages  : 🇮🇩
 
@@ -13,11 +13,11 @@ mermaid    : false
 
 image      :
   path     : /assets/img/2020/lima-menit_.webp
-  width    : 
-  height   : 
-  alt      : 
+  width    :
+  height   :
+  alt      :
 ---
-  
+
 Ada dua _aturan lima menit_ yang aku kenal.
 
 ![](/assets/img/2020/lima-menit.webp)

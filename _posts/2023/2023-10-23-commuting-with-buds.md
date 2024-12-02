@@ -2,8 +2,7 @@
 title: "Commuting dan Galaxy Buds 2: Yang Terbaik Datang dari Yang Terburuk"
 date: 2023-10-23
 categories:
-  - University Life
-  - Reflection
+  - "Practical Life & Reviews"
 tags:
   - growth
   - commuting

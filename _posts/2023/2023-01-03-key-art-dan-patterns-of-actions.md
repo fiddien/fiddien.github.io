@@ -1,7 +1,7 @@
 ---
 title      : "Key art dan patterns of actions tahunan"
 date       : 2023-01-03 02:11 +00
-categories : [Personal Development, Floating Idea, Personal]
+categories : ["Self-Help & Growth Series"]
 tags       : [sincerity, planning, reflecting]
 languages  : 🇮🇩
 

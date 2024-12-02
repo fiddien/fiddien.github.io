@@ -1,7 +1,7 @@
 ---
 title      : Rekomendasi Channel Youtube Buat Para Knowledge-Junkies
 date       : 2016-06-30
-categories : [Recommendation]
+categories : ["Learning & Education"]
 tags       : [youtube, recommendation, science, history]
 languages  : 🇮🇩
 

@@ -1,7 +1,7 @@
 ---
 title      : House of Wisdom
 date       : 2020-02-07 23:30 +07
-categories : [Reflection]
+categories : ["Islamic Thought & Practice"]
 tags       : [wisdom]
 languages  : 🇬🇧
 
@@ -13,9 +13,9 @@ mermaid    : false
 
 image      :
   path     : /assets/img/2020/houseof3_.webp
-  width    : 
-  height   : 
-  alt      : 
+  width    :
+  height   :
+  alt      :
 
 # ![image alt](img src){: width="700" height="400" .normal/left/right/shadow}
 # _image caption_

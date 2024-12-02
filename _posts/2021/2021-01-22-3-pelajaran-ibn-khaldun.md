@@ -1,8 +1,8 @@
 ---
 title      : "3 Pelajaran dari Ibn Khaldun: Bapak Sosiologi Modern"
 date       : 2021-01-22 +07
-categories : 
-tags       : 
+categories : ["Life Philosophy & Wisdom"]
+tags       :
 author     : # <author_id>
 languages  : 🇮🇩
 
@@ -55,5 +55,5 @@ Dan tentu, kepemimpinan yang dipergilirkan adalah _sunatullah_.
 ---
 
 > _…Dan masa (kejayaan dan kehancuran) itu Kami pergilirkan diantara manusia (agar mereka mendapat pelajaran); dan supaya Allah membedakan orang-orang yang beriman (dengan orang-orang kafir) supaya sebagian kamu dijadikan-Nya (gugur sebagai) syuhada’. Dan Allah tidak menyukai orang-orang yang zalim._
-> 
+>
 > _Q. S. Ali Imran:140_

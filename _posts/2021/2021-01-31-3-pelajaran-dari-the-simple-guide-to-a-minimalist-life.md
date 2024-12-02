@@ -1,7 +1,7 @@
 ---
 title      : 3 Pelajaran dari the Simple Guide to a Minimalist Life
 date       : 2021-01-31 08:23 +07
-categories : Book
+categories : ["Life Philosophy & Wisdom"]
 tags       : minimalism
 languages  : 🇮🇩
 
@@ -13,9 +13,9 @@ mermaid    : false
 
 image      :
   path     : /assets/img/2021/minimalist_.webp
-  width    : 
-  height   : 
-  alt      : 
+  width    :
+  height   :
+  alt      :
 ---
 
 > Kurangi rasa takut, perbanyak harapan; makan lebih sedikit, kunyah lebih banyak; kurangi mengeluh, bernapaslah lebih banyak; kurangi omelan, perbanyak percakapan; perbanyak rasa cinta, dan semua hal baik akan menjadi milikmu. — Pepatah Swedia

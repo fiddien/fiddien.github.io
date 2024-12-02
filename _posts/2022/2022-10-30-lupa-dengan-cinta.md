@@ -1,7 +1,7 @@
 ---
 title      : "0. Lupa dengan cinta"
 date       : 2022-10-30 01:15 +00
-categories : [Monologue]
+categories : ["Self-Help & Growth Series"]
 tags       : [love, sabr & syukr]
 languages  : 🇮🇩
 
@@ -12,14 +12,14 @@ mermaid    : false
 img_path   : /assets/img/2022
 image      :
   path     : edinburgh-night.jpg
-  width    : 
-  height   : 
-  alt      : 
+  width    :
+  height   :
+  alt      :
 ---
 
 Hai, Tuhan, Yang Maha Menyayangi.
 
-Kau telah memberikan banyak kenikmatan pada makhluk-Mu yang pelupa. Kenikmatan itu sering terlihat seperti kelebihan yang tidak adil, namun tetap saja makhluk-Mu lupa. Ke mana perhatian dia? Makhluk lainnya yang nampak memiliki kenikmatan yang tidak adil. 
+Kau telah memberikan banyak kenikmatan pada makhluk-Mu yang pelupa. Kenikmatan itu sering terlihat seperti kelebihan yang tidak adil, namun tetap saja makhluk-Mu lupa. Ke mana perhatian dia? Makhluk lainnya yang nampak memiliki kenikmatan yang tidak adil.
 
 Tanda-Mu di mana-mana. Tapi makhluk-Mu malah teralihkan oleh tanda-tanda dari yang semu dan fana. Bagaimana jiwa kecil itu tidak terluka dan berduka, jika ia selalu salah merasa dan memilih tanda? Tanda akan cinta-Mu.
 

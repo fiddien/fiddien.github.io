@@ -1,7 +1,7 @@
 ---
 title      : My Reading Life
 date       : 2018-06-28 17:00 +07
-categories : [Book]
+categories : ["Learning & Education"]
 tags       : [reading, planning]
 languages  : 🇬🇧
 

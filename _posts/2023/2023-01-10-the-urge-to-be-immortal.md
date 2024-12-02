@@ -1,7 +1,7 @@
 ---
 title      : "The Urge to be Immortal"
 date       : 2023-01-10 00:24 +00
-categories : [Floating Idea]
+categories : ["Life Philosophy & Wisdom"]
 tags       : [afterlife]
 languages  : 🇬🇧
 

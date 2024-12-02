@@ -1,7 +1,7 @@
 ---
 title      : "Rutinitas Pagi: Tips dan Trik"
 date       : 2020-08-12 14:30 +07
-categories : Recommendation
+categories : ["Practical Life & Reviews"]
 tags       : [morning, wellbeing]
 languages  : 🇮🇩
 
@@ -13,9 +13,9 @@ mermaid    : false
 
 image      :
   path     : /assets/img/2020/rutinitas-pagi_.webp
-  width    : 
-  height   : 
-  alt      : 
+  width    :
+  height   :
+  alt      :
 ---
 
 Dalam dua tahun terakhir, pagiku kurang lebih dimulai dari turun shalat subuh di masjid.

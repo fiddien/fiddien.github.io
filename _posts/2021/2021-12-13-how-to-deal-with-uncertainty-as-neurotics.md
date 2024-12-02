@@ -1,7 +1,7 @@
 ---
 title      : How to Deal with Uncertainty as a Neurotic
 date       : 2021-12-13 12:49 +07
-categories : [Recommendation]
+categories : ["Personal & Professional Development"]
 tags       : [uncertainty, wellbeing]
 languages  : 🇬🇧
 
@@ -88,7 +88,7 @@ Don’t be afraid to ask for help. But don’t rely too much on others too.
 ---
 
 > _Uncertainty is the refuge of hope_
-> 
+>
 > Henri Frederic Amiel
 
 With these neurotics tendencies, I think I need to incorporate into the dailies all the things I write. I just need to be reminded that I live in a six-dimensional world: three dimensions for physical spaces, one time-space, one head-space, and one heart-space. By that, I know what to do next, how should I assess the moment, then act accordingly, not neurotically.
@@ -99,6 +99,6 @@ With these neurotics tendencies, I think I need to incorporate into the dailies 
 
 American Psychological Association 2017, _The great unknown: 10 tips for dealing with the stress of uncertainty_, accessed 9 December 2021, <[https://www.apa.org/topics/stress/uncertainty](https://www.apa.org/topics/stress/uncertainty)>
 
-Christine Carter 2020, _Seven Ways to Cope with Uncertainty_, Greater Good Magazine, accessed 9 December 2021,<[https://greatergood.berkeley.edu/article/item/seven_ways_to_cope_with_uncertainty](https://greatergood.berkeley.edu/article/item/seven_ways_to_cope_with_uncertainty)>  
-  
+Christine Carter 2020, _Seven Ways to Cope with Uncertainty_, Greater Good Magazine, accessed 9 December 2021,<[https://greatergood.berkeley.edu/article/item/seven_ways_to_cope_with_uncertainty](https://greatergood.berkeley.edu/article/item/seven_ways_to_cope_with_uncertainty)>
+
 Liggy Webb 2015, _How to deal with ambiguity,_ The World of Learning, accessed 9 December 2021, <[https://www.learnevents.com/blog/2015/04/07/how-to-deal-with-ambiguity/](https://www.learnevents.com/blog/2015/04/07/how-to-deal-with-ambiguity/)>

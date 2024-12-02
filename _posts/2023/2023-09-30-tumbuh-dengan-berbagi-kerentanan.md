@@ -2,7 +2,7 @@
 title: Tumbuh dengan Berbagi Kerentanan
 date: 2023-09-30
 categories:
-  - Personal
+  - "Community & Leadership"
 tags:
   - vulnerability
   - communication

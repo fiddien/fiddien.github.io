@@ -1,7 +1,7 @@
 ---
 title      : Sains, Bebas-Nilai atau Terikat-Nilai?
 date       : 2021-07-16 21:12 +07
-categories : [Essay]
+categories : ["Islamic Thought & Practice"]
 tags       : [discourse, philosophy, science, value]
 languages  : 🇮🇩
 

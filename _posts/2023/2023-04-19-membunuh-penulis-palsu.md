@@ -1,7 +1,7 @@
 ---
 title      : "Membunuh Penulis Palsu"
 date       : 2023-04-19 02:38 +00
-categories : [Monologue]
+categories : ["Writing & Language"]
 tags       : [writing, muslim]
 languages  : 🇮🇩
 

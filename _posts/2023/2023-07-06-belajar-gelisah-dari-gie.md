@@ -2,7 +2,7 @@
 title: Belajar Gelisah dari Gie
 date: 2023-07-06 20:00 +01
 categories:
-  - Floating Idea
+  - "Personal & Professional Development"
 tags:
   - activism
   - notable people

@@ -1,7 +1,7 @@
 ---
-title      : House of Virtue 
+title      : House of Virtue
 date       : 2020-02-07 21:00 +07
-categories : [Reflection]
+categories : ["Islamic Thought & Practice"]
 tags       : [knowledge]
 languages  : 🇬🇧
 
@@ -13,9 +13,9 @@ mermaid    : false
 
 image      :
   path     : /assets/img/2020/houseof2_.webp
-  width    : 
-  height   : 
-  alt      : 
+  width    :
+  height   :
+  alt      :
 
 # ![image alt](img src){: width="700" height="400" .normal/left/right/shadow}
 # _image caption_
@@ -46,7 +46,7 @@ But, before anything else, what is _heart_?
 We actually need another essay to explain the heart. But in short, the heart is something burning (fuād), easily changing (qulb), and a place where we keep our secrets and motives (_sadr_).
 
 > _So have they not traveled through the earth and have_ **hearts by which to reason** _and ears by which to hear? For indeed, it is not eyes that are blinded, but blinded are the hearts which are within the breasts._
-> 
+>
 > _Quran 22: 46_
 
 So, to be virtuous is
