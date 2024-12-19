@@ -2,6 +2,8 @@
 layout: default
 title: Updates
 emoji: fas fa-timeline
+hidden: true
+show_tab: false
 order: 99
 ---
 
