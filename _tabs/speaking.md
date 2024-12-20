@@ -17,10 +17,10 @@ Saya berpegang pada prinsip bahwa berbicara di depan publik adalah amanah untuk 
 
 Fokus kontribusi saya meliputi:
 - Kecerdasan artifisial (AI)
-- Keamanan dalam kecerdasan artifisial (AI safety)
+- Unsur keamanan seputar kecerdasan artifisial (AI safety)
 - Pembelajaran mesin & NLP
-- Perspektif Islam dalam teknologi
 - Pengembangan karir di bidang AI
+- Perspektif Islam dalam sains dan teknologi
 - Persiapan studi lanjut (S2) dan pendaftaran beasiswa
 
 Untuk informasi lebih lanjut tentang karya dan pemikiran saya, lihat [presentasi yang pernah saya berikan](https://fiddien.com/slides/) atau navigasi ke berbagai tempat di website ini.
@@ -29,10 +29,12 @@ Untuk informasi lebih lanjut tentang karya dan pemikiran saya, lihat [presentasi
 
 Untuk memastikan nilai maksimal bagi peserta, beberapa hal perlu diperhatikan:
 
-- Persiapan: Waktu persiapan yang cukup memungkinkan saya menyesuaikan materi dengan kebutuhan spesifik audiens Anda. Idealnya, diskusi awal dilakukan minimal 3 minggu sebelum acara.
+- Waktu persiapan yang cukup memungkinkan saya menyesuaikan materi dengan kebutuhan spesifik audiens Anda. Idealnya, diskusi awal dilakukan minimal 3 minggu sebelum acara.
 
-- Dukungan Logistik: Untuk acara luar kota (saya berbasis di Jakarta Selatan), dukungan transportasi dan akomodasi memungkinkan saya fokus sepenuhnya pada memberikan nilai terbaik untuk acara Anda.
+- Untuk acara luar kota (saya berbasis di Jakarta Selatan), dukungan transportasi dan akomodasi memungkinkan saya fokus sepenuhnya pada memberikan nilai terbaik untuk acara Anda.
 
-## Pengajuan
+## Komunikasi dan Pengajuan
 
 Silakan kirim detail acara Anda ke email: {namadepan**namatengah**inisialnamaakhir}{at}{gmail}{dot}{com}. Insya Allah, saya akan merespons dalam 2-3 hari kerja untuk mendiskusikan potensi kolaborasi.
+
+> [Maaf jika saya tak kunjung membalas atau sangat *slow response*!](https://fiddien.com/hi/)
