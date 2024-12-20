@@ -2,12 +2,11 @@
 icon: fas fa-diagram-project
 order: 4
 show_tab: false
+title: Prinsip Kolaborasi
 hidden: true
 ---
 
-# Prinsip Kolaborasi sebagai Pembicara
-
-Terima kasih atas minat Anda mengundang saya, Ilma Aliya Fiddien, sebagai pembicara. Halaman ini berisi informasi yang diperlukan untuk memastikan kolaborasi yang efektif dan profesional.
+Terima kasih atas minat Anda mengundang saya, Ilma Aliya Fiddien, sebagai pembicara, narasumber, atau kolaborator pada kegiatan Anda. Halaman ini berisi informasi yang diperlukan untuk memastikan kolaborasi yang efektif dan profesional.
 
 ## Prinsip Dasar
 
@@ -37,4 +36,4 @@ Untuk memastikan nilai maksimal bagi peserta, beberapa hal perlu diperhatikan:
 
 Silakan kirim detail acara Anda ke email: {namadepan**namatengah**inisialnamaakhir}{at}{gmail}{dot}{com}. Insya Allah, saya akan merespons dalam 2-3 hari kerja untuk mendiskusikan potensi kolaborasi.
 
-> [Maaf jika saya tak kunjung membalas atau sangat *slow response*!](https://fiddien.com/hi/)
+> Tak kunjung membalas atau sangat *slow-response*? [Mungkin karena ini 🙏](https://fiddien.com/hi/)
