@@ -16,10 +16,11 @@ Saya berpegang pada prinsip bahwa berbicara di depan publik adalah amanah untuk 
 
 Fokus kontribusi saya meliputi:
 - Kecerdasan artifisial (AI)
-- Unsur keamanan seputar kecerdasan artifisial (AI safety)
-- Pembelajaran mesin & NLP
-- Pengembangan karir di bidang AI
+- Pembelajaran mesin (ML) & natural language processing (NLP)
+- Etika kecerdasan artifisial (AI ethics)
+- Keamanan kecerdasan artifisial (AI safety)
 - Perspektif Islam dalam sains dan teknologi
+- Pengembangan karir di bidang AI
 - Persiapan studi lanjut (S2) dan pendaftaran beasiswa
 
 Untuk informasi lebih lanjut tentang karya dan pemikiran saya, lihat [presentasi yang pernah saya berikan](https://fiddien.com/slides/) atau navigasi ke berbagai tempat di website ini.
