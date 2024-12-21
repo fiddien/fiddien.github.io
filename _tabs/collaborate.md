@@ -34,6 +34,7 @@ Untuk memastikan nilai maksimal bagi peserta, beberapa hal perlu diperhatikan:
 
 ## Komunikasi dan Pengajuan
 
-Silakan kirim detail acara Anda ke email: {namadepan**namatengah**inisialnamaakhir}{at}{gmail}{dot}{com}. Insya Allah, saya akan merespons dalam 2-3 hari kerja untuk mendiskusikan potensi kolaborasi.
+Silakan kirim detail kegiatan Anda ke email: {namaDepan**namaTengah**inisialnamaBelakang}{at}{gmail}{dot}{com}. Insya Allah, saya akan merespons dalam 2-3 hari kerja untuk mendiskusikan potensi kolaborasi.
 
-> Tak kunjung membalas atau sangat *slow-response*? [Mungkin karena ini 🙏](https://fiddien.com/hi/)
+> Saya tak kunjung membalas atau sangat *slow-response*? [Mungkin karena ini 🙏](/hi)
+{: .prompt-info }
