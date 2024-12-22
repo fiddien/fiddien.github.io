@@ -40,6 +40,16 @@ social:
 
 google_site_verification: google-site-verification=Ily8jJU26woumz9I40tLSPd198oj69zrPp4DeNtMqNI
 
+
+# Site Verification Settings
+webmaster_verifications:
+  google: google-site-verification=Ily8jJU26woumz9I40tLSPd198oj69zrPp4DeNtMqNI
+  bing: # fill in your Bing verification code
+  alexa: # fill in your Alexa verification code
+  yandex: # fill in your Yandex verification code
+  baidu: # fill in your Baidu verification code
+  facebook: # fill in your Facebook verification code
+
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
@@ -59,7 +69,10 @@ analytics:
     id: # fill in your Cloudflare Web Analytics token
   fathom:
     id: # fill in your Fathom Site ID
+  fathom:
+    id: # fill in your Fathom Site ID
 
+# Page views settings
 # Page views settings
 pageviews:
   provider: goatcounter # now only supports 'goatcounter'
@@ -126,7 +139,9 @@ assets:
 
 pwa:
   enabled: true # The option for PWA feature (installable)
+  enabled: true # The option for PWA feature (installable)
   cache:
+    enabled: true # The option for PWA offline cache
     enabled: true # The option for PWA offline cache
     # Paths defined here will be excluded from the PWA cache.
     # Usually its value is the `baseurl` of another website that
@@ -233,8 +248,9 @@ exclude:
   - tools
   - README.md
   - LICENSE
-  - "*.config.js"
-  - package*.json
+  - purgecss.js
+  - rollup.config.js
+  - "package*.json"
 
 jekyll-archives:
   enabled: [categories, tags]
