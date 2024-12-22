@@ -1,63 +1,99 @@
-- title: "Tujuan dari Sains"
-  cover: tujuan_dari_sains.jpg
-  src:   https://drive.google.com/file/d/107CT7hfrFkCWVSn59UcxZByB87QU_yue/view?usp=sharing
+- title: "Towards Contestable AI"
+  cover: 2024-ACM_CSCW-Towards_Contestable_AI.jpg
+  src:   2024-ACM_CSCW-Towards_Contestable_AI.pdf
+  date:  2024-11-09
 
-- title: "Crash Course to Ethical & Trustworthy AI (2024)"
-  cover: ethical_trustworthy_ai.jpg
-  src:   crash_course_ethical_and_trustworthy_ai_2024_01.pdf
+- title: "Retrospektif Agar Lebih Perspektif"
+  cover: 20240323-SEC_Salman-Retrospektif_Prospektif.jpg
+  src:   20240323-SEC_Salman-Retrospektif_Prospektif.pdf
+  date:  2024-03-23
+
+- title: "Menyiapkan Motivation Letter"
+  cover: 20240303-Komprof_Salman-Menyiapkan_Motivation_Letter.jpg
+  src:   20240303-Komprof_Salman-Menyiapkan_Motivation_Letter.pdf
+  date:  2024-03-03
+
+- title: "Tujuan dari Sains"
+  cover: 2024-ForDIST-Tujuan_Dari_Sains.jpg
+  src:   2024-ForDIST-Tujuan_Dari_Sains.pdf
+  date:  2024-01-20
+
+- title: "Ethical & Trustworthy AI (2024)"
+  cover: 2024-Indonesia_AI-Ethical_and_Trustworthy_AI.jpg
+  src:   2024-Indonesia_AI-Ethical_and_Trustworthy_AI.pdf
+  date:  2024-01-29
 
 - title: "Math in Deep Learning: Backward Pass (2024)"
-  cover: math_deep_learning_backward_pass.jpg
-  src:   math_deep_learning_backward_pass_2024_01.pdf
+  cover: 2024-Indonesia_AI-Mathematics_in_Deep_Learning_Backward_Pass.jpg
+  src:   2024-Indonesia_AI-Mathematics_in_Deep_Learning_Backward_Pass.pdf
+  date:  2024-01-26
 
 - title: "Math in Deep Learning: Forward Pass (2024)"
-  cover: math_deep_learning_forward_pass.jpg
-  src:   math_deep_learning_forward_pass_2024_01.pdf
+  cover: 2024-Indonesia_AI-Mathematics_in_Deep_Learning_Forward_Pass.jpg
+  src:   2024-Indonesia_AI-Mathematics_in_Deep_Learning_Forward_Pass.pdf
+  date:  2024-01-19
 
 - title: "Tes Bakat Skolastik LPDP"
-  cover: elite_circle_tes_bakat_skolastik.jpg
-  src:   elite_circle_tes_bakat_skolastik.pdf
+  cover: 2024-Elite_Circle-Tes_Bakat_Skolastik.jpg
+  src:   2024-Elite_Circle-Tes_Bakat_Skolastik.pdf
+  date:  2024-01-27
 
-- title: "Crash Course to Ethical & Trustworthy AI"
-  cover: ethical_trustworthy_ai.jpg
-  src:   crash_course_ethical_and_trustworthy_ai.pdf
+- title: "Ethical & Trustworthy AI"
+  cover: 2024-Indonesia_AI-Ethical_and_Trustworthy_AI.jpg
+  src:   2023-Indonesia_AI-Ethical_and_Trustworthy_AI.pdf
+  date:  2023-08-06
 
 - title: "Esai LPDP: Komitmen, Rencana, Kontribusi"
-  cover: esai_lpdp_krr.jpg
-  src:   esai_lpdp_krr.pdf
+  cover: 2023-Intelektual_Muda_Salman-Esai_KRR_LPDP.jpg
+  src:   2023-Intelektual_Muda_Salman-Esai_KRR_LPDP.pdf
+  date:  2023-07-19
 
 - title: "Math in Deep Learning: Backward Pass (2023)"
-  cover: math_deep_learning_backward_pass.jpg
-  src:   math_deep_learning_backward_pass.pdf
+  cover: 2024-Indonesia_AI-Mathematics_in_Deep_Learning_Backward_Pass.jpg
+  src:   2023-Indonesia_AI-Mathematics_in_Deep_Learning_Backward_Pass.pdf
+  date:  2023-05-10
 
 - title: "Math in Deep Learning: Forward Pass (2023)"
-  cover: math_deep_learning_forward_pass.jpg
-  src:   math_deep_learning_forward_pass.pdf
+  cover: 2024-Indonesia_AI-Mathematics_in_Deep_Learning_Forward_Pass.jpg
+  src:   2023-Indonesia_AI-Mathematics_in_Deep_Learning_Forward_Pass.pdf
+  date:  2023-05-10
 
 - title: Menuju Studi Pascasarjana
-  cover: menuju_studi_pascasarjana.jpg
-  src:   menuju_studi_pascasarjana.pdf
+  cover: 2023-Pembinaan_Beasiswa_Perintis-Menuju_Studi_Pascasarjana.jpg
+  src:   2023-Pembinaan_Beasiswa_Perintis-Menuju_Studi_Pascasarjana.pdf
+  date:  2023-01-29
 
 - title: Recommendation Letter & LoA
-  cover: recommendation_letter_loa.jpg
-  src:   recommendation_letter_loa.pdf
+  cover: 2022-Komprof_Salman-Recommendation_Letter_LoA.jpg
+  src:   2022-Komprof_Salman-Recommendation_Letter_LoA.pdf
+  date:  2022-09-04
 
-- title: Membuat Motivation Letter
-  cover: membuat_motivation_letter.jpg
-  src:   membuat_motivation_letter_dan_recommendation_letter.pdf
+- title: Motivation Letter & Recommendation Letter
+  cover: 2022-Intelektual_Muda_Salman-Motivation_Letter_Recommendation_Letter.jpg
+  src:   2022-Intelektual_Muda_Salman-Motivation_Letter_Recommendation_Letter.pdf
+  date:  2022-06-25
 
 - title: Pengenalan EfficientDet
-  cover: efficientdet.jpg
-  src:   efficientdet.pdf
+  cover: 2022-Self-Pengenalan_EfficientDet.jpg
+  src:   2022-Self-Pengenalan_EfficientDet.pdf
+  date:  2022-06-02
+
+- title: AI for Agriculture
+  cover: 20220204-Indonesia_AI-Paper_Sharing_AI_for_Agriculture.jpg
+  src:   20220204-Indonesia_AI-Paper_Sharing_AI_for_Agriculture.pdf
+  date:  2022-02-04
 
 - title: "Sekolah Formatur #2"
-  cover: sekolah_formatur_gamais_2.jpg
-  src:   sekolah_formatur_gamais_2.pdf
+  cover: 2021-Gamais_ITB-Sekolah_Formatur_2.jpg
+  src:   2021-Gamais_ITB-Sekolah_Formatur_2.pdf
+  date:  2021-11-13
 
 - title: "Sekolah Formatur #1"
-  cover: sekolah_formatur_gamais_1.jpg
-  src:   sekolah_formatur_gamais_1.pdf
+  cover: 2021-Gamais_ITB-Sekolah_Formatur_1.jpg
+  src:   2021-Gamais_ITB-Sekolah_Formatur_1.pdf
+  date:  2021-10-30
 
 - title: Pelatihan Menulis Untuk Notulis
-  cover: pelatihan_notulis.jpg
-  src:   pelatihan_notulis.pdf
+  cover: 2020-Gamais_ITB-Pelatihan_Menulis.jpg
+  src:   2020-Gamais_ITB-Pelatihan_Menulis.pdf
+  date:  2020-08-29

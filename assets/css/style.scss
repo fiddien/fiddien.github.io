@@ -11,51 +11,70 @@ html {
 
 /* Gallery */
 #gallery {
-    padding: 0.5rem;
-    margin-top: 1.5rem;
-    display: flex;
-    -webkit-flex-wrap: wrap;
-    -ms-flex-wrap: wrap;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: left;
-  }
+  margin-top: 1.5rem;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: left;
+  gap: 1rem
+}
 
-  a.gallery-item {
-    flex: 1 1 30%;
-    color: var(--text-color);
-    max-width: 100%;
-    max-height: calc(50% - 1rem);
-    margin: 0.5rem;
-    border: 0;
-    border-radius: 10px;
-    background: var(--card-bg);
-    box-shadow: var(--card-shadow);
-    overflow: hidden;
-    text-align: center;
-  }
+a.gallery-item {
+  flex: 1 1 30%;
+  color: var(--text-color);
+  max-width: 100%;
+  max-height: calc(50% - 1rem);
+  // margin: 0 1rem 1rem 0;
+  border: 0;
+  border-radius: 10px;
+  background: var(--card-bg);
+  box-shadow: var(--card-shadow);
+  text-align: center;
+  overflow: hidden;
+  overflow-wrap: break-word;
+}
 
-  a.gallery-item:hover {
-    background-color: var(--tag-hover);
-    transition: all 0.2s ease-in;
+a.gallery-item:hover {
+  background-color: var(--tag-hover);
+  transition: all 0.2s ease-in;
 
-    img.cover:hover {
-      opacity: 1;
-    }
+  img.cover:hover {
+    opacity: 1;
   }
+}
 
-  img.cover {
-    opacity: 0.5;
-    width: 100%;
-    object-fit: cover;
-  }
+.gallery-preview {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
+  text-align: center;
+}
 
-  h1.gallery-item-title {
-    font-size: 1rem;
-    margin: 1rem;
-    overflow: hidden;
-    text-overflow: ellipsis;
-  }
+img.cover {
+  opacity: 0.5;
+  width: 100%;
+  object-fit: cover;
+}
+
+h1.gallery-item-title {
+  font-size: 1rem;
+  margin: 1rem;
+  overflow-wrap: anywhere;
+  // overflow: hidden;
+  // text-overflow: ellipsis;
+}
+
+/* Year (tag) styling */
+em {
+  margin: 0 0 0.5rem;
+  font-style: normal;
+  font-size: 0.9rem;
+}
+
 /*-- gallery --*/
 
 
@@ -64,18 +83,21 @@ html {
   height: 3rem;
   font-size: 1.32rem;
 }
+
 /*-- archives --*/
 
 /* Overriding toolbar */
 .profile-wrapper {
   margin-bottom: 1rem;
 }
+
 /*-- toolbar --*/
 
 /* Overwrite bootstrap tooltip */
 .tooltip-inner {
   white-space: pre-wrap;
 }
+
 /* -- tooltip --*/
 
 @import 'updates';

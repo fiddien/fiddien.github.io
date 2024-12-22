@@ -28,6 +28,7 @@ order: 5
                         <div class="gallery-preview">
                             <img class="cover" src="/assets/img/slides_cover/{{ slide.cover | relative_url }}" alt="{{ slide.title }}" />
                             <h1 class="gallery-item-title">{{ slide.title }}</h1>
+                            <em>{{ slide.date | date: "%b %d, %Y" }}</em>
                         </div>
                     </a>
                 {% endfor %}
