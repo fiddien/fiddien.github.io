@@ -16,7 +16,7 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
 
     strategy:
       matrix:
@@ -29,13 +29,10 @@ jobs:
           fetch-depth: 0 # for posts's lastmod
 
       - name: Setup Ruby
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y ruby-build
-          ruby-build ${{ matrix.ruby }} /opt/hostedtoolcache/Ruby/${{ matrix.ruby }}/x64
-          touch /opt/hostedtoolcache/Ruby/${{ matrix.ruby }}/x64.complete
-        env:
-          PATH: /opt/hostedtoolcache/Ruby/${{ matrix.ruby }}/x64/bin:$PATH
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: ${{ matrix.ruby }}
+          bundler-cache: true
 
       - name: Setup Node
         uses: actions/setup-node@v3
