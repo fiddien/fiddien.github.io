@@ -29,10 +29,13 @@ jobs:
           fetch-depth: 0 # for posts's lastmod
 
       - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: ${{ matrix.ruby }}
-          bundler-cache: true
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ruby-build
+          ruby-build ${{ matrix.ruby }} /opt/hostedtoolcache/Ruby/${{ matrix.ruby }}/x64
+          touch /opt/hostedtoolcache/Ruby/${{ matrix.ruby }}/x64.complete
+        env:
+          PATH: /opt/hostedtoolcache/Ruby/${{ matrix.ruby }}/x64/bin:$PATH
 
       - name: Setup Node
         uses: actions/setup-node@v3
