@@ -12,7 +12,7 @@ toc: false
 comments: false
 math: false
 mermaid: false
-img_path: /assets/img/2016/
+media_subpath: /assets/img/2016/
 image:
   path: coffee_.webp
   alt:

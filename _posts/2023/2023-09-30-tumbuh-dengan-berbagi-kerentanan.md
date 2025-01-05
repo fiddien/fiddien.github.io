@@ -13,7 +13,7 @@ toc: true
 comments: false
 math: false
 mermaid: false
-img_path: /assets/img/2023/
+media_subpath: /assets/img/2023/
 image :
   path: sapi-jamet.webp
 ---

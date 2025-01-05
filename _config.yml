@@ -36,9 +36,21 @@ social:
   name: Ilma Aliya Fiddien
   links:
     # The first element serves as the copyright owner's link
+    - https://twitter.com/ilmafiddien # change to your Twitter homepage
+    - https://github.com/fiddien # change to your GitHub homepage
+    # Uncomment below to add more social links
+    # - https://www.facebook.com/username
     - https://www.linkedin.com/in/fiddien
+    - https://www.instagram.com/ilmafiddien
 
-google_site_verification: google-site-verification=Ily8jJU26woumz9I40tLSPd198oj69zrPp4DeNtMqNI
+# Site Verification Settings
+webmaster_verifications:
+  google: google_site_verification: google-site-verification=Ily8jJU26woumz9I40tLSPd198oj69zrPp4DeNtMqNI
+  bing: # fill in your Bing verification code
+  alexa: # fill in your Alexa verification code
+  yandex: # fill in your Yandex verification code
+  baidu: # fill in your Baidu verification code
+  facebook: # fill in your Facebook verification code
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
@@ -135,7 +147,6 @@ pwa:
       # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
 
 paginate: 10
-paginate_path: "/blog/:num/"
 
 # The base URL of your site
 baseurl: ""
@@ -207,12 +218,6 @@ defaults:
     values:
       layout: poem
       permalink: /poems/:title/
-  - scope:
-      path: '_notes'
-      type: notes
-    values:
-      layout: posts
-      permalink: /notes/:title/
 
 sass:
   style: compressed
@@ -233,8 +238,9 @@ exclude:
   - tools
   - README.md
   - LICENSE
-  - "*.config.js"
-  - package*.json
+  - purgecss.js
+  - rollup.config.js
+  - "package*.json"
 
 jekyll-archives:
   enabled: [categories, tags]

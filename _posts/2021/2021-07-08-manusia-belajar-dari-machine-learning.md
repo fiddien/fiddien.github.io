@@ -11,7 +11,7 @@ comments   : true
 math       : false
 mermaid    : false
 
-img_path   : /assets/img/2021/
+media_subpath   : /assets/img/2021/
 image      :
   path     : human-machine2_.webp
 ---

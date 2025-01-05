@@ -11,7 +11,7 @@ comments   : true
 math       : false
 mermaid    : false
 
-img_path   : /assets/img/2016/
+media_subpath   : /assets/img/2016/
 image      :
   path     : knowledge-junkie_.webp
   width    : 1000

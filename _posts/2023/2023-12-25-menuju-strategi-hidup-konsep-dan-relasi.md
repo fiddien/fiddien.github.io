@@ -18,7 +18,7 @@ comments: false
 math: false
 mermaid: false
 front: true
-img_path: /assets/img/2023/
+media_subpath: /assets/img/2023/
 image :
   path: contribution-centric-life-graph.webp
 ---

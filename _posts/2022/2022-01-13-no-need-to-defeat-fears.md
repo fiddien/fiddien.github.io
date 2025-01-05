@@ -9,7 +9,7 @@ pin        : false
 math       : false
 mermaid    : false
 
-img_path   :
+media_subpath   :
 image      :
   path     : /assets/img/2022/fears.webp
   width    :

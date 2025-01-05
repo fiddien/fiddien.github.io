@@ -10,7 +10,7 @@ math       : false
 mermaid    : false
 comments   : false
 
-img_path   : /assets/img/2023/
+media_subpath   : /assets/img/2023/
 image      :
   path     : kibar-februari.webp
 ---

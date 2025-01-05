@@ -14,7 +14,7 @@ comments: true
 math: false
 mermaid: false
 front: false
-img_path: /assets/img/2024/
+media_subpath: /assets/img/2024/
 image :
   path: street-quote.webp
 ---

@@ -3,21 +3,21 @@ layout: default
 # The list of poems.
 ---
 
-<div class="row">
-  <div id="core-wrapper" class="col-12 col-lg-11 col-xl-9 pe-xl-4">
-      <div class="post {{ padding | strip }} px-md-2">
-          {% assign tab_key = page.title | downcase %}
-          {% assign title = site.data.locales[lang].tabs[tab_key] | default: page.title %}
-          <h1 class="dynamic-title">
-          {{ title }}
-          </h1>
-          <div id="gallery">
-              {% for poem in site.poems %}
-                <a class="gallery-item" href="{{ poem.url | relative_url }}">
-                  <h1 class="gallery-item-title">{{ poem.title }}</h1>
-                </a>
-              {% endfor %}
-          </div>
-      </div>
-  </div>
-</div>
+<article class="px-1">
+    <div class="row">
+        <div class="post {{ padding | strip }} px-md-2">
+            {% assign tab_key = page.title | downcase %}
+            {% assign title = site.data.locales[lang].tabs[tab_key] | default: page.title %}
+            <h1 class="dynamic-title">
+            {{ title }}
+            </h1>
+            <div id="gallery">
+                {% for poem in site.poems %}
+                  <a class="gallery-item" href="{{ poem.url | relative_url }}">
+                    <h1 class="gallery-item-title">{{ poem.title }}</h1>
+                  </a>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</article>

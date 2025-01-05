@@ -10,7 +10,7 @@ math       : false
 mermaid    : false
 toc        : false
 
-img_path   :
+media_subpath   :
 image      :
   path     : /assets/img/2021/history.jpeg
   width    :

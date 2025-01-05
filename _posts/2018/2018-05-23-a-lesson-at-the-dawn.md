@@ -11,7 +11,7 @@ comments   : true
 math       : false
 mermaid    : false
 
-img_path   : /assets/img/2018/
+media_subpath   : /assets/img/2018/
 image      :
   path     : 2000-rupiah_.webp
   width    :

@@ -9,7 +9,7 @@ pin        : false
 math       : false
 mermaid    : false
 
-img_path   : /assets/img/2021/1-uni-life/
+media_subpath   : /assets/img/2021/1-uni-life/
 image      :
   path     : ilma-plaza-widya.webp
   width    :

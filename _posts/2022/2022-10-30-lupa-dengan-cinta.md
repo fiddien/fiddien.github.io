@@ -9,7 +9,7 @@ pin        : false
 math       : false
 mermaid    : false
 
-img_path   : /assets/img/2022
+media_subpath   : /assets/img/2022
 image      :
   path     : edinburgh-night.jpg
   width    :

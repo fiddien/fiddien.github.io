@@ -9,7 +9,7 @@ languages: 🇮🇩
 pin: false
 math: false
 mermaid: false
-img_path: /assets/img/2022/
+media_subpath: /assets/img/2022/
 image:
   path: batik_day_at_scott_monument.jpeg
   width:

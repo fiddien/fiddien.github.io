@@ -2,7 +2,7 @@
 icon: fas fa-diagram-project
 order: 4
 show_tab: false
-title: Berkomunikasi dengan Ilma
+title: Communicate with Me
 hidden: true
 ---
 
@@ -54,7 +54,7 @@ Pendekatan ini membantu saya menjaga kualitas pekerjaan dan interaksi, meski say
 - Hal mendesak yang jelas ditandai: Hari yang sama bila memungkinkan
   - *Mengapa?* Untuk mengelola ekspektasi dan menjaga keseimbangan kerja-kehidupan
 
-> [Ingin berkolaborasi?](/collaborate)
+> [Ingin berkolaborasi atau mengundang saya ke kegiatan Anda?](/collaborate)
 {: .prompt-info }
 
 ### Komitmen Saya
@@ -118,7 +118,7 @@ This approach helps me maintain the quality of both my work and my interactions,
 - Clearly marked urgent matters: Same day when possible
   - *Why?* To manage expectations and maintain work-life balance
 
-> [Have an intention to collaborate?](/collaborate)
+> [Have an intention to collaborate with or inviting me to your initiative?](/collaborate)
 {: .prompt-info }
 
 ### My Commitments

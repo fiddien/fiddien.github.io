@@ -14,7 +14,7 @@ toc: false
 comments: false
 math: false
 mermaid: false
-img_path: /assets/img/2020/
+media_subpath: /assets/img/2020/
 image:
   path: mengembara_.webp
   width:
