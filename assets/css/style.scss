@@ -13,20 +13,15 @@ html {
 #gallery {
   margin-top: 1.5rem;
   display: flex;
-  -webkit-flex-wrap: wrap;
-  -ms-flex-wrap: wrap;
-  flex-direction: row;
   flex-wrap: wrap;
   justify-content: left;
-  gap: 1rem
+  gap: 1rem;
 }
 
 a.gallery-item {
   flex: 1 1 30%;
   color: var(--text-color);
   max-width: 100%;
-  max-height: calc(50% - 1rem);
-  // margin: 0 1rem 1rem 0;
   border: 0;
   border-radius: 10px;
   background: var(--card-bg);
@@ -34,15 +29,21 @@ a.gallery-item {
   text-align: center;
   overflow: hidden;
   overflow-wrap: break-word;
+  transition: all 0.2s ease-in;
 }
 
 a.gallery-item:hover {
   background-color: var(--tag-hover);
-  transition: all 0.2s ease-in;
+}
 
-  img.cover:hover {
-    opacity: 1;
-  }
+img.cover {
+  opacity: 0.5;
+  width: 100%;
+  object-fit: cover;
+}
+
+img.cover:hover {
+  opacity: 1;
 }
 
 .gallery-preview {
@@ -54,50 +55,49 @@ a.gallery-item:hover {
   text-align: center;
 }
 
-img.cover {
-  opacity: 0.5;
-  width: 100%;
-  object-fit: cover;
-}
-
 h1.gallery-item-title {
   font-size: 1rem;
-  margin: 1rem;
-  overflow-wrap: anywhere;
-  // overflow: hidden;
-  // text-overflow: ellipsis;
+  margin: 1rem 0.5rem 0.5rem;
 }
 
-/* Year (tag) styling */
-em {
+.gallery-preview em {
   margin: 0 0 0.5rem;
   font-style: normal;
   font-size: 0.9rem;
 }
 
-/*-- gallery --*/
+/* Responsive Gallery */
+@media (max-width: 1200px) {
+  a.gallery-item {
+    flex: 1 1 45%;
+  }
+}
 
+@media (max-width: 768px) {
+  a.gallery-item {
+    flex: 1 1 100%;
+  }
+}
 
-/* Overriding archives */
+@media (max-width: 576px) {
+  a.gallery-item {
+    flex: 1 1 100%;
+    margin-bottom: 1rem;
+  }
+}
+
+/* Archives */
 #archives .year {
   height: 3rem;
   font-size: 1.32rem;
 }
 
-/*-- archives --*/
-
-/* Overriding toolbar */
+/* Toolbar */
 .profile-wrapper {
   margin-bottom: 1rem;
 }
 
-/*-- toolbar --*/
-
-/* Overwrite bootstrap tooltip */
+/* Bootstrap tooltip */
 .tooltip-inner {
   white-space: pre-wrap;
 }
-
-/* -- tooltip --*/
-
-@import 'updates';

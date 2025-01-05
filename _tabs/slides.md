@@ -26,7 +26,7 @@ order: 5
                     {% endif %}
                     <a class="gallery-item" href="{{ finalUrl }}" target="_blank">
                         <div class="gallery-preview">
-                            <img class="cover" src="/assets/img/slides_cover/{{ slide.cover | relative_url }}" alt="{{ slide.title }}" />
+                            <img class="cover" src="/assets/img/slides_cover/{{ slide.cover | relative_url }}" alt="{{ slide.title }}" loading="lazy" />
                             <h1 class="gallery-item-title">{{ slide.title }}</h1>
                             <em>{{ slide.date | date: "%b %d, %Y" }}</em>
                         </div>
