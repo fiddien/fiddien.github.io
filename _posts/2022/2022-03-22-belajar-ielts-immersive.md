@@ -7,7 +7,7 @@ tags:
   - ielts
   - study
 languages: 🇮🇩
-pin: true
+pin: false
 front: true
 toc: true
 comments: false
