@@ -1,0 +1,32 @@
+---
+layout: default
+refactor: true
+panel_includes:
+  - toc
+script_includes:
+  - comment
+---
+
+{% include lang.html %}
+
+{% include toc-status.html %}
+
+<article class="px-1">
+    <div class="row">
+        <div class="post {{ padding | strip }} px-md-2">
+            {% assign tab_key = page.title | downcase %}
+            {% assign title = site.data.locales[lang].tabs[tab_key] | default: page.title %}
+            <h1 class="dynamic-title">
+            {{ title }}
+            </h1>
+            Under construction.
+            <div id="gallery">
+                {% for project in site.projects %}
+                  <a class="gallery-item" href="{{ project.url | relative_url }}">
+                    <h1 class="gallery-item-title">{{ project.title }}</h1>
+                  </a>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</article>
