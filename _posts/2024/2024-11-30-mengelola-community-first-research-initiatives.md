@@ -19,7 +19,7 @@ image :
   path: https://miro.medium.com/v2/resize:fit:798/1*k4XVOT5tyqfF5-sFkHB4Ew.png
 ---
 
-Pada suatu sore di bulan Juli 2024, sebuah tanggung jawab baru diletakkan di pundak saya: menjadi direktur sebuah lembaga *think tank* informal yang berfokus pada pengembangan pemikiran Islam integratif: [Afkar Institute](http://read.afkarinstitute.org/). Setelah sembilan bulan berkutat dengan manajemen operasional digital dan administrasi sebagai sekretarisnya, saya kini dihadapkan pada tantangan yang jauh lebih besar:
+Pada suatu sore di bulan Juli 2024, sebuah tanggung jawab baru diletakkan di pundak saya: menjadi direktur sebuah lembaga *think tank* informal yang berfokus pada pengembangan pemikiran Islam integratif: [Afkar Institute](https://read.afkarinstitute.org/). Setelah sembilan bulan berkutat dengan manajemen operasional digital dan administrasi sebagai sekretarisnya, saya kini dihadapkan pada tantangan yang jauh lebih besar:
 
 Bagaimana caranya menciptakan dampak dari suatu organisasi berbasis gerakan intelektual *at its nascent state*?
 
