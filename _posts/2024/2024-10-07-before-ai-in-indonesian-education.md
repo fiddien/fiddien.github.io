@@ -20,7 +20,7 @@ image :
   path: https://miro.medium.com/v2/resize:fit:798/0*nt1baT3jF6hlU4cu
 ---
 
-As [promised](/ai-in-indonesian-education-intro), now we’re talking about AI in Education (and later — a promise again, *duh —* AI Education).
+As [promised](/posts/ai-in-indonesian-education-intro), now we’re talking about AI in Education (and later — a promise again, *duh —* AI Education).
 
 BUT! Before we go deep into the talk of AI and its potential, let’s take a hard look at where we stand:
 
