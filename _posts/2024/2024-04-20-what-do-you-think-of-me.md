@@ -5,8 +5,8 @@ categories:
   - "Reflections & Essays"
 tags:
   - contemplation
-  - self-discovery
-  - self-awareness
+  - self-knowledge
+  - self-knowledge
 languages: 🇬🇧
 pin: false
 toc: true

@@ -4,9 +4,9 @@ date: 2024-02-20
 categories:
   - "Personal & Professional Development"
 tags:
+  - reflecting
   - growth
-  - self-discovery
-  - self-reflection
+  - self-knowledge
   - prayer
 languages: 🇬🇧
 pin: false

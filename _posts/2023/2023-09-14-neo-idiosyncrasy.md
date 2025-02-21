@@ -4,7 +4,7 @@ date: 2023-09-14
 categories:
   - "Reflections & Essays"
 tags:
-  - self-realisation
+  - reflecting
   - change
   - solitude
 languages: 🇬🇧
