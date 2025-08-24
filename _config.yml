@@ -22,7 +22,7 @@ description: >- # used by seo meta and the atom feed
   A literacy collection of Ilma Aliya Fiddien. Discovering meaning and applying virtues.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://fiddien.com"
+url: "https://fiddien.github.io"
 
 github:
   username: fiddien
