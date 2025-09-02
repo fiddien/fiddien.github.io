@@ -39,7 +39,7 @@ Rasa kepalsuan tersebut tidak mengenakkan. Mungkin ini adalah campuran rasa malu
 
 Secara sengaja, kutinggalkan aktivitas menulis selama beberapa kuartal. Aku tidak ingin bertemu si penulis palsu.
 
-Tak heran, kepalaku penuh lagi, atau, dalam bahasa yang kugunakan saat itu: [absen dari kesadaran](/posts/absence-of-mind/).
+Tak heran, kepalaku penuh lagi, atau, dalam bahasa yang kugunakan saat itu: absen dari kesadaran.
 
 ![feet and spring is coming](feet.jpg)
 
