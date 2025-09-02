@@ -7,7 +7,15 @@ order: 0
 {% include lang.html %}
 
 <p>
-    Ilma Aliya Fiddien is a student of life, a writer in leisure, and (currently) an AI engineer. Her interests are in artificial intelligence, machine learning, natural language processing, and the intersection of technology, society, and personal growth. She writes in <a href="/"><i class="fas fa-pen-square fa-fw"></i> this blog</a> and <a href="https://fiddien.medium.com" target="_blank"><i class="fab fa-medium fa-fw"></i> Medium</a> to reflect from her experiences and to cristalise what she has learned.
+    Ilma Aliya Fiddien is an AI engineer and aspiring scholar exploring the intersections of artificial intelligence, Islamic thought, and educational philosophy. Based in Jakarta, she works in practical AI applications while pursuing deeper questions about how traditional Islamic scholarship might inform contemporary technological challenges, particularly in AI ethics and safety.
+</p>
+
+<p>
+    She holds a bachelor's degree in Mathematics from Institut Teknologi Bandung and an MSc in Speech and Language Processing from the University of Edinburgh. As what Mortimer Adler would call a "demanding reader," she engages seriously with both technical and philosophical literature, seeking to bridge different knowledge traditions. Her recent work includes experimental research on AI debate mechanisms, reflections on Islamic educational philosophy in technological contexts, and explorations of responsible AI development.
+</p>
+
+<p>
+    She writes in <a href="/"><i class="fas fa-pen-square fa-fw"></i> this blog</a> to crystallize her learning and contribute to conversations about technology, ethics, and human flourishing. Her academic work can be found on <a href="https://independent.academia.edu/IlmaAliyaFiddien" target="_blank"><i class="ai ai-academia fa-fw"></i> Academia</a>.
 </p>
 
 
