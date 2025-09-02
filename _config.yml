@@ -14,12 +14,12 @@ timezone: Asia/Jakarta
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Towards Virtue # the main title
+title: Ilma Aliya Fiddien # the main title
 
-tagline: A literacy collection of Ilma Aliya Fiddien
+tagline: towards virtue
 
 description: >- # used by seo meta and the atom feed
-  A literacy collection of Ilma Aliya Fiddien. Discovering meaning and applying virtues.
+  A collection of works by Ilma Aliya Fiddien. Discovering meaning and applying virtues.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://fiddien.github.io"
@@ -27,16 +27,12 @@ url: "https://fiddien.github.io"
 github:
   username: fiddien
 
-twitter:
-  username: ilmafiddien
-
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Ilma Aliya Fiddien
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/ilmafiddien # change to your Twitter homepage
     - https://github.com/fiddien # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
