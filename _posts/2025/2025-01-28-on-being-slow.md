@@ -15,7 +15,7 @@ math: false
 mermaid: false
 front: false
 image :
-  path: https://miro.medium.com/v2/resize:fit:798/1*a6wb26k5ojyunTjjJQMtBg.jpeg
+  path: assets/img/2025/1_a6wb26k5ojyunTjjJQMtBg.jpg
 ---
 
 I have eaten up Newport’s idea since, well, start of college. It started with Thomas Frank Youtube channel who recommended one of the computer scientist’s book, *How to Win at College*. Long story short, eight years later, I didn’t *win* that kind of “win” at college. I survived, at least. People don’t just absorb advice and apply. I have to learned it myself. But, yeah. Thank God.
@@ -32,7 +32,7 @@ Because being productive *entails* accomplishment. Being accomplished *should* b
 
 And I am who I am. I’m mostly a knowledge worker. My value lies on producing knowledge. That might surface as a product, but it starts with churning stuffs in my brain, communicating and exchanging information and understanding with the others— not in my physical muscles (unless you count finger muscles).
 
-![](https://miro.medium.com/v2/resize:fit:798/1*a6wb26k5ojyunTjjJQMtBg.jpeg)
+![](assets/img/2025/1_a6wb26k5ojyunTjjJQMtBg.jpg)
 _Somewhere in mid-2024, followed with one of most productive semester in my life._
 
 Newport’s **slow productivity** isn’t rocket science. It’s simple. Do fewer things. Work at a natural pace. Obsess over quality. That’s it (which is a kind of disappointment that his idea is not *sophisticated* enough haha — but he argues these points well). For knowledge workers with relatively high autonomy like me, it’s a framework that actually makes sense. No more pretending that shallow work counts as real productivity. Sorry, endless Zoom meetings.

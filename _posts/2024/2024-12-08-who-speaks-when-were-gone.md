@@ -14,7 +14,7 @@ math: false
 mermaid: false
 front: false
 image :
-  path: https://miro.medium.com/v2/resize:fit:798/1*FPbvYc6ofsik8jHfHPZJwg.png
+  path: assets/img/2024/1_FPbvYc6ofsik8jHfHPZJwg.png
 ---
 
 Three years ago, Hamilton’s poignant lyrics about legacy struck me:
@@ -31,7 +31,7 @@ So who’s going to tell your story?
 
 Documentation was my first answer. From middle school with a cherished camera to college with meticulous meeting notes. But here’s truth: the most precise documentation of our lives is already being written, moment by moment, by the angelic scribes — Raqib and Atid. Every word, every intention, captured without the distortions of human memory or selective editing.
 
-Yet still we document. My [quarterly Instagram summaries](https://www.instagram.com/ilmafiddien/) paint achievements in broad strokes, while raw struggles find refuge in [cryptic verses](https://fiddien.com/poems/). This digital *muhasabah*, this algorithmic accounting of life, reveals as much about the documentarian as the documented.
+Yet still we document. My [quarterly Instagram summaries](https://www.instagram.com/ilmafiddien/) paint achievements in broad strokes, while raw struggles find refuge in [cryptic verses](/poems/). This digital *muhasabah*, this algorithmic accounting of life, reveals as much about the documentarian as the documented.
 
 The paradox emerged slowly: in trying to control my narrative, I created a meta-narrative about someone obsessed with documentation. Like quantum observation affecting its subject, our attempts to record life inevitably alter it.
 
@@ -41,7 +41,7 @@ Emergence — that phenomenon where complex patterns arise from simple interacti
 
 My twelve bullet-pointed stories from 2021 exemplify this emergence. Not mere chronological markers, but crystallized moments where paths diverged. The trajectory appears algorithmic in hindsight: each decision a node in a complex graph, edges weighted by consequences I couldn’t have computed then. Mathematics to machine learning. Student activism to AI ethics. Non-committal study of Islamic thoughts to researching Islamic perspectives on artificial intelligence.
 
-![](https://miro.medium.com/v2/resize:fit:798/1*FPbvYc6ofsik8jHfHPZJwg.png)
+![](assets/img/2024/1_FPbvYc6ofsik8jHfHPZJwg.png)
 _Knowledge Domains to Research Focus: A Personal Trajectory_
 
 The coherence wasn’t planned. It emerged from persistent questions: *How do we ensure technology serves human flourishing? What does Islamic epistemology offer to questions of machine intelligence? Where do our spiritual and technical frameworks intersect?*

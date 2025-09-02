@@ -16,7 +16,7 @@ math: false
 mermaid: false
 front: false
 image :
-  path: https://miro.medium.com/v2/resize:fit:798/0*gH5v8b-ElY_NOQYL
+  path: /assets/img/2025/0_gH5v8b-ElY_NOQYL.jpg
 ---
 
 > And there’s a million things I haven’t done…
@@ -33,10 +33,9 @@ Then for years, upon understanding the importance of using proper terms in any k
 
 But I also value giving an idea, concept, initiative, and even a spark of creativity a proper elucidation — giving it enough room to breathe, offering it a proper stage to shine.
 
-![](https://miro.medium.com/v2/resize:fit:420/1*o5fMHrmxQwB1fYu4KHwekg.png)
-_Concerned?_
+So. Usually, I have 2 times more writing drafts than that of published ones.
 
-I’d like to think of these numbers on my Medium dashboard as a continuous engagement with ideas, not of plain incompletion. Think of it as a dialogue with understanding itself, not an abandoned thought. In the writing world, we often discover that some thoughts need more time to mature. Like a seed grows into a sapling, then grows into a tree.
+I’d like to think of these numbers on my Medium dashboard as a continuous engagement with ideas, not of plain incompletion. It is as a dialogue with understanding itself, not an abandoned thought. In the writing world, we often discover that some thoughts need more time to mature. Like a seed grows into a sapling, then grows into a tree.
 
 I believe that this is one of the most honest forms of intellectual engagement. The very act of wrestling with your fleeting thoughts — of attempting to capture their essence in words — often yields insights far more valuable than the finished product itself.
 
@@ -58,7 +57,7 @@ such that we flourish as thinking, articulate beings.
 
 ## Attack: Using the Wrong Reward
 
-![](https://miro.medium.com/v2/resize:fit:798/0*gH5v8b-ElY_NOQYL)
+![](/assets/img/2025/0_gH5v8b-ElY_NOQYL.jpg)
 _Photo by [Julian Christ](https://unsplash.com/@julianchrist?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral)_
 
 On the other side,
@@ -75,4 +74,4 @@ The true irony lies in how this system has hijacked not just our neurochemistry 
 
 Yet here I sit, contemplating this very dynamic through a draft that refuses to conform to these pressures — a small act of rebellion against the tyranny of the immediate. I feel there’s a certain power in choosing to let thoughts ripen in the quiet spaces between publications, even as the digital world’s slot machine keeps spinning, promising rewards for those who play by its rules.
 
-The platform’s notification bell of misguided rewards rings like Pavlov’s, but I believe wisdom lies in learning to let it ring unseen or unanswered when circumstances are appropriate. We can always choose and condition ourselves to instead remain engaged with a more meaningful dialogue, either in our ruminations or in a genuine human conversation.
+While the social media platform’s notification bell of misguided rewards rings like Pavlov’s, I believe wisdom lies in learning to let it ring unseen or unanswered when circumstances are appropriate. We can always choose and condition ourselves to instead remain engaged with a more meaningful dialogue, either in our ruminations or in a genuine human conversation.
