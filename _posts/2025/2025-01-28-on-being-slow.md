@@ -45,7 +45,7 @@ Working with AI has taught me something funny about human cognition. Our tools g
 
 I would like to say that in this AI-accelerated world, our human-paced thinking isn’t a *bug* — it’s a *feature*. **Contemplative robustness** doesn’t come from matching machine speed. It comes from embracing our maddeningly slow, wonderfully thorough human way of understanding things. Sometimes that means spending an entire day, entire week, even entire year on a single concept, turning it over and over until it clicks.
 
-Just like how I once cried over my slowness in understanding before a multivariable calculus exam — which somehow now feels like a piece of cake when [learning deep learning stuffs](https://fiddien.com/assets/pdf/slides/2023-Indonesia_AI-Mathematics_in_Deep_Learning_Backward_Pass.pdf). (warning: it’s a link to a PDF file)
+Just like how I once cried over my slowness in understanding before a multivariable calculus exam — which somehow now feels like a piece of cake when [learning deep learning stuffs](/assets/pdf/slides/2023-Indonesia_AI-Mathematics_in_Deep_Learning_Backward_Pass.pdf). (warning: it’s a link to a PDF file)
 
 And I think that’s perfectly fine.
 
