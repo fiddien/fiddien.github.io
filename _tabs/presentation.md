@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Slides
+title: Presentations
 icon: fas fa-floppy-disk
 order: 5
 ---
@@ -13,7 +13,7 @@ order: 5
             <h1 class="dynamic-title">
             {{ title }}
             </h1>
-            The slides files I presented in various occassions. The contents are my liability and are not representative of any entity mentioned.
+            The slides I presented in various occassions. The contents are my liability and are not representative of any entity mentioned.
             <div id="gallery">
                 {% for slide in site.data.slides %}
                     {% capture slideUrl %}{{ slide.src }}{% endcapture %}
