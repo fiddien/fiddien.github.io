@@ -23,7 +23,7 @@ Fokus kontribusi saya meliputi:
 - Pengembangan karir di bidang AI
 - Persiapan studi lanjut (S2) dan pendaftaran beasiswa
 
-Untuk informasi lebih lanjut tentang karya dan pemikiran saya, lihat [presentasi yang pernah saya berikan](/slides/) atau navigasi ke berbagai tempat di website ini.
+Untuk informasi lebih lanjut tentang karya dan pemikiran saya, lihat [presentasi yang pernah saya berikan](/presentation/) atau navigasi ke berbagai tempat di website ini.
 
 ## Kolaborasi yang Efektif
 
